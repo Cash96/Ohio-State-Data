@@ -1,0 +1,546 @@
+{
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "PE",
+                  "objectiveTitle": "Perceiving/Knowing",
+                  "objectiveDescription": "Observe, listen, attend to, discriminate.",
+                  "expectations": [
+                    {
+                      "expectationID": "1PE",
+                      "expectationDescription": "Describe the meaning in the marks they make on paper."
+                    },
+                    {
+                      "expectationID": "2PE",
+                      "expectationDescription": "Name and point out subject matter and details observed in works of art."
+                    },
+                    {
+                      "expectationID": "3PE",
+                      "expectationDescription": "Describe different ways that an artwork expresses an emotion or mood."
+                    },
+                    {
+                      "expectationID": "4PE",
+                      "expectationDescription": "Distinguish between common visual art forms (e.g., painting, drawing, sculpture)."
+                    },
+                    {
+                      "expectationID": "5PE",
+                      "expectationDescription": "Identify and name materials used in visual art."
+                    },
+                    {
+                      "expectationID": "6PE",
+                      "expectationDescription": "Recognize and point out basic elements of art in their own artworks and that of others."
+                    },
+                    {
+                      "expectationID": "7PE",
+                      "expectationDescription": "Explore their environments and experiences for artmaking ideas."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "PR",
+                  "objectiveTitle": "Producing/Performing",
+                  "objectiveDescription": "Generate, create, realize, use & master skills.",
+                  "expectations": [
+                    {
+                      "expectationID": "1PR",
+                      "expectationDescription": "Explore and experiment with a range of art materials and tools to create and communicate personal meaning."
+                    },
+                    {
+                      "expectationID": "2PR",
+                      "expectationDescription": "Generate ideas and images for artwork based on observation, memory, imagination, and experience."
+                    },
+                    {
+                      "expectationID": "3PR",
+                      "expectationDescription": "Discover, select and combine art and design elements to communicate subject matter in various visual forms."
+                    },
+                    {
+                      "expectationID": "4PR",
+                      "expectationDescription": "Reduce objects into basic shapes and lines in relation to the whole image."
+                    },
+                    {
+                      "expectationID": "5PR",
+                      "expectationDescription": "Engage in artmaking that explores and combines various forms of symbolic representation including words, symbols, images, music, and movement."
+                    },
+                    {
+                      "expectationID": "6PR",
+                      "expectationDescription": "Create artwork that explores a central theme across disciplines."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "RE",
+                  "objectiveTitle": "Responding/Reflecting",
+                  "objectiveDescription": "Make connections, reconsider, question, self-assess.",
+                  "expectations": [
+                    {
+                      "expectationID": "1RE",
+                      "expectationDescription": "Describe their artworks and efforts and share their artmaking processes."
+                    },
+                    {
+                      "expectationID": "2RE",
+                      "expectationDescription": "Show confidence and pride in their artistic accomplishments."
+                    },
+                    {
+                      "expectationID": "3RE",
+                      "expectationDescription": "Connect their personal experiences to what they see in works of art."
+                    },
+                    {
+                      "expectationID": "4RE",
+                      "expectationDescription": "Communicate the ideas and stories they see in works of art."
+                    },
+                    {
+                      "expectationID": "5RE",
+                      "expectationDescription": "Describe what they see and feel in selected works of art."
+                    },
+                    {
+                      "expectationID": "6RE",
+                      "expectationDescription": "Recognize and point out the similarities and differences between artistic styles."
+                    },
+                    {
+                      "expectationID": "7RE",
+                      "expectationDescription": "Recognize that people have different opinions and responses to works of art."
+                    },
+                    {
+                      "expectationID": "8RE",
+                      "expectationDescription": "Consider and talk about why people make and enjoy works of art."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Art Observation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Describing Marks",
+                      "sSID": "PE.1PE",
+                      "sectionDescription": "Describe the meaning in the marks they make on paper."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Observing and Naming Details",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Subject Matter and Details",
+                      "sSID": "PE.2PE",
+                      "sectionDescription": "Name and point out subject matter and details observed in works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Expressing Emotions through Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art and Emotions",
+                      "sSID": "PE.3PE",
+                      "sectionDescription": "Describe different ways that an artwork expresses an emotion or mood."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Understanding Visual Art Forms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Common Art Forms",
+                      "sSID": "PE.4PE",
+                      "sectionDescription": "Distinguish between common visual art forms such as painting, drawing, and sculpture."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Materials in Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art Materials",
+                      "sSID": "PE.5PE",
+                      "sectionDescription": "Identify and name materials used in visual art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Basic Elements of Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Elements of Art",
+                      "sSID": "PE.6PE",
+                      "sectionDescription": "Recognize and point out basic elements of art in their own artworks and that of others."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Exploring Art Ideas",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Environment and Experience",
+                      "sSID": "PE.7PE",
+                      "sectionDescription": "Explore their environments and experiences for artmaking ideas."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Experimenting with Art Materials",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Range of Materials",
+                      "sSID": "PR.1PR",
+                      "sectionDescription": "Explore and experiment with a range of art materials and tools to create and communicate personal meaning."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Generating Art Ideas",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sources of Ideas",
+                      "sSID": "PR.2PR",
+                      "sectionDescription": "Generate ideas and images for artwork based on observation, memory, imagination, and experience."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Combining Art Elements",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art and Design Elements",
+                      "sSID": "PR.3PR",
+                      "sectionDescription": "Discover, select and combine art and design elements to communicate subject matter in various visual forms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Basic Shapes and Lines",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reducing Objects",
+                      "sSID": "PR.4PR",
+                      "sectionDescription": "Reduce objects into basic shapes and lines in relation to the whole image."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Symbolic Representation in Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Symbols and Art",
+                      "sSID": "PR.5PR",
+                      "sectionDescription": "Engage in artmaking that explores and combines various forms of symbolic representation including words, symbols, images, music, and movement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Exploring Themes Across Disciplines",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Central Themes",
+                      "sSID": "PR.6PR",
+                      "sectionDescription": "Create artwork that explores a central theme across disciplines."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Describing Artworks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art Descriptions",
+                      "sSID": "RE.1RE",
+                      "sectionDescription": "Describe their artworks and efforts and share their artmaking processes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Artistic Accomplishments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Confidence in Art",
+                      "sSID": "RE.2RE",
+                      "sectionDescription": "Show confidence and pride in their artistic accomplishments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Connecting Art and Experience",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Personal Experiences",
+                      "sSID": "RE.3RE",
+                      "sectionDescription": "Connect their personal experiences to what they see in works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Communicating Ideas in Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ideas and Stories",
+                      "sSID": "RE.4RE",
+                      "sectionDescription": "Communicate the ideas and stories they see in works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Art Observations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Seeing and Feeling in Art",
+                      "sSID": "RE.5RE",
+                      "sectionDescription": "Describe what they see and feel in selected works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Artistic Styles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Styles in Art",
+                      "sSID": "RE.6RE",
+                      "sectionDescription": "Recognize and point out the similarities and differences between artistic styles."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Different Opinions in Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Opinions on Art",
+                      "sSID": "RE.7RE",
+                      "sectionDescription": "Recognize that people have different opinions and responses to works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Understanding Why People Make Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Purpose of Art",
+                      "sSID": "RE.8RE",
+                      "sectionDescription": "Consider and talk about why people make and enjoy works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Exploring and Experimenting with Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Materials and Tools",
+                      "sSID": "PR.1PR",
+                      "sectionDescription": "Further exploration and experimentation with a range of art materials and tools."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Generating New Ideas",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Observation and Imagination",
+                      "sSID": "PR.2PR",
+                      "sectionDescription": "Generate new ideas and images for artwork based on observation and imagination."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Combining Elements",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Design Elements",
+                      "sSID": "PR.3PR",
+                      "sectionDescription": "Combine art and design elements to create visual forms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Using Basic Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Shapes and Lines",
+                      "sSID": "PR.4PR",
+                      "sectionDescription": "Further practice in reducing objects to basic shapes and lines."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Exploring Symbolism",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Symbols and Meaning",
+                      "sSID": "PR.5PR",
+                      "sectionDescription": "Engage in artmaking that explores various forms of symbolic representation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Creating Thematic Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Themes Across Disciplines",
+                      "sSID": "PR.6PR",
+                      "sectionDescription": "Create artwork exploring a central theme across disciplines."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Reflecting on Art Processes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art Processes",
+                      "sSID": "RE.1RE",
+                      "sectionDescription": "Describe and reflect on their artmaking processes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Building Artistic Confidence",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Artistic Pride",
+                      "sSID": "RE.2RE",
+                      "sectionDescription": "Show confidence and pride in their artistic accomplishments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Connecting Art to Life",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art and Experience",
+                      "sSID": "RE.3RE",
+                      "sectionDescription": "Connect personal experiences to what they see in works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Storytelling through Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ideas and Stories",
+                      "sSID": "RE.4RE",
+                      "sectionDescription": "Communicate the ideas and stories they see in works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Advanced Art Observations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Seeing and Feeling",
+                      "sSID": "RE.5RE",
+                      "sectionDescription": "Describe what they see and feel in selected works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Review and Reflect on Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Artistic Styles",
+                      "sSID": "RE.6RE",
+                      "sectionDescription": "Recognize and discuss artistic styles, similarities, and differences."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Planning Final Projects",
+                      "sSID": "PE, PR, RE",
+                      "sectionDescription": "Begin planning final art projects incorporating various concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Final Projects",
+                      "sSID": "PE, PR, RE",
+                      "sectionDescription": "Develop and create final art projects with guidance and support."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Project Presentation and Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "PE, PR, RE",
+                      "sectionDescription": "Students present their final projects to the class, explaining their work and what they learned."
+                    }
+                  ]
+                }
+              ]
+            }

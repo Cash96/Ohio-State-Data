@@ -1,0 +1,530 @@
+{
+  "subjectID": "Visual Art",
+  "subjectTitle": "Visual Art",
+  "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+  "objectives": [
+    {
+      "objectiveID": "VA.3-PE",
+      "objectiveTitle": "Perceiving/Knowing",
+      "objectiveDescription": "Observe, listen, attend to, discriminate",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Observe and compare similar themes, subject matter and images in artworks from historical and contemporary eras."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Identify the relationships between and among selected elements and principles of art and design."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Use historical and cultural artworks to answer questions about daily life."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Recognize selected artists who contributed to the cultural heritages of the people of the United States."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Provide examples of how we encounter art and artists in everyday life."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Recognize and identify choices that give meaning to a personal work of art."
+        }
+      ]
+    },
+    {
+      "objectiveID": "VA.3-PR",
+      "objectiveTitle": "Producing/Performing",
+      "objectiveDescription": "Generate, create, realize, use & master skills",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Demonstrate skill and expression in the use of art techniques and processes."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Use appropriate visual art vocabulary during artmaking processes."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Find and solve problems of personal relevance and interest when developing artmaking ideas."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Create artworks that demonstrate awareness of two- and three-dimensional space."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Show increasing attention to the nuances of elements and principles of design when creating personal works of art."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Collaborate with others to create a work of art that addresses an interdisciplinary theme."
+        }
+      ]
+    },
+    {
+      "objectiveID": "VA.3-RE",
+      "objectiveTitle": "Responding/Reflecting",
+      "objectiveDescription": "Make connections, reconsider, question, self-assess",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Examine and describe how art and design principles are used by artists to create visual effects."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Select an object an explain reasons why they think it is a work of art."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Compare and contrast their opinions of a work of art with those of their peers."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Identify artworks from their communities or regions and communicate how they reflect social influences and cultural traditions."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Use feedback and self-assessment to improve the quality of personal artworks."
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "week#": "1",
+      "title": "Introduction to Art Observation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Comparing Artworks",
+          "sSID": "VA.3-PE.1",
+          "sectionDescription": "Observe and compare similar themes, subject matter and images in artworks from historical and contemporary eras."
+        }
+      ]
+    },
+    {
+      "week#": "2",
+      "title": "Elements and Principles of Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Elements and Principles",
+          "sSID": "VA.3-PE.2",
+          "sectionDescription": "Identify the relationships between and among selected elements and principles of art and design."
+        }
+      ]
+    },
+    {
+      "week#": "3",
+      "title": "Historical and Cultural Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art in Daily Life",
+          "sSID": "VA.3-PE.3",
+          "sectionDescription": "Use historical and cultural artworks to answer questions about daily life."
+        }
+      ]
+    },
+    {
+      "week#": "4",
+      "title": "Artists of the United States",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Contributing Artists",
+          "sSID": "VA.3-PE.4",
+          "sectionDescription": "Recognize selected artists who contributed to the cultural heritages of the people of the United States."
+        }
+      ]
+    },
+    {
+      "week#": "5",
+      "title": "Art in Everyday Life",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Encountering Art",
+          "sSID": "VA.3-PE.5",
+          "sectionDescription": "Provide examples of how we encounter art and artists in everyday life."
+        }
+      ]
+    },
+    {
+      "week#": "6",
+      "title": "Personal Expression in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Giving Meaning to Art",
+          "sSID": "VA.3-PE.6",
+          "sectionDescription": "Recognize and identify choices that give meaning to a personal work of art."
+        }
+      ]
+    },
+    {
+      "week#": "7",
+      "title": "Art Techniques and Processes",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Skill and Expression",
+          "sSID": "VA.3-PR.1",
+          "sectionDescription": "Demonstrate skill and expression in the use of art techniques and processes."
+        }
+      ]
+    },
+    {
+      "week#": "8",
+      "title": "Art Vocabulary",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Art Vocabulary",
+          "sSID": "VA.3-PR.2",
+          "sectionDescription": "Use appropriate visual art vocabulary during artmaking processes."
+        }
+      ]
+    },
+    {
+      "week#": "9",
+      "title": "Developing Art Ideas",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Personal Relevance",
+          "sSID": "VA.3-PR.3",
+          "sectionDescription": "Find and solve problems of personal relevance and interest when developing artmaking ideas."
+        }
+      ]
+    },
+    {
+      "week#": "10",
+      "title": "Two-Dimensional Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Awareness of Space",
+          "sSID": "VA.3-PR.4",
+          "sectionDescription": "Create artworks that demonstrate awareness of two-dimensional space."
+        }
+      ]
+    },
+    {
+      "week#": "11",
+      "title": "Three-Dimensional Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating in 3D",
+          "sSID": "VA.3-PR.4",
+          "sectionDescription": "Create artworks that demonstrate awareness of three-dimensional space."
+        }
+      ]
+    },
+    {
+      "week#": "12",
+      "title": "Elements and Principles in Design",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Design Elements",
+          "sSID": "VA.3-PR.5",
+          "sectionDescription": "Show increasing attention to the nuances of elements and principles of design when creating personal works of art."
+        }
+      ]
+    },
+    {
+      "week#": "13",
+      "title": "Collaborative Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Together",
+          "sSID": "VA.3-PR.6",
+          "sectionDescription": "Collaborate with others to create a work of art that addresses an interdisciplinary theme."
+        }
+      ]
+    },
+    {
+      "week#": "14",
+      "title": "Art and Visual Effects",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Visual Effects in Art",
+          "sSID": "VA.3-RE.1",
+          "sectionDescription": "Examine and describe how art and design principles are used by artists to create visual effects."
+        }
+      ]
+    },
+    {
+      "week#": "15",
+      "title": "What is Art?",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Defining Art",
+          "sSID": "VA.3-RE.2",
+          "sectionDescription": "Select an object and explain reasons why they think it is a work of art."
+        }
+      ]
+    },
+    {
+      "week#": "16",
+      "title": "Art Opinions",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Comparing Opinions",
+          "sSID": "VA.3-RE.3",
+          "sectionDescription": "Compare and contrast their opinions of a work of art with those of their peers."
+        }
+      ]
+    },
+    {
+      "week#": "17",
+      "title": "Community Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art in Communities",
+          "sSID": "VA.3-RE.4",
+          "sectionDescription": "Identify artworks from their communities or regions and communicate how they reflect social influences and cultural traditions."
+        }
+      ]
+    },
+    {
+      "week#": "18",
+      "title": "Improving Artworks",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Feedback",
+          "sSID": "VA.3-RE.5",
+          "sectionDescription": "Use feedback and self-assessment to improve the quality of personal artworks."
+        }
+      ]
+    },
+    {
+      "week#": "19",
+      "title": "Art History Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Historical Themes",
+          "sSID": "VA.3-PE",
+          "sectionDescription": "Review historical themes and subject matter in artworks."
+        }
+      ]
+    },
+    {
+      "week#": "20",
+      "title": "Elements and Principles Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Design Principles",
+          "sSID": "VA.3-PE.2",
+          "sectionDescription": "Revisit the relationships between and among selected elements and principles of art and design."
+        }
+      ]
+    },
+    {
+      "week#": "21",
+      "title": "Art in Daily Life Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Cultural Artworks",
+          "sSID": "VA.3-PE.3",
+          "sectionDescription": "Review how historical and cultural artworks answer questions about daily life."
+        }
+      ]
+    },
+    {
+      "week#": "22",
+      "title": "Contributing Artists Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Recognized Artists",
+          "sSID": "VA.3-PE.4",
+          "sectionDescription": "Review artists who contributed to the cultural heritages of the people of the United States."
+        }
+      ]
+    },
+    {
+      "week#": "23",
+      "title": "Art Encounter Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Everyday Art",
+          "sSID": "VA.3-PE.5",
+          "sectionDescription": "Review examples of how we encounter art and artists in everyday life."
+        }
+      ]
+    },
+    {
+      "week#": "24",
+      "title": "Personal Expression Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Meaning in Art",
+          "sSID": "VA.3-PE.6",
+          "sectionDescription": "Review choices that give meaning to a personal work of art."
+        }
+      ]
+    },
+    {
+      "week#": "25",
+      "title": "Technique Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Techniques",
+          "sSID": "VA.3-PR.1",
+          "sectionDescription": "Review skills and expressions in the use of art techniques and processes."
+        }
+      ]
+    },
+    {
+      "week#": "26",
+      "title": "Art Vocabulary Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Vocabulary",
+          "sSID": "VA.3-PR.2",
+          "sectionDescription": "Review the use of appropriate visual art vocabulary during artmaking processes."
+        }
+      ]
+    },
+    {
+      "week#": "27",
+      "title": "Developing Ideas Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Ideas",
+          "sSID": "VA.3-PR.3",
+          "sectionDescription": "Review finding and solving problems of personal relevance and interest when developing artmaking ideas."
+        }
+      ]
+    },
+    {
+      "week#": "28",
+      "title": "Space in Art Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "2D and 3D Art",
+          "sSID": "VA.3-PR.4",
+          "sectionDescription": "Review creating artworks that demonstrate awareness of two- and three-dimensional space."
+        }
+      ]
+    },
+    {
+      "week#": "29",
+      "title": "Design Principles Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Nuances in Design",
+          "sSID": "VA.3-PR.5",
+          "sectionDescription": "Review increasing attention to the nuances of elements and principles of design when creating personal works of art."
+        }
+      ]
+    },
+    {
+      "week#": "30",
+      "title": "Collaborative Art Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Collaborative Art",
+          "sSID": "VA.3-PR.6",
+          "sectionDescription": "Review collaborating with others to create a work of art that addresses an interdisciplinary theme."
+        }
+      ]
+    },
+    {
+      "week#": "31",
+      "title": "Visual Effects Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Principles",
+          "sSID": "VA.3-RE.1",
+          "sectionDescription": "Review how art and design principles are used by artists to create visual effects."
+        }
+      ]
+    },
+    {
+      "week#": "32",
+      "title": "Defining Art Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Definition",
+          "sSID": "VA.3-RE.2",
+          "sectionDescription": "Review selecting an object and explaining reasons why it is a work of art."
+        }
+      ]
+    },
+    {
+      "week#": "33",
+      "title": "Art Opinions Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Opinions",
+          "sSID": "VA.3-RE.3",
+          "sectionDescription": "Review comparing and contrasting opinions of a work of art with those of their peers."
+        }
+      ]
+    },
+    {
+      "week#": "34",
+      "title": "Community Art Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art in Community",
+          "sSID": "VA.3-RE.4",
+          "sectionDescription": "Review artworks from their communities or regions and communicate how they reflect social influences and cultural traditions."
+        }
+      ]
+    },
+    {
+      "week#": "35",
+      "title": "Improving Artworks Review",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Self-Assessment",
+          "sSID": "VA.3-RE.5",
+          "sectionDescription": "Review using feedback and self-assessment to improve the quality of personal artworks."
+        }
+      ]
+    },
+    {
+      "week#": "36",
+      "title": "Final Art Project and Celebration",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating and Reflecting",
+          "sSID": "Final",
+          "sectionDescription": "Create a final art project that incorporates learned elements and principles, and reflect on the year's learning and achievements."
+        }
+      ]
+    }
+  ]
+}

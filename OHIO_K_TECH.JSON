@@ -1,0 +1,506 @@
+{
+              "subjectID": "Technology",
+              "subjectTitle": "Technology",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Technology/Ohios-Learning-Standards-for-Technology/The-2017-Ohio-Learning-Standards-in-Technology.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "K-2.ICT",
+                  "objectiveTitle": "Information and Communications Technology",
+                  "objectiveDescription": "The understanding and application of digital learning tools for accessing, creating, evaluating, applying and communicating ideas and information.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Identify and use appropriate digital learning tools and resources to accomplish a defined task."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Use digital learning tools and resources to locate, evaluate and use information."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Use digital learning tools and resources to construct knowledge."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Use digital learning tools and resources to communicate and disseminate information to multiple audiences."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K-2.ST",
+                  "objectiveTitle": "Society and Technology",
+                  "objectiveDescription": "The interconnectedness of technology, self, society and the natural world, specifically addressing the ethical, legal, political and global impact of technology.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Demonstrate an understanding of technology’s impact on the advancement of humanity – economically, environmentally and ethically."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Analyze the impact of communication and collaboration in both digital and physical environments."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Explain how technology, society and the individual impact one another."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K-2.DT",
+                  "objectiveTitle": "Design and Technology",
+                  "objectiveDescription": "Addresses the nature of technology to develop and improve products and systems over time to meet human/societal needs and wants through design processes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Define and describe technology, including its core concepts of systems, resources, requirements, processes, controls, optimization and trade-offs."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Identify a problem and use an engineering design process to solve the problem."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Demonstrate that solutions to complex problems require collaboration, interdisciplinary understanding and systems thinking."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Evaluate designs using functional, aesthetic and creative elements."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Digital Learning Tools",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Digital Tools",
+                      "sSID": "K-2.ICT.1",
+                      "sectionDescription": "Introduce students to various digital learning tools and resources."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Using Digital Tools for Tasks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Accomplishing Tasks",
+                      "sSID": "K-2.ICT.1",
+                      "sectionDescription": "Teach students how to use digital tools to accomplish defined tasks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Locating Information Online",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finding Information",
+                      "sSID": "K-2.ICT.2",
+                      "sectionDescription": "Use digital learning tools to locate information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Evaluating Online Information",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Evaluating Sources",
+                      "sSID": "K-2.ICT.2",
+                      "sectionDescription": "Teach students how to evaluate the reliability and usefulness of online information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Using Information",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Applying Information",
+                      "sSID": "K-2.ICT.2",
+                      "sectionDescription": "Guide students on how to use the information they have found and evaluated."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Constructing Knowledge with Digital Tools",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Building Knowledge",
+                      "sSID": "K-2.ICT.3",
+                      "sectionDescription": "Use digital tools to help students construct and organize knowledge."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Communicating with Digital Tools",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sharing Information",
+                      "sSID": "K-2.ICT.4",
+                      "sectionDescription": "Teach students how to use digital tools to communicate and share information with others."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Digital Presentations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Presentations",
+                      "sSID": "K-2.ICT.4",
+                      "sectionDescription": "Guide students on how to create digital presentations to disseminate information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Technology and Society",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Impact of Technology",
+                      "sSID": "K-2.ST.1",
+                      "sectionDescription": "Discuss how technology has impacted humanity economically, environmentally, and ethically."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Communication and Collaboration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Digital and Physical Environments",
+                      "sSID": "K-2.ST.2",
+                      "sectionDescription": "Analyze the impact of communication and collaboration in both digital and physical environments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Technology and Individual Impact",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Technology's Influence",
+                      "sSID": "K-2.ST.3",
+                      "sectionDescription": "Explain how technology, society, and the individual impact one another."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Defining Technology",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Core Concepts",
+                      "sSID": "K-2.DT.1",
+                      "sectionDescription": "Define and describe technology, including its core concepts of systems, resources, requirements, processes, controls, optimization, and trade-offs."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Identifying Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Problem-Solving with Technology",
+                      "sSID": "K-2.DT.2",
+                      "sectionDescription": "Identify a problem and use an engineering design process to solve the problem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Engineering Design Process",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Steps in Design",
+                      "sSID": "K-2.DT.2",
+                      "sectionDescription": "Learn about the steps involved in the engineering design process."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Collaboration in Design",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Teamwork in Problem-Solving",
+                      "sSID": "K-2.DT.3",
+                      "sectionDescription": "Demonstrate that solutions to complex problems require collaboration, interdisciplinary understanding, and systems thinking."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Evaluating Designs",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Assessment Criteria",
+                      "sSID": "K-2.DT.4",
+                      "sectionDescription": "Evaluate designs using functional, aesthetic, and creative elements."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Digital Storytelling",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Stories",
+                      "sSID": "K-2.ICT.4",
+                      "sectionDescription": "Use digital tools to create and share digital stories."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Technology and Environment",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Environmental Impact",
+                      "sSID": "K-2.ST.1",
+                      "sectionDescription": "Discuss the environmental impact of various technologies."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Using Search Engines",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finding Information Online",
+                      "sSID": "K-2.ICT.2",
+                      "sectionDescription": "Teach students how to use search engines to find reliable information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Design Challenge",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Problems",
+                      "sSID": "K-2.DT.2",
+                      "sectionDescription": "Engage in a design challenge to solve a real-world problem using the engineering design process."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Creating Digital Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art with Technology",
+                      "sSID": "K-2.ICT.3",
+                      "sectionDescription": "Use digital tools to create and share digital artwork."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Impact of Technology on Society",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Technology and Community",
+                      "sSID": "K-2.ST.3",
+                      "sectionDescription": "Analyze how technological advancements have impacted society and communities."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Collaborative Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Working Together",
+                      "sSID": "K-2.ST.2",
+                      "sectionDescription": "Complete a collaborative project using digital tools."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Technology Ethics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ethical Use of Technology",
+                      "sSID": "K-2.ST.1",
+                      "sectionDescription": "Discuss ethical considerations in using technology."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Digital Citizenship",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Being a Responsible User",
+                      "sSID": "K-2.ICT.4",
+                      "sectionDescription": "Teach students about digital citizenship and responsible use of technology."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Innovation and Technology",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Technological Innovations",
+                      "sSID": "K-2.DT.1",
+                      "sectionDescription": "Explore examples of technological innovations and their impact."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Reviewing Core Concepts",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review of Technology Concepts",
+                      "sSID": "K-2.DT.1",
+                      "sectionDescription": "Review the core concepts of technology learned throughout the course."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Advanced Digital Tools",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring New Tools",
+                      "sSID": "K-2.ICT.1",
+                      "sectionDescription": "Introduce and explore advanced digital learning tools."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Project Planning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Final Project Planning",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Begin planning final projects incorporating concepts from ICT, ST, and DT."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Development",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Develop and work on final projects with guidance and support."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Completing Final Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finalizing Projects",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Complete final projects and prepare for presentations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Presenting Final Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Presentations",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Students present their final projects to the class, explaining their work and what they learned."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Course Review",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Key Concepts",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Review the key concepts and lessons learned throughout the course."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Reflection on Learning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on the Year",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Reflect on personal growth and understanding of technology and its impact."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Future Learning Goals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Setting Goals",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Discuss and set future learning goals related to technology."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Course Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Celebrating Achievements",
+                      "sSID": "K-2.ICT, K-2.ST, K-2.DT",
+                      "sectionDescription": "Celebrate the achievements and learning of the year, with a focus on technology's impact and future potential."
+                    }
+                  ]
+                }
+              ]
+            }

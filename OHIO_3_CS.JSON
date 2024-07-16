@@ -1,0 +1,623 @@
+{
+  "subjectID": "Computer Science",
+  "subjectTitle": "Computer Science",
+  "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-3-CS-Standards.pdf.aspx?lang=en-US",
+  "objectives": [
+    {
+      "objectiveID": "CS",
+      "objectiveTitle": "Computing Systems",
+      "objectiveDescription": "Learning about the various components of computing systems and their functions.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Explore common components of a computing system and their function to understand and describe the role they play in a computer system."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Identify and use digital learning tools/devices to support planning, implementing, and reflecting upon a defined task."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Apply troubleshooting strategies given problems and solutions to resolve hardware and software problems."
+        }
+      ]
+    },
+    {
+      "objectiveID": "NI",
+      "objectiveTitle": "Networks and the Internet",
+      "objectiveDescription": "Understanding how networks and the internet function, including the basics of cybersecurity and the Internet of Things.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Describe how communication occurs when information is sent and received over physical or wireless paths to explain communication systems."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Recognize that every device on a network has a unique identification to share or receive information from the global community."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Explore digital safety concepts in order to explain that information can be both public and private, to determine what information can safely be shared and to know how to use passwords to protect information."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Explore and explain grade-appropriate examples of unsafe content, such as pop-ups and malicious links."
+        },
+        {
+          "expectationID": "e",
+          "expectationDescription": "Describe how devices send and receive information over physical or wireless paths to identify how information is transmitted."
+        },
+        {
+          "expectationID": "f",
+          "expectationDescription": "Define intelligent devices and describe the difference between smart devices and intelligent devices to identify the."
+        }
+      ]
+    },
+    {
+      "objectiveID": "DA",
+      "objectiveTitle": "Data and Analysis",
+      "objectiveDescription": "Developing skills in data collection, storage, visualization, and making inferences.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Collect quantitative data over time from multiple sources to perform various tasks."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Identify different types of information to store in different formats."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Create a chart or graph to inform a target audience about observations and data collected."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Utilize data to make predictions and discuss whether there is adequate data to make reliable predictions."
+        }
+      ]
+    },
+    {
+      "objectiveID": "ATP",
+      "objectiveTitle": "Algorithmic Thinking and Programming",
+      "objectiveDescription": "Understanding the principles of algorithmic thinking and the fundamentals of programming.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Construct and reflect on errors in an algorithm to accomplish a given task."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Define and identify a variable, a placeholder for storing a value, to understand how it is used in a multi-step process (i.e., algorithm)."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Create a program using sequences, events, loops and conditionals to solve a problem."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Decompose (i.e., break down) the steps needed or not needed (i.e., abstraction) into precise sequences of instructions to design an algorithm."
+        },
+        {
+          "expectationID": "e",
+          "expectationDescription": "Use a design process to plan the development of a program that solves problems."
+        },
+        {
+          "expectationID": "f",
+          "expectationDescription": "Using a given program known to contain errors, identify and debug errors to ensure it works."
+        }
+      ]
+    },
+    {
+      "objectiveID": "AI",
+      "objectiveTitle": "Artificial Intelligence",
+      "objectiveDescription": "Exploring the basics of artificial intelligence, including perception, reasoning, machine learning, and societal impacts.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Use different sensors, analog and digital, and discuss the difference between them."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Describe what computer perception is and how it affects computers to see how it compares to human perception."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "With guidance and support, create a classification system using a tree structure to understand how computers think."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Use AI to answer questions and describe how the answer is reasonable."
+        },
+        {
+          "expectationID": "e",
+          "expectationDescription": "Label three different machine learning approaches to identify them to see different approaches."
+        },
+        {
+          "expectationID": "f",
+          "expectationDescription": "Give examples of bias to understand what it is and how it affects machine learning."
+        },
+        {
+          "expectationID": "g",
+          "expectationDescription": "Identify tasks that use AI to perform human tasks to understand how humans rely on AI."
+        },
+        {
+          "expectationID": "h",
+          "expectationDescription": "Locate AI systems that are designed to help everyone have equal access."
+        },
+        {
+          "expectationID": "i",
+          "expectationDescription": "Define what a bias is to understand how it can influence humans."
+        }
+      ]
+    },
+    {
+      "objectiveID": "IC",
+      "objectiveTitle": "Impacts of Computing",
+      "objectiveDescription": "Examining how computing technologies influence society, culture, and individual behavior.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Identify computing technologies that have changed the world and express how those technologies influence and are influenced by cultural practice."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Identify how computing devices have built-in features to increase accessibility to all users."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Collaborate and consider diverse perspectives to improve digital artifacts."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission."
+        },
+        {
+          "expectationID": "e",
+          "expectationDescription": "Determine whether information should be shared or kept private to protect student identity."
+        },
+        {
+          "expectationID": "f",
+          "expectationDescription": "Communicate the importance of information security to protect one's own digital footprint."
+        },
+        {
+          "expectationID": "g",
+          "expectationDescription": "Explain why different types of information might need to be protected, describing common safeguards for protecting personal information."
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "week#": "1",
+      "title": "Introduction to Computing Systems",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Components of a Computing System",
+          "sSID": "CS.a",
+          "sectionDescription": "Explore common components of a computing system and their function to understand and describe the role they play in a computer system."
+        }
+      ]
+    },
+    {
+      "week#": "2",
+      "title": "Using Digital Learning Tools",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Digital Tools for Tasks",
+          "sSID": "CS.b",
+          "sectionDescription": "Identify and use digital learning tools/devices to support planning, implementing, and reflecting upon a defined task."
+        }
+      ]
+    },
+    {
+      "week#": "3",
+      "title": "Troubleshooting Techniques",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Problem-Solving Strategies",
+          "sSID": "CS.c",
+          "sectionDescription": "Apply troubleshooting strategies given problems and solutions to resolve hardware and software problems."
+        }
+      ]
+    },
+    {
+      "week#": "4",
+      "title": "Understanding Networks",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Communication Systems",
+          "sSID": "NI.a",
+          "sectionDescription": "Describe how communication occurs when information is sent and received over physical or wireless paths to explain communication systems."
+        }
+      ]
+    },
+    {
+      "week#": "5",
+      "title": "Network Identification",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Device Identification",
+          "sSID": "NI.b",
+          "sectionDescription": "Recognize that every device on a network has a unique identification to share or receive information from the global community."
+        }
+      ]
+    },
+    {
+      "week#": "6",
+      "title": "Digital Safety Concepts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Public and Private Information",
+          "sSID": "NI.c",
+          "sectionDescription": "Explore digital safety concepts in order to explain that information can be both public and private, to determine what information can safely be shared and to know how to use passwords to protect information."
+        }
+      ]
+    },
+    {
+      "week#": "7",
+      "title": "Recognizing Unsafe Content",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Unsafe Content",
+          "sSID": "NI.d",
+          "sectionDescription": "Explore and explain grade-appropriate examples of unsafe content, such as pop-ups and malicious links."
+        }
+      ]
+    },
+    {
+      "week#": "8",
+      "title": "Information Transmission",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Sending and Receiving Information",
+          "sSID": "NI.e",
+          "sectionDescription": "Describe how devices send and receive information over physical or wireless paths to identify how information is transmitted."
+        }
+      ]
+    },
+    {
+      "week#": "9",
+      "title": "Smart and Intelligent Devices",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Intelligent Devices",
+          "sSID": "NI.f",
+          "sectionDescription": "Define intelligent devices and describe the difference between smart devices and intelligent devices."
+        }
+      ]
+    },
+    {
+      "week#": "10",
+      "title": "Data Collection",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Quantitative Data",
+          "sSID": "DA.a",
+          "sectionDescription": "Collect quantitative data over time from multiple sources to perform various tasks."
+        }
+      ]
+    },
+    {
+      "week#": "11",
+      "title": "Storing Information",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Data Formats",
+          "sSID": "DA.b",
+          "sectionDescription": "Identify different types of information to store in different formats."
+        }
+      ]
+    },
+    {
+      "week#": "12",
+      "title": "Data Visualization",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Charts and Graphs",
+          "sSID": "DA.c",
+          "sectionDescription": "Create a chart or graph to inform a target audience about observations and data collected."
+        }
+      ]
+    },
+    {
+      "week#": "13",
+      "title": "Making Predictions",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Data for Predictions",
+          "sSID": "DA.d",
+          "sectionDescription": "Utilize data to make predictions and discuss whether there is adequate data to make reliable predictions."
+        }
+      ]
+    },
+    {
+      "week#": "14",
+      "title": "Constructing Algorithms",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Reflecting on Algorithms",
+          "sSID": "ATP.a",
+          "sectionDescription": "Construct and reflect on errors in an algorithm to accomplish a given task."
+        }
+      ]
+    },
+    {
+      "week#": "15",
+      "title": "Understanding Variables",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Identifying Variables",
+          "sSID": "ATP.b",
+          "sectionDescription": "Define and identify a variable, a placeholder for storing a value, to understand how it is used in a multi-step process (i.e., algorithm)."
+        }
+      ]
+    },
+    {
+      "week#": "16",
+      "title": "Programming Concepts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Programs",
+          "sSID": "ATP.c",
+          "sectionDescription": "Create a program using sequences, events, loops and conditionals to solve a problem."
+        }
+      ]
+    },
+    {
+      "week#": "17",
+      "title": "Decomposing Steps",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Abstraction and Decomposition",
+          "sSID": "ATP.d",
+          "sectionDescription": "Decompose (i.e., break down) the steps needed or not needed (i.e., abstraction) into precise sequences of instructions to design an algorithm."
+        }
+      ]
+    },
+    {
+      "week#": "18",
+      "title": "Designing Programs",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Planning Programs",
+          "sSID": "ATP.e",
+          "sectionDescription": "Use a design process to plan the development of a program that solves problems."
+        }
+      ]
+    },
+    {
+      "week#": "19",
+      "title": "Debugging Programs",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Finding and Fixing Errors",
+          "sSID": "ATP.f",
+          "sectionDescription": "Using a given program known to contain errors, identify and debug errors to ensure it works."
+        }
+      ]
+    },
+    {
+      "week#": "20",
+      "title": "Understanding Sensors",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Analog and Digital Sensors",
+          "sSID": "AI.a",
+          "sectionDescription": "Use different sensors, analog and digital, and discuss the difference between them."
+        }
+      ]
+    },
+    {
+      "week#": "21",
+      "title": "Computer Perception",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Comparing Perceptions",
+          "sSID": "AI.b",
+          "sectionDescription": "Describe what computer perception is and how it affects computers to see how it compares to human perception."
+        }
+      ]
+    },
+    {
+      "week#": "22",
+      "title": "Classification Systems",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Tree Structures",
+          "sSID": "AI.c",
+          "sectionDescription": "With guidance and support, create a classification system using a tree structure to understand how computers think."
+        }
+      ]
+    },
+    {
+      "week#": "23",
+      "title": "Answering Questions with AI",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "AI for Information",
+          "sSID": "AI.d",
+          "sectionDescription": "Use AI to answer questions and describe how the answer is reasonable."
+        }
+      ]
+    },
+    {
+      "week#": "24",
+      "title": "Machine Learning Approaches",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Identifying Approaches",
+          "sSID": "AI.e",
+          "sectionDescription": "Label three different machine learning approaches to identify them to see different approaches."
+        }
+      ]
+    },
+    {
+      "week#": "25",
+      "title": "Understanding Bias",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Recognizing Bias",
+          "sSID": "AI.f",
+          "sectionDescription": "Give examples of bias to understand what it is and how it affects machine learning."
+        }
+      ]
+    },
+    {
+      "week#": "26",
+      "title": "AI in Human Tasks",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "AI Applications",
+          "sSID": "AI.g",
+          "sectionDescription": "Identify tasks that use AI to perform human tasks to understand how humans rely on AI."
+        }
+      ]
+    },
+    {
+      "week#": "27",
+      "title": "AI for Accessibility",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Equal Access with AI",
+          "sSID": "AI.h",
+          "sectionDescription": "Locate AI systems that are designed to help everyone have equal access."
+        }
+      ]
+    },
+    {
+      "week#": "28",
+      "title": "Defining Bias",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Bias Influence",
+          "sSID": "AI.i",
+          "sectionDescription": "Define what a bias is to understand how it can influence humans."
+        }
+      ]
+    },
+    {
+      "week#": "29",
+      "title": "Impact of Computing Technologies",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Technological Influence",
+          "sSID": "IC.a",
+          "sectionDescription": "Identify computing technologies that have changed the world and express how those technologies influence and are influenced by cultural practice."
+        }
+      ]
+    },
+    {
+      "week#": "30",
+      "title": "Accessibility in Technology",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Built-in Features",
+          "sSID": "IC.b",
+          "sectionDescription": "Identify how computing devices have built-in features to increase accessibility to all users."
+        }
+      ]
+    },
+    {
+      "week#": "31",
+      "title": "Diverse Perspectives in Technology",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Collaboration and Improvement",
+          "sSID": "IC.c",
+          "sectionDescription": "Collaborate and consider diverse perspectives to improve digital artifacts."
+        }
+      ]
+    },
+    {
+      "week#": "32",
+      "title": "Ethical Use of Technology",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Public Domain and Permissions",
+          "sSID": "IC.d",
+          "sectionDescription": "Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission."
+        }
+      ]
+    },
+    {
+      "week#": "33",
+      "title": "Protecting Student Identity",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Private Information",
+          "sSID": "IC.e",
+          "sectionDescription": "Determine whether information should be shared or kept private to protect student identity."
+        }
+      ]
+    },
+    {
+      "week#": "34",
+      "title": "Information Security",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Digital Footprint",
+          "sSID": "IC.f",
+          "sectionDescription": "Communicate the importance of information security to protect one's own digital footprint."
+        }
+      ]
+    },
+    {
+      "week#": "35",
+      "title": "Safeguarding Personal Information",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Protection Methods",
+          "sSID": "IC.g",
+          "sectionDescription": "Explain why different types of information might need to be protected, describing common safeguards for protecting personal information."
+        }
+      ]
+    },
+    {
+      "week#": "36",
+      "title": "Year-End Review and Celebration",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Reflecting on Learning",
+          "sSID": "Review",
+          "sectionDescription": "Review key concepts learned throughout the year and celebrate accomplishments."
+        }
+      ]
+    }
+  ]
+}
