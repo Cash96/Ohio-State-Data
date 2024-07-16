@@ -1,0 +1,617 @@
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "hasData": true,
+      {
+          "grade": "7",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "7.ESS.1",
+                  "objectiveTitle": "The hydrologic cycle",
+                  "objectiveDescription": "The hydrologic cycle illustrates the changing states of water as it moves through the lithosphere, biosphere, hydrosphere and atmosphere.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Thermal energy is transferred as water changes state throughout the cycle. The cycling of water in the atmosphere is an important part of weather patterns on Earth. The rate at which water flows through soil and rock is dependent upon the porosity and permeability of the soil or rock."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.ESS.2",
+                  "objectiveTitle": "Thermal-energy transfers in the ocean and the atmosphere",
+                  "objectiveDescription": "Thermal-energy transfers in the ocean and the atmosphere contribute to the formation of currents, which influence global climate patterns.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The sun is the major source of energy for wind, air and ocean currents and the hydrologic cycle. As thermal energy transfers occur in the atmosphere and ocean, currents form. Large bodies of water can influence weather and climate. The jet stream is an example of an atmospheric current and the Gulf Stream is an example of an oceanic current. Ocean currents are influenced by factors other than thermal energy, such as water density, mineral content (such as salinity), ocean floor topography and Earth’s rotation. All of these factors delineate global climate patterns on Earth."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.ESS.3",
+                  "objectiveTitle": "Properties of the atmosphere",
+                  "objectiveDescription": "The atmosphere has different properties at different elevations and contains a mixture of gases that cycle through the lithosphere, biosphere, hydrosphere and atmosphere.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The atmosphere is held to the Earth by the force of gravity. There are defined layers of the atmosphere that have specific properties, such as temperature, chemical composition and physical characteristics. Gases in the atmosphere include nitrogen, oxygen, water vapor, carbon dioxide and other trace gases. Biogeochemical cycles illustrate the movement of specific elements or molecules (such as carbon or nitrogen) through the lithosphere, biosphere, hydrosphere and atmosphere."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.ESS.4",
+                  "objectiveTitle": "Celestial motions and phenomena",
+                  "objectiveDescription": "The relative patterns of motion and positions of Earth, moon and sun cause solar and lunar eclipses, tides and phases of the moon.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The moon’s orbit and its change of position relative to Earth and sun result in different parts of the moon being visible from Earth (phases of the moon)."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "A solar eclipse is when Earth moves into the shadow of the moon (during a new moon). A lunar eclipse is when the moon moves into the shadow of Earth (during a full moon)."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Gravitational force between Earth and the moon causes daily oceanic tides. When the gravitational forces from the sun and moon align (at new and full moons) spring tides occur. When the gravitational forces of the sun and moon are perpendicular (at first and last quarter moons), neap tides occur."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.ESS.5",
+                  "objectiveTitle": "Earth-sun relationships and seasons",
+                  "objectiveDescription": "The relative positions of Earth and the sun cause patterns we call seasons.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Earth’s axis is tilted at an angle of 23.5°. This tilt along with Earth’s revolution around the sun, affects the amount of direct sunlight that the earth receives in a single day and throughout the year. The average daily temperature is related to the amount of direct sunlight received."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.PS.1",
+                  "objectiveTitle": "Properties and organization of elements",
+                  "objectiveDescription": "Elements can be organized by properties.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Elements can be classified as metals, non-metals, and metalloids, and can be organized by similar properties such as color, solubility, hardness, density, conductivity, melting point and boiling point, viscosity, and malleability."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.PS.2",
+                  "objectiveTitle": "Conservation of matter in chemical reactions",
+                  "objectiveDescription": "Matter can be separated or changed, but in a closed system, the number and types of atoms remains constant.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "When substances interact and form new substances the properties of the new substances may be very different from those of the original substances, but the amount of mass does not change."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Physically combining two or more substances forms a mixture, which can be separated through physical processes."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.PS.3",
+                  "objectiveTitle": "Conservation of energy",
+                  "objectiveDescription": "Energy can be transformed or transferred but is never lost.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "When energy is transferred from one system to another, the quantity of energy before transfer equals the quantity of energy after transfer. When energy is transformed from one form to another, the total amount of energy remains the same."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.PS.4",
+                  "objectiveTitle": "Modes of energy transfer",
+                  "objectiveDescription": "Energy can be transferred through a variety of ways.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Mechanical energy can be transferred when objects push or pull on each other over a distance."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Mechanical and electromagnetic waves transfer energy when they interact with matter."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Thermal energy can be transferred through radiation, convection and conduction."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "An electrical circuit transfers energy from a source to a device."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.LS.1",
+                  "objectiveTitle": "Energy and matter flow in ecosystems",
+                  "objectiveDescription": "Energy flows and matter is transferred continuously from one organism to another and between organisms and their physical environments.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Plants use the energy in light to make sugars out of carbon dioxide and water (photosynthesis). These materials can be used or stored for later use."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Organisms that eat plants break down plant structures to release the energy and produce the materials they need to survive. The organism may then be consumed by other organisms for materials and energy."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Energy can transform from one form to another in living things. Animals get energy from oxidizing food, releasing some of its energy as heat."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "The total amount of matter and energy remains constant, even though its form and location change."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "7.LS.2",
+                  "objectiveTitle": "Interactions in biomes",
+                  "objectiveDescription": "In any particular biome, the number, growth and survival of organisms and populations depend on biotic and abiotic factors.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The variety of physical (abiotic) conditions that exists on Earth gives rise to diverse environments (biomes) and allows for the existence of a wide variety of organisms (biodiversity)."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Biomes are regional ecosystems characterized by distinct types of organisms that have developed under specific soil and climatic conditions."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Ecosystems are dynamic in nature; the number and types of species fluctuate over time. Disruptions, deliberate or inadvertent, to the physical (abiotic) or biological (biotic) components of an ecosystem impact the composition of an ecosystem."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to the Hydrologic Cycle",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Thermal Energy and Water States",
+                      "sSID": "1",
+                      "sectionDescription": "Understand how thermal energy is transferred as water changes state throughout the hydrologic cycle."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Water in the Atmosphere",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Weather Patterns",
+                      "sSID": "1",
+                      "sectionDescription": "Study the cycling of water in the atmosphere and its role in weather patterns on Earth."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Porosity and Permeability",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Water Flow Through Soil and Rock",
+                      "sSID": "1",
+                      "sectionDescription": "Learn how porosity and permeability of soil and rock affect the rate at which water flows through them."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Thermal Energy Transfers in Oceans",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ocean Currents Formation",
+                      "sSID": "1",
+                      "sectionDescription": "Explore how thermal energy transfers in the ocean contribute to the formation of ocean currents."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Atmospheric Currents",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Jet Stream",
+                      "sSID": "1",
+                      "sectionDescription": "Study the formation and influence of the jet stream as an atmospheric current."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Global Climate Patterns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Factors Influencing Climate",
+                      "sSID": "1",
+                      "sectionDescription": "Investigate how ocean currents, water density, salinity, ocean floor topography, and Earth's rotation influence global climate patterns."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Properties of the Atmosphere",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Atmospheric Layers",
+                      "sSID": "1",
+                      "sectionDescription": "Examine the defined layers of the atmosphere and their specific properties."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Gases in the Atmosphere",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Composition and Cycling",
+                      "sSID": "1",
+                      "sectionDescription": "Learn about the mixture of gases in the atmosphere and their cycling through different spheres."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Celestial Motions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Phases of the Moon",
+                      "sSID": "1",
+                      "sectionDescription": "Understand how the moon’s orbit and its position relative to Earth and sun result in different phases of the moon."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Eclipses",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solar and Lunar Eclipses",
+                      "sSID": "2",
+                      "sectionDescription": "Study solar and lunar eclipses and their causes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Tides",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Gravitational Forces",
+                      "sSID": "3",
+                      "sectionDescription": "Explore how gravitational forces between Earth and the moon cause oceanic tides and the difference between spring and neap tides."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Earth-Sun Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Tilt and Seasons",
+                      "sSID": "1",
+                      "sectionDescription": "Learn how Earth's axial tilt and revolution around the sun affect seasonal patterns."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Properties and Organization of Elements",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Classification of Elements",
+                      "sSID": "1",
+                      "sectionDescription": "Understand how elements are classified as metals, non-metals, and metalloids and organized by their properties."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Chemical Reactions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Conservation of Matter",
+                      "sSID": "1",
+                      "sectionDescription": "Study how matter is conserved during chemical reactions and the formation of new substances."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Mixtures and Separation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Physical Processes",
+                      "sSID": "2",
+                      "sectionDescription": "Learn about mixtures and how they can be separated through physical processes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Conservation of Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Transfer and Transformation",
+                      "sSID": "1",
+                      "sectionDescription": "Understand that energy can be transferred and transformed, but the total amount of energy remains constant."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Mechanical Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Transfer of Mechanical Energy",
+                      "sSID": "1",
+                      "sectionDescription": "Explore how mechanical energy is transferred when objects push or pull on each other over a distance."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Energy Transfer via Waves",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Mechanical and Electromagnetic Waves",
+                      "sSID": "2",
+                      "sectionDescription": "Learn how mechanical and electromagnetic waves transfer energy when they interact with matter."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Thermal Energy Transfer",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Radiation, Convection, and Conduction",
+                      "sSID": "3",
+                      "sectionDescription": "Understand how thermal energy can be transferred through radiation, convection, and conduction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Electrical Circuits",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Transfer in Circuits",
+                      "sSID": "4",
+                      "sectionDescription": "Study how electrical circuits transfer energy from a source to a device."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Energy Flow in Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Photosynthesis",
+                      "sSID": "1",
+                      "sectionDescription": "Understand how plants use light energy to make sugars through photosynthesis."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Organisms and Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Release and Consumption",
+                      "sSID": "2",
+                      "sectionDescription": "Learn how organisms break down plant structures to release energy and produce materials they need to survive."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Energy Transformation in Living Things",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Oxidizing Food",
+                      "sSID": "3",
+                      "sectionDescription": "Explore how animals get energy from oxidizing food and releasing energy as heat."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Conservation in Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Matter and Energy",
+                      "sSID": "4",
+                      "sectionDescription": "Understand how the total amount of matter and energy remains constant in ecosystems, even though its form and location change."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Biomes and Biodiversity",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Abiotic Factors",
+                      "sSID": "1",
+                      "sectionDescription": "Study the variety of physical conditions that give rise to diverse environments and biodiversity."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Regional Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Characterization of Biomes",
+                      "sSID": "2",
+                      "sectionDescription": "Learn about regional ecosystems characterized by distinct types of organisms developed under specific soil and climatic conditions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Dynamic Nature of Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ecosystem Changes",
+                      "sSID": "3",
+                      "sectionDescription": "Understand how ecosystems are dynamic in nature and how species fluctuate over time."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Impact of Disruptions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ecosystem Disruptions",
+                      "sSID": "3",
+                      "sectionDescription": "Study the impact of disruptions to the physical or biological components of an ecosystem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Review of the Hydrologic Cycle",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Water Cycle Overview",
+                      "sSID": "7.ESS.1",
+                      "sectionDescription": "Review the processes and importance of the hydrologic cycle."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Review of Thermal-Energy Transfers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Transfers in Oceans and Atmosphere",
+                      "sSID": "7.ESS.2",
+                      "sectionDescription": "Review how thermal energy transfers influence global climate patterns."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Review of Atmospheric Properties",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Atmosphere Composition and Layers",
+                      "sSID": "7.ESS.3",
+                      "sectionDescription": "Review the properties and composition of the atmosphere."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Review of Celestial Motions and Phenomena",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Phases, Eclipses, and Tides",
+                      "sSID": "7.ESS.4",
+                      "sectionDescription": "Review the causes and effects of celestial motions and phenomena."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Review of Earth-Sun Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Seasons and Sunlight",
+                      "sSID": "7.ESS.5",
+                      "sectionDescription": "Review how Earth's tilt and revolution around the sun cause seasonal patterns."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Review of Energy and Matter in Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Flow and Conservation",
+                      "sSID": "7.LS.1",
+                      "sectionDescription": "Review the flow of energy and matter in ecosystems and their conservation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "7.ESS",
+                      "sectionDescription": "Begin planning for a final project that incorporates learned concepts from all topics."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "7.ESS",
+                      "sectionDescription": "Present final projects to the class, demonstrating understanding of scientific concepts."
+                    }
+                  ]
+                }
+              ]
+
+            }

@@ -1,0 +1,666 @@
+	"state": "Ohio",
+	"stateID": "OH",
+	"stateInstitutionName": "Ohio Department of Education",
+	"stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+	"stateStandardAbbriv": "OLSMC",
+	"URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+	"hasData": true,
+      {
+          "grade": "6",
+          "subject": [
+			      {
+              "subjectID": "Computer Science",
+              "subjectTitle": "Computer Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-6-CS-Standards.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "CS",
+                  "objectiveTitle": "COMPUTING SYSTEMS",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "CS.D.6.a",
+                      "expectationDescription": "Identify the benefits and limitations of a given computing device's functions (including individual components) to explain how the functions and components work together to create the computing system."
+                    },
+                    {
+                      "expectationID": "CS.HS.6.a",
+                      "expectationDescription": "Identify ways that hardware and software work together as a system to collect and exchange data."
+                    },
+                    {
+                      "expectationID": "CS.T.6.a",
+                      "expectationDescription": "Use a systematic process to identify and evaluate the source of a routine computing problem. Select the best solution to solve the computing problem and communicate the solution to others."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "NI",
+                  "objectiveTitle": "NETWORKS AND THE INTERNET",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "NI.N.6.a",
+                      "expectationDescription": "Identify the role of hardware components to understand the infrastructure of networks and the internet (including cloud servers)."
+                    },
+                    {
+                      "expectationID": "NI.N.6.b",
+                      "expectationDescription": "Identify protocols (i.e., rules) and explain why they are used to transmit data across networks and the internet."
+                    },
+                    {
+                      "expectationID": "NI.C.6.a",
+                      "expectationDescription": "Identify cybersecurity concerns and measures needed to protect electronic information."
+                    },
+                    {
+                      "expectationID": "NI.C.6.b",
+                      "expectationDescription": "Identify the different types of malware to understand threats to data security."
+                    },
+                    {
+                      "expectationID": "NI.C.6.c",
+                      "expectationDescription": "Identify ways to protect private information."
+                    },
+                    {
+                      "expectationID": "NI.IOT.6.a",
+                      "expectationDescription": "Define and explore aspects of embedded devices, smart devices and intelligent devices and the way they record, observe and mimic human habits."
+                    },
+                    {
+                      "expectationID": "NI.IOT.6.b",
+                      "expectationDescription": "Identify and define blockchains to recognize how every device made has unique identifiers and the weaknesses that allow programmers and hackers to see personally identifiable information"
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "DA",
+                  "objectiveTitle": "DATA AND ANALYSIS",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "DA.DCS.6.a",
+                      "expectationDescription": "Identify and use an appropriate digital data collection tool to compile information."
+                    },
+                    {
+                      "expectationID": "DA.DCS.6.b",
+                      "expectationDescription": "Select and utilize appropriate file formats to organize collected data."
+                    },
+                    {
+                      "expectationID": "DA.DCS.6.c",
+                      "expectationDescription": "Utilize a file structure to logically organize data to support individual and collaborative work."
+                    },
+                    {
+                      "expectationID": "DA.VC.6.a",
+                      "expectationDescription": "Identify and label patterns in models or representations to infer connections between data sets."
+                    },
+                    {
+                      "expectationID": "DA.VC.6.b",
+                      "expectationDescription": "Create a spreadsheet utilizing formulas, functions and graphs to represent and analyze data."
+                    },
+                    {
+                      "expectationID": "DA.IM.6.a",
+                      "expectationDescription": "Identify and utilize data sets to support or refute a hypothesis."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "ATP",
+                  "objectiveTitle": "ALGORITHMIC THINKING AND PROGRAMMING",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "ATP.A.6.a",
+                      "expectationDescription": "Compare and refine multiple algorithms for the same task to determine which is the most efficient."
+                    },
+                    {
+                      "expectationID": "ATP.VDR.6.a",
+                      "expectationDescription": "Identify unknown values that need to be represented by a variable within a multi-step process."
+                    },
+                    {
+                      "expectationID": "ATP.VDR.6.b",
+                      "expectationDescription": "Create variables and use them within a multi-step process."
+                    },
+                    {
+                      "expectationID": "ATP.CS.6.a",
+                      "expectationDescription": "Identify and trace decisions and loops that exist in a multi-step process within a program."
+                    },
+                    {
+                      "expectationID": "ATP.M.6.a",
+                      "expectationDescription": "Decompose problems into parts to facilitate the design, implementation and review of programs."
+                    },
+                    {
+                      "expectationID": "ATP.PD.6.a",
+                      "expectationDescription": "Write code that utilizes algorithms, variables and control structures to solve problems or as a creative expression."
+                    },
+                    {
+                      "expectationID": "ATP.PD.6.b",
+                      "expectationDescription": "Test and trace to debug and refine code."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "AI",
+                  "objectiveTitle": "ARTIFICIAL INTELLIGENCE",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "AI.P.6.a",
+                      "expectationDescription": "Give examples of different types of computer perception that can extract meaning from sensory signals to understand how computers collect information from sensors."
+                    },
+                    {
+                      "expectationID": "AI.P.6.b",
+                      "expectationDescription": "Give examples of how humans combine information from multiple modalities to understand how computers use sensors to collect data."
+                    },
+                    {
+                      "expectationID": "AI.P.6.c",
+                      "expectationDescription": "Give examples of different types of computer perception that can extract meaning from sensory signals to show the connection between sensors and computer perception."
+                    },
+                    {
+                      "expectationID": "AI.P.6.d",
+                      "expectationDescription": "Classify a given image (e.g., 'traffic scene', 'nature scene', 'social gathering', etc.) and then describe the kinds of knowledge a computer would need in order to understand scenes of this type to utilize the image in an algorithm."
+                    },
+                    {
+                      "expectationID": "AI.RR.6.a",
+                      "expectationDescription": "Illustrate how a computer can solve a maze, find a route on a map or reason about concepts in a knowledge graph by drawing a search tree."
+                    },
+                    {
+                      "expectationID": "AI.ML.6.a",
+                      "expectationDescription": "Contrast the unique characteristics of human learning with the ways machine learning systems operate to identify the limitations of machine learning."
+                    },
+                    {
+                      "expectationID": "AI.ML.6.b",
+                      "expectationDescription": "Illustrate the structure of a neural network to describe how its parts form a set of functions that compute an output."
+                    },
+                    {
+                      "expectationID": "AI.NI.6.a",
+                      "expectationDescription": "Individually and collaboratively compare language processing algorithms to solve a problem based on a given criteria (e.g., time, resource, accessibility)."
+                    },
+                    {
+                      "expectationID": "AI.NI.6.b",
+                      "expectationDescription": "Identify and describe how computers mimic human behavior to better serve humans."
+                    },
+                    {
+                      "expectationID": "AI.SI.6.a",
+                      "expectationDescription": "Identify and explain how humans have control in curating training datasets to identify bias in machine learning."
+                    },
+                    {
+                      "expectationID": "AI.SI.6.b",
+                      "expectationDescription": "Identify and explain how algorithmic bias impacts artificial intelligence systems to prevent bias in future datasets."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "IC",
+                  "objectiveTitle": "IMPACTS OF COMPUTING",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "IC.Cu.6.a",
+                      "expectationDescription": "Identify the change that current technologies have on people's everyday activities to understand the impact within a society."
+                    },
+                    {
+                      "expectationID": "IC.Cu.6.b",
+                      "expectationDescription": "Identify issues of bias and accessibility in the design of existing technologies to address equality and equity in society."
+                    },
+                    {
+                      "expectationID": "IC.Cu.6.c",
+                      "expectationDescription": "Identify and explore careers related to the field of computer science."
+                    },
+                    {
+                      "expectationID": "IC.SI.6.a",
+                      "expectationDescription": "Analyze and present beneficial and harmful effects of electronic communications to understand their impacts on interpersonal, global, economic, political, business and cultural interactions."
+                    },
+                    {
+                      "expectationID": "IC.SLE.6.a",
+                      "expectationDescription": "Describe tradeoffs between allowing information to be public and keeping information private and secure to inform decision-making."
+                    },
+                    {
+                      "expectationID": "IC.SLE.6.b",
+                      "expectationDescription": "Identify the social and economic implications of privacy in the context of safety, law or ethics to understand how privacy impacts these areas."
+                    },
+                    {
+                      "expectationID": "IC.SLE.6.c",
+                      "expectationDescription": "Evaluate the development of new technologies in communication, entertainment and business to understand the impact."
+                    },
+                    {
+                      "expectationID": "IC.SLE.6.d",
+                      "expectationDescription": "Provide appropriate credit when using resources or artifacts that are not our own."
+                    },
+                    {
+                      "expectationID": "IC.SLE.6.e",
+                      "expectationDescription": "Differentiate between the appropriate and inappropriate content on the internet and identify unethical and illegal online behavior."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Computing Systems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Functions and Components",
+                      "sSID": "CS.D.6.a",
+                      "sectionDescription": "Identify the benefits and limitations of a given computing device's functions and components to explain how they work together to create the computing system."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Hardware and Software Interaction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "System Interaction",
+                      "sSID": "CS.HS.6.a",
+                      "sectionDescription": "Identify ways that hardware and software work together as a system to collect and exchange data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Troubleshooting Computing Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Systematic Problem-Solving",
+                      "sSID": "CS.T.6.a",
+                      "sectionDescription": "Use a systematic process to identify and evaluate the source of a routine computing problem, select the best solution, and communicate the solution to others."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Network Infrastructure",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Hardware Components",
+                      "sSID": "NI.N.6.a",
+                      "sectionDescription": "Identify the role of hardware components to understand the infrastructure of networks and the internet, including cloud servers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Data Transmission Protocols",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Network Protocols",
+                      "sSID": "NI.N.6.b",
+                      "sectionDescription": "Identify protocols (i.e., rules) and explain why they are used to transmit data across networks and the internet."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Cybersecurity Concerns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Protecting Electronic Information",
+                      "sSID": "NI.C.6.a",
+                      "sectionDescription": "Identify cybersecurity concerns and measures needed to protect electronic information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Understanding Malware",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Types of Malware",
+                      "sSID": "NI.C.6.b",
+                      "sectionDescription": "Identify the different types of malware to understand threats to data security."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Protecting Private Information",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Privacy Measures",
+                      "sSID": "NI.C.6.c",
+                      "sectionDescription": "Identify ways to protect private information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Embedded and Smart Devices",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Human Habits",
+                      "sSID": "NI.IOT.6.a",
+                      "sectionDescription": "Define and explore aspects of embedded devices, smart devices, and intelligent devices and the way they record, observe, and mimic human habits."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Understanding Blockchains",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unique Identifiers",
+                      "sSID": "NI.IOT.6.b",
+                      "sectionDescription": "Identify and define blockchains to recognize how every device made has unique identifiers and the weaknesses that allow programmers and hackers to see personally identifiable information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Digital Data Collection Tools",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Compiling Information",
+                      "sSID": "DA.DCS.6.a",
+                      "sectionDescription": "Identify and use an appropriate digital data collection tool to compile information."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Organizing Collected Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "File Formats",
+                      "sSID": "DA.DCS.6.b",
+                      "sectionDescription": "Select and utilize appropriate file formats to organize collected data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "File Structures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Logical Organization",
+                      "sSID": "DA.DCS.6.c",
+                      "sectionDescription": "Utilize a file structure to logically organize data to support individual and collaborative work."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Identifying Patterns in Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Data Connections",
+                      "sSID": "DA.VC.6.a",
+                      "sectionDescription": "Identify and label patterns in models or representations to infer connections between data sets."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Using Spreadsheets",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Formulas and Graphs",
+                      "sSID": "DA.VC.6.b",
+                      "sectionDescription": "Create a spreadsheet utilizing formulas, functions, and graphs to represent and analyze data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Supporting Hypotheses with Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Data Sets",
+                      "sSID": "DA.IM.6.a",
+                      "sectionDescription": "Identify and utilize data sets to support or refute a hypothesis."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Refining Algorithms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Algorithm Efficiency",
+                      "sSID": "ATP.A.6.a",
+                      "sectionDescription": "Compare and refine multiple algorithms for the same task to determine which is the most efficient."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Using Variables in Algorithms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unknown Values",
+                      "sSID": "ATP.VDR.6.a",
+                      "sectionDescription": "Identify unknown values that need to be represented by a variable within a multi-step process."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Creating Variables",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Variable Usage",
+                      "sSID": "ATP.VDR.6.b",
+                      "sectionDescription": "Create variables and use them within a multi-step process."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Tracing Decisions and Loops",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Program Tracing",
+                      "sSID": "ATP.CS.6.a",
+                      "sectionDescription": "Identify and trace decisions and loops that exist in a multi-step process within a program."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Decomposing Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Problem Parts",
+                      "sSID": "ATP.M.6.a",
+                      "sectionDescription": "Decompose problems into parts to facilitate the design, implementation, and review of programs."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Writing Code",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Algorithms and Control Structures",
+                      "sSID": "ATP.PD.6.a",
+                      "sectionDescription": "Write code that utilizes algorithms, variables, and control structures to solve problems or as a creative expression."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Debugging Code",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Testing and Tracing",
+                      "sSID": "ATP.PD.6.b",
+                      "sectionDescription": "Test and trace to debug and refine code."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Understanding Computer Perception",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sensory Signals",
+                      "sSID": "AI.P.6.a",
+                      "sectionDescription": "Give examples of different types of computer perception that can extract meaning from sensory signals to understand how computers collect information from sensors."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Combining Information",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multiple Modalities",
+                      "sSID": "AI.P.6.b",
+                      "sectionDescription": "Give examples of how humans combine information from multiple modalities to understand how computers use sensors to collect data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Classifying Images",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Image Classification",
+                      "sSID": "AI.P.6.d",
+                      "sectionDescription": "Classify a given image and describe the kinds of knowledge a computer would need in order to understand scenes of this type to utilize the image in an algorithm."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Solving Problems with AI",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Search Trees",
+                      "sSID": "AI.RR.6.a",
+                      "sectionDescription": "Illustrate how a computer can solve a maze, find a route on a map, or reason about concepts in a knowledge graph by drawing a search tree."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Human vs. Machine Learning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Characteristics of Learning",
+                      "sSID": "AI.ML.6.a",
+                      "sectionDescription": "Contrast the unique characteristics of human learning with the ways machine learning systems operate to identify the limitations of machine learning."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Neural Networks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Structure and Functions",
+                      "sSID": "AI.ML.6.b",
+                      "sectionDescription": "Illustrate the structure of a neural network to describe how its parts form a set of functions that compute an output."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Language Processing Algorithms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Algorithms",
+                      "sSID": "AI.NI.6.a",
+                      "sectionDescription": "Individually and collaboratively compare language processing algorithms to solve a problem based on a given criteria (e.g., time, resource, accessibility)."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Algorithmic Bias",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Bias",
+                      "sSID": "AI.SI.6.b",
+                      "sectionDescription": "Identify and explain how algorithmic bias impacts artificial intelligence systems to prevent bias in future datasets."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Careers in Computer Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Careers",
+                      "sSID": "IC.Cu.6.c",
+                      "sectionDescription": "Identify and explore careers related to the field of computer science."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Impacts of Electronic Communication",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Beneficial and Harmful Effects",
+                      "sSID": "IC.SI.6.a",
+                      "sectionDescription": "Analyze and present beneficial and harmful effects of electronic communications to understand their impacts on interpersonal, global, economic, political, business, and cultural interactions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Privacy and Security",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Tradeoffs in Information Sharing",
+                      "sSID": "IC.SLE.6.a",
+                      "sectionDescription": "Describe tradeoffs between allowing information to be public and keeping information private and secure to inform decision-making."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project: Developing a Program",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Writing and Testing Code",
+                      "sSID": "ATP.PD.6.a, ATP.PD.6.b",
+                      "sectionDescription": "Write, test, and debug code that utilizes algorithms, variables, and control structures to solve a problem or as a creative expression."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Course Reflection and Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Learning",
+                      "sSID": "CS, NI, DA, ATP, AI, IC",
+                      "sectionDescription": "Review key concepts learned throughout the course and reflect on personal growth and understanding."
+                    }
+                  ]
+                }
+              ]
+
+            }

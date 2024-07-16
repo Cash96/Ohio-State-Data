@@ -1,0 +1,581 @@
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "hasData": true,
+      {
+          "grade": "7",
+          "subject": [
+            {
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-7.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "OH.7.MATH.1",
+                  "objectiveTitle": "Ratios and Proportional Relationships",
+                  "objectiveDescription": "Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas, and other quantities measured in like or different units."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Recognize and represent proportional relationships between quantities."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Use proportional relationships to solve multistep ratio and percent problems."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.7.MATH.2",
+                  "objectiveTitle": "The Number System",
+                  "objectiveDescription": "Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Solve real-world and mathematical problems involving the four operations with rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.7.MATH.3",
+                  "objectiveTitle": "Expressions and Equations",
+                  "objectiveDescription": "Use properties of operations to generate equivalent expressions and solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "In a problem context, understand that rewriting an expression in an equivalent form can reveal and explain properties of the quantities represented by the expression and can reveal how those quantities are related."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.7.MATH.4",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Draw, construct, and describe geometrical figures and describe the relationships between them.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Solve problems involving similar figures with right triangles, other triangles, and special quadrilaterals."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Draw geometric figures with given conditions."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Describe the two-dimensional figures that result from slicing three-dimensional figures."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Work with circles."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Solve real-world and mathematical problems involving area, volume, and surface area of two- and three-dimensional objects."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.7.MATH.5",
+                  "objectiveTitle": "Statistics and Probability",
+                  "objectiveDescription": "Use sampling to draw conclusions about a population and broaden understanding of statistical problem solving.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Understand that statistics can be used to gain information about a population by examining a sample of the population."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Broaden statistical reasoning by using the GAISE model."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Describe and analyze distributions."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Develop a probability model and use it to find probabilities of events."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulations."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Ratios and Proportional Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unit Rates",
+                      "sSID": "1",
+                      "sectionDescription": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas, and other quantities measured in like or different units."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Proportional Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Recognizing Proportional Relationships",
+                      "sSID": "2",
+                      "sectionDescription": "Recognize and represent proportional relationships between quantities."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Solving Ratio and Percent Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multistep Problems",
+                      "sSID": "3",
+                      "sectionDescription": "Use proportional relationships to solve multistep ratio and percent problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Operations with Rational Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Adding and Subtracting Rational Numbers",
+                      "sSID": "1",
+                      "sectionDescription": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Multiplying and Dividing Rational Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Operations with Rational Numbers",
+                      "sSID": "2",
+                      "sectionDescription": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Real-World Applications",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Real-World Problems",
+                      "sSID": "3",
+                      "sectionDescription": "Solve real-world and mathematical problems involving the four operations with rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Expressions and Equations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Generating Equivalent Expressions",
+                      "sSID": "1",
+                      "sectionDescription": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Interpreting Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Equivalent Forms",
+                      "sSID": "2",
+                      "sectionDescription": "In a problem context, understand that rewriting an expression in an equivalent form can reveal and explain properties of the quantities represented by the expression and can reveal how those quantities are related."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Multi-Step Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Multi-Step Problems",
+                      "sSID": "3",
+                      "sectionDescription": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Variables in Real-World Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Variables",
+                      "sSID": "4",
+                      "sectionDescription": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Geometry: Similar Figures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Problems with Similar Figures",
+                      "sSID": "1",
+                      "sectionDescription": "Solve problems involving similar figures with right triangles, other triangles, and special quadrilaterals."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Drawing Geometric Figures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Drawing with Conditions",
+                      "sSID": "2",
+                      "sectionDescription": "Draw geometric figures with given conditions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Slicing 3D Figures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Two-Dimensional Slices",
+                      "sSID": "3",
+                      "sectionDescription": "Describe the two-dimensional figures that result from slicing three-dimensional figures."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Working with Circles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Circle Problems",
+                      "sSID": "4",
+                      "sectionDescription": "Work with circles."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Angle Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Angle Problems",
+                      "sSID": "5",
+                      "sectionDescription": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Area, Volume, and Surface Area",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Real-World Problems",
+                      "sSID": "6",
+                      "sectionDescription": "Solve real-world and mathematical problems involving area, volume, and surface area of two- and three-dimensional objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Introduction to Statistics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Statistics",
+                      "sSID": "1",
+                      "sectionDescription": "Understand that statistics can be used to gain information about a population by examining a sample of the population."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Statistical Reasoning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "GAISE Model",
+                      "sSID": "2",
+                      "sectionDescription": "Broaden statistical reasoning by using the GAISE model."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Analyzing Distributions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Describing Distributions",
+                      "sSID": "3",
+                      "sectionDescription": "Describe and analyze distributions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Understanding Probability",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Probability of Chance Events",
+                      "sSID": "4",
+                      "sectionDescription": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Approximate Probability",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Observing Chance Processes",
+                      "sSID": "5",
+                      "sectionDescription": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Developing Probability Models",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Probability Models",
+                      "sSID": "6",
+                      "sectionDescription": "Develop a probability model and use it to find probabilities of events."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Compound Events",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finding Probabilities",
+                      "sSID": "7",
+                      "sectionDescription": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Proportional Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Computing Unit Rates",
+                      "sSID": "1",
+                      "sectionDescription": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas, and other quantities measured in like or different units."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Recognizing Proportional Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Representing Proportional Relationships",
+                      "sSID": "2",
+                      "sectionDescription": "Recognize and represent proportional relationships between quantities."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Solving Ratio and Percent Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Proportional Relationships",
+                      "sSID": "3",
+                      "sectionDescription": "Use proportional relationships to solve multistep ratio and percent problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Adding and Subtracting Rational Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Operations with Rational Numbers",
+                      "sSID": "1",
+                      "sectionDescription": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Multiplying and Dividing Rational Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Operations with Rational Numbers",
+                      "sSID": "2",
+                      "sectionDescription": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Solving Real-World Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Four Operations with Rational Numbers",
+                      "sSID": "3",
+                      "sectionDescription": "Solve real-world and mathematical problems involving the four operations with rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Generating Equivalent Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Operations",
+                      "sSID": "1",
+                      "sectionDescription": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Understanding Equivalent Forms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Expressions",
+                      "sSID": "2",
+                      "sectionDescription": "In a problem context, understand that rewriting an expression in an equivalent form can reveal and explain properties of the quantities represented by the expression and can reveal how those quantities are related."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Solving Multi-Step Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Real-Life and Mathematical Problems",
+                      "sSID": "3",
+                      "sectionDescription": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Using Variables",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Representing Quantities",
+                      "sSID": "4",
+                      "sectionDescription": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Solving Problems with Similar Figures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Similar Figures",
+                      "sSID": "1",
+                      "sectionDescription": "Solve problems involving similar figures with right triangles, other triangles, and special quadrilaterals."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Drawing Geometric Figures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Given Conditions",
+                      "sSID": "2",
+                      "sectionDescription": "Draw geometric figures with given conditions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Review and Final Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comprehensive Review",
+                      "sSID": "3",
+                      "sectionDescription": "Review all concepts and complete final projects."
+                    }
+                  ]
+                }
+              ]
+
+            }
+          ]
+        }

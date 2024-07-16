@@ -1,0 +1,541 @@
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "hasData": true,
+      {
+          "grade": "6",
+          "subject": [
+            {
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "PE.6",
+                  "objectiveTitle": "Perceiving/Knowing",
+                  "objectiveDescription": "Observe, listen, attend to, discriminate",
+                  "expectations": [
+                    {
+                      "expectationID": "1PE",
+                      "expectationDescription": "Describe how art and design elements and principles are used in artworks to produce certain visual effects and create meaning."
+                    },
+                    {
+                      "expectationID": "2PE",
+                      "expectationDescription": "Discover and articulate how the media forms of the day use art and images to communicate messages and meaning."
+                    },
+                    {
+                      "expectationID": "3PE",
+                      "expectationDescription": "Compare and contrast visual forms of expression found throughout local regions and in different cultures of the world."
+                    },
+                    {
+                      "expectationID": "4PE",
+                      "expectationDescription": "Connect selected ideas, concepts and processes used in visual art with those used in other academic disciplines."
+                    },
+                    {
+                      "expectationID": "5PE",
+                      "expectationDescription": "Use observations, life experiences and imagination as sources for visual symbols, images and creative expression."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "PR.6",
+                  "objectiveTitle": "Producing/Performing",
+                  "objectiveDescription": "Generate, create, realize, use & master skills",
+                  "expectations": [
+                    {
+                      "expectationID": "1PR",
+                      "expectationDescription": "Demonstrate technical skill and craftsmanship in the use of materials, tools and technology to solve an artistic problem."
+                    },
+                    {
+                      "expectationID": "2PR",
+                      "expectationDescription": "Experiment with a variety of techniques and working methods when creating an original work of art."
+                    },
+                    {
+                      "expectationID": "3PR",
+                      "expectationDescription": "Generate ideas and engage in thoughtful planning when solving a visual art problem."
+                    },
+                    {
+                      "expectationID": "4PR",
+                      "expectationDescription": "Transform perceptions and processes into two- and three- dimensional artworks."
+                    },
+                    {
+                      "expectationID": "5PR",
+                      "expectationDescription": "Engage in visual problems of personal or social relevance showing focus and persistence to complete the task."
+                    },
+                    {
+                      "expectationID": "6PR",
+                      "expectationDescription": "Integrate elements of art and design to solve interdisciplinary problem."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "RE.6",
+                  "objectiveTitle": "Responding/Reflecting",
+                  "objectiveDescription": "Make connections, reconsider, question, self-assess",
+                  "expectations": [
+                    {
+                      "expectationID": "1RE",
+                      "expectationDescription": "Explain what makes an object a work of art using a range of criteria."
+                    },
+                    {
+                      "expectationID": "2RE",
+                      "expectationDescription": "Describe content, meaning and design in various works of art using accurate, descriptive language and art-specific vocabulary."
+                    },
+                    {
+                      "expectationID": "3RE",
+                      "expectationDescription": "Explore and discuss how aspects of culture influence ritual and social artwork."
+                    },
+                    {
+                      "expectationID": "4RE",
+                      "expectationDescription": "Defend artistic decisions using appropriate visual art vocabulary."
+                    },
+                    {
+                      "expectationID": "5RE",
+                      "expectationDescription": "Assess personal progress to improve craftsmanship and refine and complete works of art."
+                    },
+                    {
+                      "expectationID": "6RE",
+                      "expectationDescription": "Develop and use criteria for self-assessment and to select and organize artworks for a portfolio."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Elements and Principles of Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Visual Effects and Meaning",
+                      "sSID": "1PE",
+                      "sectionDescription": "Describe how art and design elements and principles are used in artworks to produce certain visual effects and create meaning."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Art in Media",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Communicating Messages",
+                      "sSID": "2PE",
+                      "sectionDescription": "Discover and articulate how the media forms of the day use art and images to communicate messages and meaning."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Cultural Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Visual Forms Comparison",
+                      "sSID": "3PE",
+                      "sectionDescription": "Compare and contrast visual forms of expression found throughout local regions and in different cultures of the world."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Interdisciplinary Connections",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art and Other Disciplines",
+                      "sSID": "4PE",
+                      "sectionDescription": "Connect selected ideas, concepts and processes used in visual art with those used in other academic disciplines."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Sources of Creative Expression",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Observations and Imagination",
+                      "sSID": "5PE",
+                      "sectionDescription": "Use observations, life experiences and imagination as sources for visual symbols, images and creative expression."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Technical Skills and Craftsmanship",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Artistic Problem Solving",
+                      "sSID": "1PR",
+                      "sectionDescription": "Demonstrate technical skill and craftsmanship in the use of materials, tools and technology to solve an artistic problem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Exploring Techniques",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Original Works of Art",
+                      "sSID": "2PR",
+                      "sectionDescription": "Experiment with a variety of techniques and working methods when creating an original work of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Idea Generation and Planning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Visual Art Problems",
+                      "sSID": "3PR",
+                      "sectionDescription": "Generate ideas and engage in thoughtful planning when solving a visual art problem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Two- and Three-Dimensional Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Transforming Perceptions",
+                      "sSID": "4PR",
+                      "sectionDescription": "Transform perceptions and processes into two- and three-dimensional artworks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Personal and Social Relevance",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Visual Problems",
+                      "sSID": "5PR",
+                      "sectionDescription": "Engage in visual problems of personal or social relevance showing focus and persistence to complete the task."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Interdisciplinary Problem Solving",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Elements of Art and Design",
+                      "sSID": "6PR",
+                      "sectionDescription": "Integrate elements of art and design to solve interdisciplinary problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Defining Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Criteria for Art",
+                      "sSID": "1RE",
+                      "sectionDescription": "Explain what makes an object a work of art using a range of criteria."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Describing Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Content, Meaning, and Design",
+                      "sSID": "2RE",
+                      "sectionDescription": "Describe content, meaning and design in various works of art using accurate, descriptive language and art-specific vocabulary."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Culture and Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Influence of Culture",
+                      "sSID": "3RE",
+                      "sectionDescription": "Explore and discuss how aspects of culture influence ritual and social artwork."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Artistic Decisions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Art Vocabulary",
+                      "sSID": "4RE",
+                      "sectionDescription": "Defend artistic decisions using appropriate visual art vocabulary."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Improving Craftsmanship",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Personal Progress",
+                      "sSID": "5RE",
+                      "sectionDescription": "Assess personal progress to improve craftsmanship and refine and complete works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Self-Assessment",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Criteria Development",
+                      "sSID": "6RE",
+                      "sectionDescription": "Develop and use criteria for self-assessment and to select and organize artworks for a portfolio."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Review of Perceiving/Knowing",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Concepts",
+                      "sSID": "PE.6",
+                      "sectionDescription": "Review the concepts of perceiving and knowing in art covered in previous weeks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Review of Producing/Performing",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Techniques",
+                      "sSID": "PR.6",
+                      "sectionDescription": "Review the techniques and skills in producing and performing art covered in previous weeks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Review of Responding/Reflecting",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Reflections",
+                      "sSID": "RE.6",
+                      "sectionDescription": "Review the concepts of responding to and reflecting on art covered in previous weeks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Art Projects Week 1",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Planning and Ideation",
+                      "sSID": "PE.6",
+                      "sectionDescription": "Start planning and ideation for an art project using concepts learned."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Art Projects Week 2",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Art",
+                      "sSID": "PR.6",
+                      "sectionDescription": "Begin creating art, focusing on technical skills and craftsmanship."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Art Projects Week 3",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Refining Art",
+                      "sSID": "PR.6",
+                      "sectionDescription": "Continue creating and refining art projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Art Projects Week 4",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Completing Projects",
+                      "sSID": "PR.6",
+                      "sectionDescription": "Complete art projects, ensuring all elements and principles of art are applied."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Presenting Art Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presentation Skills",
+                      "sSID": "RE.6",
+                      "sectionDescription": "Prepare and present art projects to the class, explaining artistic decisions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Art Critique Session",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Critiquing Art",
+                      "sSID": "RE.6",
+                      "sectionDescription": "Conduct a class critique session where students evaluate and discuss each other's artwork."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Exploring New Techniques",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "New Art Methods",
+                      "sSID": "2PR",
+                      "sectionDescription": "Experiment with new techniques and working methods to create original works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Art and Technology",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Digital Art",
+                      "sSID": "1PR",
+                      "sectionDescription": "Use digital tools and technology to create and refine artworks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Art in Society",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Social Relevance",
+                      "sSID": "5PR",
+                      "sectionDescription": "Explore how art addresses contemporary social issues and personal relevance."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Final Art Projects Week 1",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "PE.6",
+                      "sectionDescription": "Begin planning for final art projects, incorporating all learned concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Final Art Projects Week 2",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Final Art",
+                      "sSID": "PR.6",
+                      "sectionDescription": "Start creating final art projects, focusing on technical skills and creativity."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Final Art Projects Week 3",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Refining Final Art",
+                      "sSID": "PR.6",
+                      "sectionDescription": "Continue refining final art projects, ensuring all concepts are applied."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Final Art Projects Week 4",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Completing Final Projects",
+                      "sSID": "PR.6",
+                      "sectionDescription": "Complete final art projects, preparing for presentation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project Presentations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Final Art",
+                      "sSID": "RE.6",
+                      "sectionDescription": "Present final art projects to the class, explaining the artistic process and decisions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Course Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Learning",
+                      "sSID": "RE.6",
+                      "sectionDescription": "Reflect on the entire course, discussing what was learned and areas for improvement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Celebrating Achievements",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Course Celebration",
+                      "sSID": "RE.6",
+                      "sectionDescription": "Celebrate the achievements of the course, showcasing student artworks and sharing experiences."
+                    }
+                  ]
+                }
+              ]
+
+            }

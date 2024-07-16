@@ -1,0 +1,603 @@
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "hasData": true,
+      {
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-6.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "OH.6.MATH.1",
+                  "objectiveTitle": "Ratios and Proportional Relationships",
+                  "objectiveDescription": "Understand ratio concepts and use ratio reasoning to solve problems.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Use ratio and rate reasoning to solve real-world and mathematical problems."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.2",
+                  "objectiveTitle": "The Number System",
+                  "objectiveDescription": "Apply and extend previous understandings of multiplication and division to divide fractions by fractions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Fluently divide multi-digit numbers using a standard algorithm."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Fluently add, subtract, multiply, and divide multi-digit decimals using a standard algorithm for each operation."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Understand a rational number as a point on the number line."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Understand ordering and absolute value of rational numbers."
+                    },
+                    {
+                      "expectationID": "8",
+                      "expectationDescription": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.3",
+                  "objectiveTitle": "Expressions and Equations",
+                  "objectiveDescription": "Apply and extend previous understandings of arithmetic to algebraic expressions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Write and evaluate numerical expressions involving whole number exponents."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Write, read, and evaluate expressions in which letters stand for numbers."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Apply the properties of operations to generate equivalent expressions."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Identify when two expressions are equivalent."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Understand solving an equation or inequality as a process of answering a question."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q, and x are all nonnegative rational numbers."
+                    },
+                    {
+                      "expectationID": "8",
+                      "expectationDescription": "Write an inequality of the form x > c or x < c to represent a constraint or condition in a real-world or mathematical problem."
+                    },
+                    {
+                      "expectationID": "9",
+                      "expectationDescription": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.4",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Solve real-world and mathematical problems involving area, surface area, and volume.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Find the volume of a right rectangular prism with fractional edge lengths."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Draw polygons in the coordinate plane given coordinates for the vertices."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.5",
+                  "objectiveTitle": "Statistics and Probability",
+                  "objectiveDescription": "Develop understanding of statistical problem solving.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Develop statistical reasoning by using the GAISE model."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Display numerical data in plots on a number line, including dot plots (line plots), histograms, and box plots."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Summarize numerical data sets in relation to their context."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Understanding Ratios",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Concept of a Ratio",
+                      "sSID": "1",
+                      "sectionDescription": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Unit Rates",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Unit Rates",
+                      "sSID": "2",
+                      "sectionDescription": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Solving Problems with Ratios",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ratio and Rate Reasoning",
+                      "sSID": "3",
+                      "sectionDescription": "Use ratio and rate reasoning to solve real-world and mathematical problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Dividing Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Quotients of Fractions",
+                      "sSID": "1",
+                      "sectionDescription": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Dividing Multi-Digit Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Standard Algorithm",
+                      "sSID": "2",
+                      "sectionDescription": "Fluently divide multi-digit numbers using a standard algorithm."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Operations with Decimals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fluent Operations",
+                      "sSID": "3",
+                      "sectionDescription": "Fluently add, subtract, multiply, and divide multi-digit decimals using a standard algorithm for each operation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Factors and Multiples",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "GCF and LCM",
+                      "sSID": "4",
+                      "sectionDescription": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Positive and Negative Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Opposite Directions",
+                      "sSID": "5",
+                      "sectionDescription": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Rational Numbers on a Number Line",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Rational Numbers",
+                      "sSID": "6",
+                      "sectionDescription": "Understand a rational number as a point on the number line."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Ordering and Absolute Value",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Rational Number Order",
+                      "sSID": "7",
+                      "sectionDescription": "Understand ordering and absolute value of rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Graphing Points",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Coordinate Plane",
+                      "sSID": "8",
+                      "sectionDescription": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Numerical Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Whole Number Exponents",
+                      "sSID": "1",
+                      "sectionDescription": "Write and evaluate numerical expressions involving whole number exponents."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Algebraic Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Expressions with Variables",
+                      "sSID": "2",
+                      "sectionDescription": "Write, read, and evaluate expressions in which letters stand for numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Equivalent Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Operations",
+                      "sSID": "3",
+                      "sectionDescription": "Apply the properties of operations to generate equivalent expressions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Identifying Equivalent Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Expression Equivalence",
+                      "sSID": "4",
+                      "sectionDescription": "Identify when two expressions are equivalent."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Solving Equations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Equations and Inequalities",
+                      "sSID": "5",
+                      "sectionDescription": "Understand solving an equation or inequality as a process of answering a question."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Using Variables",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Problems",
+                      "sSID": "6",
+                      "sectionDescription": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Solving Equations with Variables",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Equations of the Form x + p = q",
+                      "sSID": "7",
+                      "sectionDescription": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q, and x are all nonnegative rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Writing Inequalities",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Inequalities in Real-World Problems",
+                      "sSID": "8",
+                      "sectionDescription": "Write an inequality of the form x > c or x < c to represent a constraint or condition in a real-world or mathematical problem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Dependent and Independent Variables",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Real-World Relationships",
+                      "sSID": "9",
+                      "sectionDescription": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Finding Area",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Triangles and Polygons",
+                      "sSID": "1",
+                      "sectionDescription": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Volume of Prisms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Rectangular Prisms",
+                      "sSID": "2",
+                      "sectionDescription": "Find the volume of a right rectangular prism with fractional edge lengths."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Drawing Polygons",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Coordinate Plane",
+                      "sSID": "3",
+                      "sectionDescription": "Draw polygons in the coordinate plane given coordinates for the vertices."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Surface Area",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Nets",
+                      "sSID": "4",
+                      "sectionDescription": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Introduction to Statistics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Statistical Reasoning",
+                      "sSID": "1",
+                      "sectionDescription": "Develop statistical reasoning by using the GAISE model."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Data Distribution",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Center, Spread, and Shape",
+                      "sSID": "2",
+                      "sectionDescription": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Measures of Center and Variation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Single Number Summarization",
+                      "sSID": "3",
+                      "sectionDescription": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Displaying Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Numerical Data Plots",
+                      "sSID": "4",
+                      "sectionDescription": "Display numerical data in plots on a number line, including dot plots (line plots), histograms, and box plots."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Summarizing Data Sets",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Contextual Data",
+                      "sSID": "5",
+                      "sectionDescription": "Summarize numerical data sets in relation to their context."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Review of Ratios and Proportional Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ratios and Rates",
+                      "sSID": "OH.6.MATH.1",
+                      "sectionDescription": "Review ratio concepts and ratio reasoning to solve problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Review of The Number System",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fractions and Decimals",
+                      "sSID": "OH.6.MATH.2",
+                      "sectionDescription": "Review operations with fractions, decimals, and rational numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Review of Expressions and Equations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Algebraic Expressions",
+                      "sSID": "OH.6.MATH.3",
+                      "sectionDescription": "Review concepts of expressions, equations, and inequalities."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Review of Geometry",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Area and Volume",
+                      "sSID": "OH.6.MATH.4",
+                      "sectionDescription": "Review problems involving area, surface area, and volume."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Review of Statistics and Probability",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Data Analysis",
+                      "sSID": "OH.6.MATH.5",
+                      "sectionDescription": "Review statistical problem solving and data representation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "OH.6.MATH",
+                      "sectionDescription": "Begin planning for a final project that incorporates learned concepts from all topics."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "OH.6.MATH",
+                      "sectionDescription": "Present final projects to the class, demonstrating understanding of mathematical concepts."
+                    }
+                  ]
+                }
+              ]
+
+            }
+          ]
+        },
+        {

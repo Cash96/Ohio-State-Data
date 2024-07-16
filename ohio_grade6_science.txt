@@ -1,0 +1,655 @@
+	"state": "Ohio",
+	"stateID": "OH",
+	"stateInstitutionName": "Ohio Department of Education",
+	"stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+	"stateStandardAbbriv": "OLSMC",
+	"URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+	"hasData": true,
+			{
+          "grade": "6",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "6.ESS.1",
+                  "objectiveTitle": "Minerals have specific, quantifiable properties.",
+                  "objectiveDescription": "Minerals are naturally occurring, inorganic solids that have a defined chemical composition and observable, measurable properties, forming in specific environments.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Minerals are naturally occurring, inorganic solids that have a defined chemical composition. Minerals have properties that can be observed and measured. Minerals form in specific environments."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.2",
+                  "objectiveTitle": "Igneous, metamorphic and sedimentary rocks have unique characteristics.",
+                  "objectiveDescription": "These rock types are identifiable and classifiable by their unique characteristics, including mineral composition and formation processes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Most rocks are composed of one or more minerals, but some sedimentary rocks contain organic material, such as coal. The composition, types of mineral present, and mineral shape and size can identify the rock and interpret its formation, weathering, and erosion history."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.3",
+                  "objectiveTitle": "Igneous, metamorphic and sedimentary rocks form in different ways.",
+                  "objectiveDescription": "Each rock type provides information about the environment of its formation based on its origin from magma, existing rock, or sediment.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Magma or lava cools and crystallizes to form igneous rocks. Heat and pressure transform existing rock into metamorphic rocks. Sedimentary rock forms from weathered material that is compressed and lithifies."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.4",
+                  "objectiveTitle": "Soil is unconsolidated material that contains organic matter and weathered rock.",
+                  "objectiveDescription": "Soil formation varies by environmental conditions and types of bedrock, forming distinguishable layers known as horizons.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Soil formation occurs at different rates based on environmental conditions, types of existing bedrock, and weathering rates. Soil forms in layers known as horizons, distinguishable by measurable properties. Use the term 'soil' rather than 'dirt'."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.5",
+                  "objectiveTitle": "Rocks, minerals and soils have common and practical uses.",
+                  "objectiveDescription": "These geologic resources are essential for manufacturing and are considered nonrenewable.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Nearly all manufactured material requires some kind of geologic resource. Most geologic resources are considered nonrenewable, including rocks, minerals, and soil."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.1",
+                  "objectiveTitle": "Matter is made up of small particles called atoms.",
+                  "objectiveDescription": "Matter is characterized by mass, volume, and density and consists of particles known as atoms.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Matter has mass, volume and density and is made up of particles called atoms."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Elements are a class of substances composed of a single kind of atom."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Molecules are the combination of two or more atoms that are joined together chemically."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.2",
+                  "objectiveTitle": "Changes of state are explained by a model of matter composed of particles in motion.",
+                  "objectiveDescription": "Temperature and heat influence the motion and position of particles during phase changes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Temperature is a measure of the average motion of particles in a substance."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Heat is a process of energy transfer rather than a type of energy. Energy transfer can result in a change in temperature or a phase change."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "When substances undergo changes of state, atoms change their motion and position."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.3",
+                  "objectiveTitle": "There are two categories of energy: kinetic and potential.",
+                  "objectiveDescription": "Energy manifests as kinetic energy through motion or as potential energy due to position.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Objects and substances in motion have kinetic energy."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Objects and substances can have energy as a result of their position (potential energy)."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.4",
+                  "objectiveTitle": "An object’s motion can be described by its speed and direction.",
+                  "objectiveDescription": "The motion of an object is measurable and can be graphically represented over time.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "An object’s position and speed can be measured and graphed as a function of time."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.1",
+                  "objectiveTitle": "Cells are the fundamental unit of life.",
+                  "objectiveDescription": "All living things are composed of cells, with varied functions across different types of cells.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "All living things are composed of cells. Different body tissues and organs are made of different kinds of cells. The ways cells function are similar in all living organisms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.2",
+                  "objectiveTitle": "All cells come from pre-existing cells.",
+                  "objectiveDescription": "Cell division is a fundamental process for growth, development, and repair in multicellular organisms.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Cells repeatedly divide resulting in more cells and growth and repair in multicellular organisms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.3",
+                  "objectiveTitle": "Cells carry on specific functions that sustain life.",
+                  "objectiveDescription": "Cells perform essential biological functions necessary for the survival of organisms.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Many basic functions of organisms occur in cells. Cells take in nutrients and energy to perform work, like making various molecules required by that cell or an organism."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Every cell is covered by a membrane that controls what can enter and leave the cell."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Within the cell are specialized parts for the transport of materials, energy capture and release, protein building, waste disposal, information feedback and movement."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.4",
+                  "objectiveTitle": "Living systems at all levels of organization demonstrate the complementary nature of structure and function.",
+                  "objectiveDescription": "Organisms exhibit various levels of organization, from cells to whole systems, which are essential for life processes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The level of organization within organisms includes cells, tissues, organs, organ systems and whole organisms."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Whether the organism is single-celled or multicellular, all of its parts function as a whole to perform the tasks necessary for the survival of the organism."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Organisms have diverse body plans, symmetry and internal structures that contribute to their being able to survive in their environments."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Minerals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Minerals",
+                      "sSID": "6.ESS.1",
+                      "sectionDescription": "Minerals are naturally occurring, inorganic solids that have a defined chemical composition. Minerals have properties that can be observed and measured. Minerals form in specific environments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Types of Rocks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Characteristics of Rocks",
+                      "sSID": "6.ESS.2",
+                      "sectionDescription": "Most rocks are composed of one or more minerals, but some sedimentary rocks contain organic material, such as coal. The composition, types of mineral present, and mineral shape and size can identify the rock and interpret its formation, weathering, and erosion history."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Formation of Rocks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Processes of Rock Formation",
+                      "sSID": "6.ESS.3",
+                      "sectionDescription": "Magma or lava cools and crystallizes to form igneous rocks. Heat and pressure transform existing rock into metamorphic rocks. Sedimentary rock forms from weathered material that is compressed and lithifies."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Soil Formation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Soil",
+                      "sSID": "6.ESS.4",
+                      "sectionDescription": "Soil formation occurs at different rates based on environmental conditions, types of existing bedrock, and weathering rates. Soil forms in layers known as horizons, distinguishable by measurable properties. Use the term 'soil' rather than 'dirt'."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Uses of Geologic Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Practical Uses of Rocks, Minerals, and Soils",
+                      "sSID": "6.ESS.5",
+                      "sectionDescription": "Nearly all manufactured material requires some kind of geologic resource. Most geologic resources are considered nonrenewable, including rocks, minerals, and soil."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Introduction to Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Matter",
+                      "sSID": "6.PS.1",
+                      "sectionDescription": "Matter has mass, volume and density and is made up of particles called atoms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Elements and Molecules",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Elements",
+                      "sSID": "6.PS.1",
+                      "sectionDescription": "Elements are a class of substances composed of a single kind of atom."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Formation of Molecules",
+                      "sSID": "6.PS.1",
+                      "sectionDescription": "Molecules are the combination of two or more atoms that are joined together chemically."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Changes of State",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Particle Motion and Temperature",
+                      "sSID": "6.PS.2",
+                      "sectionDescription": "Temperature is a measure of the average motion of particles in a substance."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Energy Transfer and Phase Changes",
+                      "sSID": "6.PS.2",
+                      "sectionDescription": "Heat is a process of energy transfer rather than a type of energy. Energy transfer can result in a change in temperature or a phase change."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Motion and Position of Particles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Changes in Motion and Position",
+                      "sSID": "6.PS.2",
+                      "sectionDescription": "When substances undergo changes of state, atoms change their motion and position."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Kinetic and Potential Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy of Motion",
+                      "sSID": "6.PS.3",
+                      "sectionDescription": "Objects and substances in motion have kinetic energy."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Energy of Position",
+                      "sSID": "6.PS.3",
+                      "sectionDescription": "Objects and substances can have energy as a result of their position (potential energy)."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Describing Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Speed and Direction",
+                      "sSID": "6.PS.4",
+                      "sectionDescription": "An object’s position and speed can be measured and graphed as a function of time."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Fundamentals of Cells",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Cell Composition",
+                      "sSID": "6.LS.1",
+                      "sectionDescription": "All living things are composed of cells. Different body tissues and organs are made of different kinds of cells. The ways cells function are similar in all living organisms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Cell Division",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Growth and Repair",
+                      "sSID": "6.LS.2",
+                      "sectionDescription": "Cells repeatedly divide resulting in more cells and growth and repair in multicellular organisms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Functions of Cells",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Basic Functions",
+                      "sSID": "6.LS.3",
+                      "sectionDescription": "Many basic functions of organisms occur in cells. Cells take in nutrients and energy to perform work, like making various molecules required by that cell or an organism."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Cell Membrane",
+                      "sSID": "6.LS.3",
+                      "sectionDescription": "Every cell is covered by a membrane that controls what can enter and leave the cell."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Specialized Cell Parts",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Transport and Energy",
+                      "sSID": "6.LS.3",
+                      "sectionDescription": "Within the cell are specialized parts for the transport of materials, energy capture and release, protein building, waste disposal, information feedback and movement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Levels of Organization",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "From Cells to Organisms",
+                      "sSID": "6.LS.4",
+                      "sectionDescription": "The level of organization within organisms includes cells, tissues, organs, organ systems and whole organisms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Functions of Organisms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Single-celled and Multicellular",
+                      "sSID": "6.LS.4",
+                      "sectionDescription": "Whether the organism is single-celled or multicellular, all of its parts function as a whole to perform the tasks necessary for the survival of the organism."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Diverse Body Plans",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Survival in Environments",
+                      "sSID": "6.LS.4",
+                      "sectionDescription": "Organisms have diverse body plans, symmetry and internal structures that contribute to their being able to survive in their environments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Review: Minerals and Rocks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties and Formation",
+                      "sSID": "6.ESS.1, 6.ESS.2, 6.ESS.3",
+                      "sectionDescription": "Review the properties of minerals, the characteristics of different rock types, and their formation processes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Review: Soil and Geologic Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Formation and Uses",
+                      "sSID": "6.ESS.4, 6.ESS.5",
+                      "sectionDescription": "Review soil formation, layers, and the practical uses of rocks, minerals, and soils."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Review: Properties of Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Mass, Volume, and Density",
+                      "sSID": "6.PS.1",
+                      "sectionDescription": "Review the properties of matter, including mass, volume, and density."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Review: Changes of State",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Particle Motion and Energy Transfer",
+                      "sSID": "6.PS.2",
+                      "sectionDescription": "Review the changes of state, particle motion, and energy transfer."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Review: Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Kinetic and Potential Energy",
+                      "sSID": "6.PS.3",
+                      "sectionDescription": "Review the concepts of kinetic and potential energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Review: Motion and Speed",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Graphing Motion",
+                      "sSID": "6.PS.4",
+                      "sectionDescription": "Review how an object’s position and speed can be measured and graphed as a function of time."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Review: Cellular Functions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Basic Cell Functions",
+                      "sSID": "6.LS.3",
+                      "sectionDescription": "Review the basic functions of cells, including nutrient intake, energy use, and waste disposal."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Review: Levels of Organization",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "From Cells to Systems",
+                      "sSID": "6.LS.4",
+                      "sectionDescription": "Review the levels of organization within organisms, from cells to whole organisms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Project Week: Mineral Identification",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Minerals",
+                      "sSID": "6.ESS.1",
+                      "sectionDescription": "Students will identify minerals based on their properties and learn about their formation environments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Project Week: Rock Cycle",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Modeling the Rock Cycle",
+                      "sSID": "6.ESS.2, 6.ESS.3",
+                      "sectionDescription": "Students will model the rock cycle and explain the formation of different rock types."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Project Week: Soil Analysis",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Analyzing Soil Samples",
+                      "sSID": "6.ESS.4",
+                      "sectionDescription": "Students will analyze soil samples to identify layers and discuss the factors influencing soil formation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Project Week: Matter and Atoms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Atomic Structure",
+                      "sSID": "6.PS.1",
+                      "sectionDescription": "Students will explore the structure of atoms and elements and their properties."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Project Week: Changes of State",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Investigating Phase Changes",
+                      "sSID": "6.PS.2",
+                      "sectionDescription": "Students will investigate phase changes and the effects of temperature and heat on particle motion."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Project Week: Energy Exploration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Kinetic and Potential Energy",
+                      "sSID": "6.PS.3",
+                      "sectionDescription": "Students will explore examples of kinetic and potential energy in real-world scenarios."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Final Project: Cellular Functions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Cell Models",
+                      "sSID": "6.LS.3",
+                      "sectionDescription": "Students will create models of cells and demonstrate their functions and specialized parts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project: Organism Structures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Modeling Body Plans",
+                      "sSID": "6.LS.4",
+                      "sectionDescription": "Students will create models of different organism body plans, highlighting structure and function."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Course Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Learning",
+                      "sSID": "6.ESS.1, 6.ESS.2, 6.ESS.3, 6.ESS.4, 6.ESS.5, 6.PS.1, 6.PS.2, 6.PS.3, 6.PS.4, 6.LS.1, 6.LS.2, 6.LS.3, 6.LS.4",
+                      "sectionDescription": "Review key concepts learned throughout the course and reflect on personal growth and understanding."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Celebration of Achievements",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Celebrating Success",
+                      "sSID": "6.ESS.1, 6.ESS.2, 6.ESS.3, 6.ESS.4, 6.ESS.5, 6.PS.1, 6.PS.2, 6.PS.3, 6.PS.4, 6.LS.1, 6.LS.2, 6.LS.3, 6.LS.4",
+                      "sectionDescription": "Celebrate the achievements and progress made throughout the course with a class celebration and sharing session."
+                    }
+                  ]
+                }
+              ]
+
+            }

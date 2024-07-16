@@ -1,0 +1,620 @@
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "hasData": true,
+      {
+          "grade": "8",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "8.ESS.2",
+                  "objectiveTitle": "Earth’s Lithosphere",
+                  "objectiveDescription": "Earth’s lithosphere consists of major and minor tectonic plates that move relative to each other.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Historical data such as fossil distribution and paleomagnetism contributed to the theory of plate tectonics."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Convection currents in the asthenosphere cause movements of the lithospheric plates."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "There are three main types of plate boundaries: divergent, convergent, and transform."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.ESS.3",
+                  "objectiveTitle": "Formation of Earth’s Surface",
+                  "objectiveDescription": "A combination of constructive and destructive geologic processes formed Earth’s surface.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Earth’s surface is formed from various geologic processes including plate tectonics."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.ESS.4",
+                  "objectiveTitle": "Evidence of Dynamic Changes",
+                  "objectiveDescription": "Evidence of the dynamic changes of Earth’s surface through time is found in the geologic record.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The geologic record helps identify past environmental and climate conditions."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.PS.1",
+                  "objectiveTitle": "External Forces",
+                  "objectiveDescription": "Objects can experience a force due to an external field such as magnetic, electrostatic, or gravitational fields.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Magnetic, electrical, and gravitational forces can act at a distance."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.PS.2",
+                  "objectiveTitle": "Motion and Forces",
+                  "objectiveDescription": "Forces can act to change the motion of objects.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The motion of an object is always measured with respect to a reference point."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Forces can be added; the net force on an object is the sum of all the forces acting on it."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "If there is a nonzero net force acting on an object, its speed and/or direction will change."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Kinetic friction and drag are forces that act opposite to the motion of objects."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.LS.1",
+                  "objectiveTitle": "Diversity and Evolution",
+                  "objectiveDescription": "Diversity of species, a result of variation of traits, occurs through the process of evolution and extinction over many generations.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Fossils provide important evidence of how life and environmental conditions have changed."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Changes in environmental conditions can affect the survival and reproductive success of species."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Extinction occurs when the environment changes and organisms do not have the traits necessary to survive and reproduce."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.LS.2",
+                  "objectiveTitle": "Reproduction and Genetic Transfer",
+                  "objectiveDescription": "Every organism alive today comes from a long line of ancestors who reproduced successfully every generation.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Reproduction involves the transfer of genetic information from one generation to the next."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.LS.3",
+                  "objectiveTitle": "Inherited Traits",
+                  "objectiveDescription": "The characteristics of an organism are a result of inherited traits received from parent(s).",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Expression of traits is determined by genes and environmental factors."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Genetic information is transmitted between parent and offspring during reproduction."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Earth’s Lithosphere",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Historical Data and Plate Tectonics",
+                      "sSID": "8.ESS.2.1",
+                      "sectionDescription": "Historical data such as fossil distribution and paleomagnetism contributed to the theory of plate tectonics."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Convection Currents and Plate Movements",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Convection Currents",
+                      "sSID": "8.ESS.2.2",
+                      "sectionDescription": "Convection currents in the asthenosphere cause movements of the lithospheric plates."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Types of Plate Boundaries",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Divergent, Convergent, and Transform Boundaries",
+                      "sSID": "8.ESS.2.3",
+                      "sectionDescription": "There are three main types of plate boundaries: divergent, convergent, and transform."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Geologic Processes and Earth's Surface",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Constructive and Destructive Processes",
+                      "sSID": "8.ESS.3.1",
+                      "sectionDescription": "Earth’s surface is formed from various geologic processes including plate tectonics."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Geologic Record and Earth's History",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using the Geologic Record",
+                      "sSID": "8.ESS.4.1",
+                      "sectionDescription": "The geologic record helps identify past environmental and climate conditions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Magnetic, Electrostatic, and Gravitational Forces",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Forces Acting at a Distance",
+                      "sSID": "8.PS.1.1",
+                      "sectionDescription": "Magnetic, electrical, and gravitational forces can act at a distance."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Measuring Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reference Points",
+                      "sSID": "8.PS.2.1",
+                      "sectionDescription": "The motion of an object is always measured with respect to a reference point."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Understanding Net Force",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Adding Forces",
+                      "sSID": "8.PS.2.2",
+                      "sectionDescription": "Forces can be added; the net force on an object is the sum of all the forces acting on it."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Effects of Nonzero Net Force",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Changes in Motion",
+                      "sSID": "8.PS.2.3",
+                      "sectionDescription": "If there is a nonzero net force acting on an object, its speed and/or direction will change."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Opposing Forces: Kinetic Friction and Drag",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Forces Opposing Motion",
+                      "sSID": "8.PS.2.4",
+                      "sectionDescription": "Kinetic friction and drag are forces that act opposite to the motion of objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Evidence from Fossils",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fossils and Evolution",
+                      "sSID": "8.LS.1.1",
+                      "sectionDescription": "Fossils provide important evidence of how life and environmental conditions have changed."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Environmental Changes and Species Survival",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Changes Affecting Survival",
+                      "sSID": "8.LS.1.2",
+                      "sectionDescription": "Changes in environmental conditions can affect the survival and reproductive success of species."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Extinction and Environmental Changes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reasons for Extinction",
+                      "sSID": "8.LS.1.3",
+                      "sectionDescription": "Extinction occurs when the environment changes and organisms do not have the traits necessary to survive and reproduce."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Genetic Transfer and Reproduction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Transfer of Genetic Information",
+                      "sSID": "8.LS.2.1",
+                      "sectionDescription": "Reproduction involves the transfer of genetic information from one generation to the next."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Traits and Genes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Expression of Traits",
+                      "sSID": "8.LS.3.1",
+                      "sectionDescription": "Expression of traits is determined by genes and environmental factors."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Genetic Information Transmission",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "From Parent to Offspring",
+                      "sSID": "8.LS.3.2",
+                      "sectionDescription": "Genetic information is transmitted between parent and offspring during reproduction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Review of Earth’s Lithosphere",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Historical Data and Plate Tectonics",
+                      "sSID": "8.ESS.2.1",
+                      "sectionDescription": "Review historical data such as fossil distribution and paleomagnetism and their contribution to the theory of plate tectonics."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Convection Currents",
+                      "sSID": "8.ESS.2.2",
+                      "sectionDescription": "Review how convection currents in the asthenosphere cause movements of the lithospheric plates."
+                    },
+                    {
+                      "sectionNumber": "3",
+                      "sectionTitle": "Types of Plate Boundaries",
+                      "sSID": "8.ESS.2.3",
+                      "sectionDescription": "Review the three main types of plate boundaries: divergent, convergent, and transform."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Review of Formation of Earth’s Surface",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Geologic Processes",
+                      "sSID": "8.ESS.3.1",
+                      "sectionDescription": "Review the constructive and destructive processes that form Earth’s surface."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Review of Dynamic Changes Evidence",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Geologic Record",
+                      "sSID": "8.ESS.4.1",
+                      "sectionDescription": "Review how the geologic record helps identify past environmental and climate conditions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Review of External Forces",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Magnetic, Electrical, and Gravitational Forces",
+                      "sSID": "8.PS.1.1",
+                      "sectionDescription": "Review how magnetic, electrical, and gravitational forces can act at a distance."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Review of Motion and Forces",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reference Points",
+                      "sSID": "8.PS.2.1",
+                      "sectionDescription": "Review how the motion of an object is always measured with respect to a reference point."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Adding Forces",
+                      "sSID": "8.PS.2.2",
+                      "sectionDescription": "Review how forces can be added and the net force on an object."
+                    },
+                    {
+                      "sectionNumber": "3",
+                      "sectionTitle": "Changes in Motion",
+                      "sSID": "8.PS.2.3",
+                      "sectionDescription": "Review how a nonzero net force acting on an object changes its speed and/or direction."
+                    },
+                    {
+                      "sectionNumber": "4",
+                      "sectionTitle": "Opposing Forces",
+                      "sSID": "8.PS.2.4",
+                      "sectionDescription": "Review kinetic friction and drag as forces that act opposite to the motion of objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Review of Diversity and Evolution",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Evidence from Fossils",
+                      "sSID": "8.LS.1.1",
+                      "sectionDescription": "Review how fossils provide evidence of life and environmental conditions changes."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Environmental Changes",
+                      "sSID": "8.LS.1.2",
+                      "sectionDescription": "Review how environmental changes can affect the survival and reproductive success of species."
+                    },
+                    {
+                      "sectionNumber": "3",
+                      "sectionTitle": "Extinction",
+                      "sSID": "8.LS.1.3",
+                      "sectionDescription": "Review how extinction occurs when organisms do not have the traits necessary to survive and reproduce."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Review of Reproduction and Genetic Transfer",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Genetic Information Transfer",
+                      "sSID": "8.LS.2.1",
+                      "sectionDescription": "Review how reproduction involves the transfer of genetic information from one generation to the next."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Review of Inherited Traits",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Expression of Traits",
+                      "sSID": "8.LS.3.1",
+                      "sectionDescription": "Review how the expression of traits is determined by genes and environmental factors."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Genetic Information Transmission",
+                      "sSID": "8.LS.3.2",
+                      "sectionDescription": "Review how genetic information is transmitted between parent and offspring during reproduction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Exploring Plate Tectonics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Hands-on Activities",
+                      "sSID": "8.ESS.2.1",
+                      "sectionDescription": "Engage in activities that demonstrate the movement of tectonic plates and the formation of different plate boundaries."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Modeling Geologic Processes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Constructive and Destructive Forces",
+                      "sSID": "8.ESS.3.1",
+                      "sectionDescription": "Create models to show how constructive and destructive geologic processes shape Earth's surface."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Analyzing the Geologic Record",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Past Environments",
+                      "sSID": "8.ESS.4.1",
+                      "sectionDescription": "Analyze samples from the geologic record to infer past environmental and climate conditions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Exploring Forces at a Distance",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Magnetic, Electrical, and Gravitational Forces",
+                      "sSID": "8.PS.1.1",
+                      "sectionDescription": "Conduct experiments to explore how magnetic, electrical, and gravitational forces act at a distance."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Investigating Motion and Forces",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Forces and Motion",
+                      "sSID": "8.PS.2.1",
+                      "sectionDescription": "Perform investigations to measure the motion of objects with respect to a reference point."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Calculating Net Force",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Adding Forces",
+                      "sSID": "8.PS.2.2",
+                      "sectionDescription": "Calculate the net force on an object by summing all the forces acting on it."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Exploring Changes in Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Nonzero Net Force",
+                      "sSID": "8.PS.2.3",
+                      "sectionDescription": "Investigate how a nonzero net force changes the speed and direction of an object."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Understanding Opposing Forces",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Kinetic Friction and Drag",
+                      "sSID": "8.PS.2.4",
+                      "sectionDescription": "Examine how kinetic friction and drag act opposite to the motion of objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Exploring Fossil Evidence",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fossils and Evolution",
+                      "sSID": "8.LS.1.1",
+                      "sectionDescription": "Investigate how fossils provide evidence of life and environmental changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Environmental Changes and Species Survival",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Effects on Survival",
+                      "sSID": "8.LS.1.2",
+                      "sectionDescription": "Analyze how environmental changes affect species survival and reproductive success."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Understanding Extinction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reasons for Extinction",
+                      "sSID": "8.LS.1.3",
+                      "sectionDescription": "Explore how extinction occurs when organisms do not have the necessary traits to survive and reproduce."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Review and Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comprehensive Review",
+                      "sSID": "8.ESS.2.1, 8.ESS.2.2, 8.ESS.2.3, 8.ESS.3.1, 8.ESS.4.1, 8.PS.1.1, 8.PS.2.1, 8.PS.2.2, 8.PS.2.3, 8.PS.2.4, 8.LS.1.1, 8.LS.1.2, 8.LS.1.3, 8.LS.2.1, 8.LS.3.1, 8.LS.3.2",
+                      "sectionDescription": "Review all key concepts covered throughout the year and complete final projects."
+                    }
+                  ]
+                }
+              ]
+
+            }

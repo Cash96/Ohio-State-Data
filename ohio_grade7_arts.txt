@@ -1,0 +1,549 @@
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "hasData": true,
+      {
+          "grade": "7",
+          "subject": [
+            {
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "PE",
+                  "objectiveTitle": "Perceiving/Knowing",
+                  "objectiveDescription": "Observe, listen, attend to, discriminate",
+                  "expectations": [
+                    {
+                      "expectationID": "1PE",
+                      "expectationDescription": "Explore how personal experiences, interest, cultural heritage and gender influence an artist’s style and choice of subject matter."
+                    },
+                    {
+                      "expectationID": "2PE",
+                      "expectationDescription": "Identify professions that use artistic skills and problem-solving."
+                    },
+                    {
+                      "expectationID": "3PE",
+                      "expectationDescription": "Identify sources of visual culture in society and the media and discuss how the messages they convey affect personal and consumer choices."
+                    },
+                    {
+                      "expectationID": "4PE",
+                      "expectationDescription": "Observe a variety of artworks noticing details, themes and ideas and group them into patterns and categories."
+                    },
+                    {
+                      "expectationID": "5PE",
+                      "expectationDescription": "Examine designed objects and identify the processes and decisions made to produce them with attention to purpose, aesthetics, social issues and cultural and personal meaning."
+                    },
+                    {
+                      "expectationID": "6PE",
+                      "expectationDescription": "Connect various art forms to their social, cultural or political purposes and include regional examples."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "PR",
+                  "objectiveTitle": "Producing/Performing",
+                  "objectiveDescription": "Generate, create, realize, use & master skills",
+                  "expectations": [
+                    {
+                      "expectationID": "1PR",
+                      "expectationDescription": "Improve craftsmanship and refine ideas in response to feedback."
+                    },
+                    {
+                      "expectationID": "2PR",
+                      "expectationDescription": "Manipulate materials, tools and technology in conventional and unconventional ways to create a work of art."
+                    },
+                    {
+                      "expectationID": "3PR",
+                      "expectationDescription": "Represent depth and volume in their two-dimensional works of art."
+                    },
+                    {
+                      "expectationID": "4PR",
+                      "expectationDescription": "Apply art and design principles in the construction of three-dimensional artworks."
+                    },
+                    {
+                      "expectationID": "5PR",
+                      "expectationDescription": "Create a work of art in collaboration with others to address a social or cultural issue."
+                    },
+                    {
+                      "expectationID": "6PR",
+                      "expectationDescription": "Demonstrate understanding of visual literacy, illustration and graphic communication."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "RE",
+                  "objectiveTitle": "Responding/Reflecting",
+                  "objectiveDescription": "Make connections, reconsider, question, self-assess",
+                  "expectations": [
+                    {
+                      "expectationID": "1RE",
+                      "expectationDescription": "Speculate about an artist’s intentions and message in a work using relevant references to the work."
+                    },
+                    {
+                      "expectationID": "2RE",
+                      "expectationDescription": "Compare and contrast diverse viewpoints about works of art."
+                    },
+                    {
+                      "expectationID": "3RE",
+                      "expectationDescription": "Interpret selected artworks and synthesize their interpretations with the interpretations of others."
+                    },
+                    {
+                      "expectationID": "4RE",
+                      "expectationDescription": "Classify and categorize examples of artworks from various eras and cultures."
+                    },
+                    {
+                      "expectationID": "5RE",
+                      "expectationDescription": "Describe how experiences in galleries, museums and other cultural institutions can stimulate the imagination and enrich people’s lives."
+                    },
+                    {
+                      "expectationID": "6RE",
+                      "expectationDescription": "Develop and use criteria to guide reflection and assessment of selected personal artworks."
+                    },
+                    {
+                      "expectationID": "7RE",
+                      "expectationDescription": "Assess one’s own work and working process and the work of others in relation to criteria and standards."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Visual Arts",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Influence on Artist’s Style and Subject Matter",
+                      "sSID": "1PE",
+                      "sectionDescription": "Explore how personal experiences, interest, cultural heritage and gender influence an artist’s style and choice of subject matter."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Artistic Skills and Professions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Professions Using Artistic Skills",
+                      "sSID": "2PE",
+                      "sectionDescription": "Identify professions that use artistic skills and problem-solving."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Visual Culture and Media",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sources of Visual Culture",
+                      "sSID": "3PE",
+                      "sectionDescription": "Identify sources of visual culture in society and the media and discuss how the messages they convey affect personal and consumer choices."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Observing and Grouping Artworks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Patterns and Categories in Artworks",
+                      "sSID": "4PE",
+                      "sectionDescription": "Observe a variety of artworks noticing details, themes and ideas and group them into patterns and categories."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Designed Objects and Their Meanings",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Processes and Decisions in Design",
+                      "sSID": "5PE",
+                      "sectionDescription": "Examine designed objects and identify the processes and decisions made to produce them with attention to purpose, aesthetics, social issues and cultural and personal meaning."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Art Forms and Their Purposes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Connecting Art Forms to Purposes",
+                      "sSID": "6PE",
+                      "sectionDescription": "Connect various art forms to their social, cultural or political purposes and include regional examples."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Improving Craftsmanship",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Refining Ideas and Techniques",
+                      "sSID": "1PR",
+                      "sectionDescription": "Improve craftsmanship and refine ideas in response to feedback."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Creative Use of Materials",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Manipulating Materials",
+                      "sSID": "2PR",
+                      "sectionDescription": "Manipulate materials, tools and technology in conventional and unconventional ways to create a work of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Representing Depth and Volume",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Depth in 2D Art",
+                      "sSID": "3PR",
+                      "sectionDescription": "Represent depth and volume in their two-dimensional works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Three-Dimensional Artworks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Constructing 3D Art",
+                      "sSID": "4PR",
+                      "sectionDescription": "Apply art and design principles in the construction of three-dimensional artworks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Collaborative Art Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art for Social Issues",
+                      "sSID": "5PR",
+                      "sectionDescription": "Create a work of art in collaboration with others to address a social or cultural issue."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Visual Literacy and Graphic Communication",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Visual Communication",
+                      "sSID": "6PR",
+                      "sectionDescription": "Demonstrate understanding of visual literacy, illustration and graphic communication."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Interpreting Artistic Intentions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Speculating Artist’s Intentions",
+                      "sSID": "1RE",
+                      "sectionDescription": "Speculate about an artist’s intentions and message in a work using relevant references to the work."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Diverse Viewpoints in Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Viewpoints",
+                      "sSID": "2RE",
+                      "sectionDescription": "Compare and contrast diverse viewpoints about works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Synthesizing Interpretations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Artworks",
+                      "sSID": "3RE",
+                      "sectionDescription": "Interpret selected artworks and synthesize their interpretations with the interpretations of others."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Classifying Artworks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Categorizing Artworks",
+                      "sSID": "4RE",
+                      "sectionDescription": "Classify and categorize examples of artworks from various eras and cultures."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Cultural Institutions and Imagination",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Experiencing Art Institutions",
+                      "sSID": "5RE",
+                      "sectionDescription": "Describe how experiences in galleries, museums and other cultural institutions can stimulate the imagination and enrich people’s lives."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Reflecting on Artworks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Criteria for Reflection",
+                      "sSID": "6RE",
+                      "sectionDescription": "Develop and use criteria to guide reflection and assessment of selected personal artworks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Assessing Artworks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Self-Assessment and Peer Review",
+                      "sSID": "7RE",
+                      "sectionDescription": "Assess one’s own work and working process and the work of others in relation to criteria and standards."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Art and Cultural Heritage",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Influence of Cultural Heritage",
+                      "sSID": "1PE",
+                      "sectionDescription": "Explore how personal experiences, interest, cultural heritage and gender influence an artist’s style and choice of subject matter."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Artistic Problem-Solving",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Artistic Professions",
+                      "sSID": "2PE",
+                      "sectionDescription": "Identify professions that use artistic skills and problem-solving."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Impact of Visual Culture",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Visual Culture in Media",
+                      "sSID": "3PE",
+                      "sectionDescription": "Identify sources of visual culture in society and the media and discuss how the messages they convey affect personal and consumer choices."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Analyzing Artworks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Grouping Artworks",
+                      "sSID": "4PE",
+                      "sectionDescription": "Observe a variety of artworks noticing details, themes and ideas and group them into patterns and categories."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Design Decisions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Purpose and Aesthetics in Design",
+                      "sSID": "5PE",
+                      "sectionDescription": "Examine designed objects and identify the processes and decisions made to produce them with attention to purpose, aesthetics, social issues and cultural and personal meaning."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Connecting Art Forms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Social, Cultural and Political Art",
+                      "sSID": "6PE",
+                      "sectionDescription": "Connect various art forms to their social, cultural or political purposes and include regional examples."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Improving Art Skills",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Craftsmanship and Feedback",
+                      "sSID": "1PR",
+                      "sectionDescription": "Improve craftsmanship and refine ideas in response to feedback."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Creative Art Techniques",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Manipulating Materials",
+                      "sSID": "2PR",
+                      "sectionDescription": "Manipulate materials, tools and technology in conventional and unconventional ways to create a work of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Depth in Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Representing Depth",
+                      "sSID": "3PR",
+                      "sectionDescription": "Represent depth and volume in their two-dimensional works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Three-Dimensional Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "3D Art Construction",
+                      "sSID": "4PR",
+                      "sectionDescription": "Apply art and design principles in the construction of three-dimensional artworks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Collaborative Art Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Social Issue Art",
+                      "sSID": "5PR",
+                      "sectionDescription": "Create a work of art in collaboration with others to address a social or cultural issue."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Visual Literacy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Graphic Communication",
+                      "sSID": "6PR",
+                      "sectionDescription": "Demonstrate understanding of visual literacy, illustration and graphic communication."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Interpreting Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Speculating Artist’s Intentions",
+                      "sSID": "1RE",
+                      "sectionDescription": "Speculate about an artist’s intentions and message in a work using relevant references to the work."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Diverse Art Viewpoints",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Viewpoints",
+                      "sSID": "2RE",
+                      "sectionDescription": "Compare and contrast diverse viewpoints about works of art."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Synthesizing Art Interpretations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Artworks",
+                      "sSID": "3RE",
+                      "sectionDescription": "Interpret selected artworks and synthesize their interpretations with the interpretations of others."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Categorizing Art",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Classifying Artworks",
+                      "sSID": "4RE",
+                      "sectionDescription": "Classify and categorize examples of artworks from various eras and cultures."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Reflecting on Art Experiences",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Experiencing Art Institutions",
+                      "sSID": "5RE",
+                      "sectionDescription": "Describe how experiences in galleries, museums and other cultural institutions can stimulate the imagination and enrich people’s lives."
+                    }
+                  ]
+                }
+              ]
+
+            }
