@@ -1,0 +1,530 @@
+{
+  "subjectID": "Visual Art",
+  "subjectTitle": "Visual Art",
+  "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+  "objectives": [
+    {
+      "objectiveID": "PE.5",
+      "objectiveTitle": "Perceiving/Knowing",
+      "objectiveDescription": "Observe, listen, attend to, discriminate",
+      "expectations": [
+        {
+          "expectationID": "1PE",
+          "expectationDescription": "Understand that the context of an art object has an effect on how that object is perceived."
+        },
+        {
+          "expectationID": "2PE",
+          "expectationDescription": "Identify and communicate how historical and cultural contexts influence ideas that inform artists."
+        },
+        {
+          "expectationID": "3PE",
+          "expectationDescription": "Investigate the role of cultural objects in our everyday environment."
+        },
+        {
+          "expectationID": "4PE",
+          "expectationDescription": "Compare and contrast how form and style are influenced by social, environmental and political views in artworks."
+        },
+        {
+          "expectationID": "5PE",
+          "expectationDescription": "Focus attention on selected artworks to identify and pose questions about aesthetic qualities (e.g., sensory, organizational, emotional) in the works."
+        },
+        {
+          "expectationID": "6PE",
+          "expectationDescription": "Select and access contemporary digital tools and media arts to investigate ideas and inform artmaking."
+        }
+      ]
+    },
+    {
+      "objectiveID": "PR.5",
+      "objectiveTitle": "Producing/Performing",
+      "objectiveDescription": "Generate, create, realize, use & master skills",
+      "expectations": [
+        {
+          "expectationID": "1PR",
+          "expectationDescription": "Integrate observational and technical skills to strengthen artmaking."
+        },
+        {
+          "expectationID": "2PR",
+          "expectationDescription": "Use digital tools to explore ideas, create and refine works of art during the artmaking process."
+        },
+        {
+          "expectationID": "3PR",
+          "expectationDescription": "Experiment with various ideas and visual art media to solve a problem that addresses a contemporary social issue."
+        },
+        {
+          "expectationID": "4PR",
+          "expectationDescription": "Select and use the elements and principles of art and design to communicate understanding of an interdisciplinary concept."
+        },
+        {
+          "expectationID": "5PR",
+          "expectationDescription": "During collaborative artmaking experiences, demonstrate respect and support for peer ideas and creativity."
+        }
+      ]
+    },
+    {
+      "objectiveID": "RE.5",
+      "objectiveTitle": "Responding/Reflecting",
+      "objectiveDescription": "Make connections, reconsider, question, self-assess",
+      "expectations": [
+        {
+          "expectationID": "1RE",
+          "expectationDescription": "Apply reasoning skills to analyze and interpret the meaning in artworks."
+        },
+        {
+          "expectationID": "2RE",
+          "expectationDescription": "Describe how personal experiences can influence artistic preferences."
+        },
+        {
+          "expectationID": "3RE",
+          "expectationDescription": "Explain the reasons and value of documenting and preserving works of art and art objects in some cultures."
+        },
+        {
+          "expectationID": "4RE",
+          "expectationDescription": "Communicate how personal artistic decisions are influenced by social, environmental and political views."
+        },
+        {
+          "expectationID": "5RE",
+          "expectationDescription": "Express what was learned and the challenges that remain when assessing their artworks."
+        },
+        {
+          "expectationID": "6RE",
+          "expectationDescription": "Use criteria to assess works of art individually and collaboratively"
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "week#": "1",
+      "title": "Understanding Art Contexts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Context of Art Objects",
+          "sSID": "1PE",
+          "sectionDescription": "Understand that the context of an art object has an effect on how that object is perceived."
+        }
+      ]
+    },
+    {
+      "week#": "2",
+      "title": "Historical and Cultural Influences",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Influence on Artists",
+          "sSID": "2PE",
+          "sectionDescription": "Identify and communicate how historical and cultural contexts influence ideas that inform artists."
+        }
+      ]
+    },
+    {
+      "week#": "3",
+      "title": "Cultural Objects in Daily Life",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Role of Cultural Objects",
+          "sSID": "3PE",
+          "sectionDescription": "Investigate the role of cultural objects in our everyday environment."
+        }
+      ]
+    },
+    {
+      "week#": "4",
+      "title": "Form and Style in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Influences on Artworks",
+          "sSID": "4PE",
+          "sectionDescription": "Compare and contrast how form and style are influenced by social, environmental, and political views in artworks."
+        }
+      ]
+    },
+    {
+      "week#": "5",
+      "title": "Aesthetic Qualities in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Identifying Aesthetic Qualities",
+          "sSID": "5PE",
+          "sectionDescription": "Focus attention on selected artworks to identify and pose questions about aesthetic qualities (e.g., sensory, organizational, emotional) in the works."
+        }
+      ]
+    },
+    {
+      "week#": "6",
+      "title": "Digital Tools in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Investigating Ideas",
+          "sSID": "6PE",
+          "sectionDescription": "Select and access contemporary digital tools and media arts to investigate ideas and inform artmaking."
+        }
+      ]
+    },
+    {
+      "week#": "7",
+      "title": "Observational and Technical Skills",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Strengthening Artmaking",
+          "sSID": "1PR",
+          "sectionDescription": "Integrate observational and technical skills to strengthen artmaking."
+        }
+      ]
+    },
+    {
+      "week#": "8",
+      "title": "Exploring Digital Tools",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating and Refining Art",
+          "sSID": "2PR",
+          "sectionDescription": "Use digital tools to explore ideas, create and refine works of art during the artmaking process."
+        }
+      ]
+    },
+    {
+      "week#": "9",
+      "title": "Solving Contemporary Issues",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Visual Art Media",
+          "sSID": "3PR",
+          "sectionDescription": "Experiment with various ideas and visual art media to solve a problem that addresses a contemporary social issue."
+        }
+      ]
+    },
+    {
+      "week#": "10",
+      "title": "Elements and Principles of Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Communicating Understanding",
+          "sSID": "4PR",
+          "sectionDescription": "Select and use the elements and principles of art and design to communicate understanding of an interdisciplinary concept."
+        }
+      ]
+    },
+    {
+      "week#": "11",
+      "title": "Collaborative Artmaking",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Respecting Peer Ideas",
+          "sSID": "5PR",
+          "sectionDescription": "During collaborative artmaking experiences, demonstrate respect and support for peer ideas and creativity."
+        }
+      ]
+    },
+    {
+      "week#": "12",
+      "title": "Analyzing Artworks",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Interpreting Meaning",
+          "sSID": "1RE",
+          "sectionDescription": "Apply reasoning skills to analyze and interpret the meaning in artworks."
+        }
+      ]
+    },
+    {
+      "week#": "13",
+      "title": "Personal Experiences in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Influencing Preferences",
+          "sSID": "2RE",
+          "sectionDescription": "Describe how personal experiences can influence artistic preferences."
+        }
+      ]
+    },
+    {
+      "week#": "14",
+      "title": "Documenting and Preserving Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Cultural Practices",
+          "sSID": "3RE",
+          "sectionDescription": "Explain the reasons and value of documenting and preserving works of art and art objects in some cultures."
+        }
+      ]
+    },
+    {
+      "week#": "15",
+      "title": "Artistic Decisions",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Influences on Decisions",
+          "sSID": "4RE",
+          "sectionDescription": "Communicate how personal artistic decisions are influenced by social, environmental, and political views."
+        }
+      ]
+    },
+    {
+      "week#": "16",
+      "title": "Assessing Artworks",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Challenges in Art",
+          "sSID": "5RE",
+          "sectionDescription": "Express what was learned and the challenges that remain when assessing their artworks."
+        }
+      ]
+    },
+    {
+      "week#": "17",
+      "title": "Criteria for Assessment",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Assessing Art",
+          "sSID": "6RE",
+          "sectionDescription": "Use criteria to assess works of art individually and collaboratively."
+        }
+      ]
+    },
+    {
+      "week#": "18",
+      "title": "Review: Art Contexts and Influences",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Historical and Cultural Contexts",
+          "sSID": "PE.5",
+          "sectionDescription": "Review the understanding of how the context of an art object affects perception and how historical and cultural contexts influence artists."
+        }
+      ]
+    },
+    {
+      "week#": "19",
+      "title": "Review: Artmaking Skills",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Observational and Technical Skills",
+          "sSID": "PR.5",
+          "sectionDescription": "Review the integration of observational and technical skills in artmaking and the use of digital tools in creating art."
+        }
+      ]
+    },
+    {
+      "week#": "20",
+      "title": "Review: Solving Social Issues",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Contemporary Social Issues",
+          "sSID": "PR.5",
+          "sectionDescription": "Review experiments with various ideas and visual art media to solve problems addressing contemporary social issues."
+        }
+      ]
+    },
+    {
+      "week#": "21",
+      "title": "Review: Elements and Principles",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Communicating Concepts",
+          "sSID": "PR.5",
+          "sectionDescription": "Review the selection and use of elements and principles of art and design to communicate understanding of interdisciplinary concepts."
+        }
+      ]
+    },
+    {
+      "week#": "22",
+      "title": "Review: Collaborative Artmaking",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Peer Support",
+          "sSID": "PR.5",
+          "sectionDescription": "Review respect and support for peer ideas and creativity during collaborative artmaking experiences."
+        }
+      ]
+    },
+    {
+      "week#": "23",
+      "title": "Review: Analyzing and Interpreting Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Reasoning Skills",
+          "sSID": "RE.5",
+          "sectionDescription": "Review reasoning skills applied to analyze and interpret the meaning in artworks."
+        }
+      ]
+    },
+    {
+      "week#": "24",
+      "title": "Review: Personal Experiences and Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Artistic Preferences",
+          "sSID": "RE.5",
+          "sectionDescription": "Review how personal experiences can influence artistic preferences."
+        }
+      ]
+    },
+    {
+      "week#": "25",
+      "title": "Review: Documenting Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Preserving Artworks",
+          "sSID": "RE.5",
+          "sectionDescription": "Review the reasons and value of documenting and preserving works of art and art objects in some cultures."
+        }
+      ]
+    },
+    {
+      "week#": "26",
+      "title": "Review: Artistic Decisions",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Influences on Decisions",
+          "sSID": "RE.5",
+          "sectionDescription": "Review how personal artistic decisions are influenced by social, environmental, and political views."
+        }
+      ]
+    },
+    {
+      "week#": "27",
+      "title": "Review: Assessing Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Assessment Criteria",
+          "sSID": "RE.5",
+          "sectionDescription": "Review criteria to assess works of art individually and collaboratively."
+        }
+      ]
+    },
+    {
+      "week#": "28",
+      "title": "Project Week: Cultural Artifacts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Artifacts",
+          "sSID": "PE.5",
+          "sectionDescription": "Students create cultural artifacts that demonstrate their understanding of historical and cultural influences."
+        }
+      ]
+    },
+    {
+      "week#": "29",
+      "title": "Project Week: Digital Art Creations",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Digital Tools",
+          "sSID": "PR.5",
+          "sectionDescription": "Students use digital tools to create and refine works of art that address contemporary social issues."
+        }
+      ]
+    },
+    {
+      "week#": "30",
+      "title": "Project Week: Collaborative Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Collaborative Projects",
+          "sSID": "PR.5",
+          "sectionDescription": "Students work collaboratively to create art projects that demonstrate respect and support for peer ideas and creativity."
+        }
+      ]
+    },
+    {
+      "week#": "31",
+      "title": "Project Week: Art Analysis",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Analyzing Artworks",
+          "sSID": "RE.5",
+          "sectionDescription": "Students analyze and interpret the meaning in selected artworks, applying reasoning skills."
+        }
+      ]
+    },
+    {
+      "week#": "32",
+      "title": "Final Project: Art Exhibition Preparation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Planning the Exhibition",
+          "sSID": "PE.5, PR.5, RE.5",
+          "sectionDescription": "Students plan and organize an art exhibition, incorporating their cultural artifacts, digital art creations, and collaborative projects."
+        }
+      ]
+    },
+    {
+      "week#": "33",
+      "title": "Final Project: Art Exhibition Setup",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Setting Up the Exhibition",
+          "sSID": "PE.5, PR.5, RE.5",
+          "sectionDescription": "Students set up their art exhibition, arranging artworks and preparing presentations."
+        }
+      ]
+    },
+    {
+      "week#": "34",
+      "title": "Final Project: Art Exhibition Presentation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Presenting Artworks",
+          "sSID": "PE.5, PR.5, RE.5",
+          "sectionDescription": "Students present their artworks and discuss the influences, techniques, and meanings behind their creations."
+        }
+      ]
+    },
+    {
+      "week#": "35",
+      "title": "Course Review and Reflection",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Reflecting on Learning",
+          "sSID": "PE.5, PR.5, RE.5",
+          "sectionDescription": "Review key concepts learned throughout the course and reflect on personal growth and understanding."
+        }
+      ]
+    },
+    {
+      "week#": "36",
+      "title": "Celebration of Achievements",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Celebrating Success",
+          "sSID": "PE.5, PR.5, RE.5",
+          "sectionDescription": "Celebrate the achievements and progress made throughout the course with a class celebration and sharing session."
+        }
+      ]
+    }
+  ]
+}

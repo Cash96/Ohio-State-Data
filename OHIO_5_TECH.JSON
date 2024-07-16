@@ -1,0 +1,674 @@
+{
+  "subjectID": "Technology",
+  "subjectTitle": "Technology",
+  "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Technology/Ohios-Learning-Standards-for-Technology/The-2017-Ohio-Learning-Standards-in-Technology.pdf.aspx?lang=en-US",
+  "objectives": [
+    {
+      "objectiveID": "3-5.ICT.1",
+      "objectiveTitle": "Identify and use appropriate digital learning tools and resources to accomplish a defined task.",
+      "objectiveDescription": "Students will learn how to select and utilize digital tools to plan, implement, and reflect upon a defined task.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "With guidance, identify and use digital learning tools or resources to support planning, implementing and reflecting upon a defined task."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Explain the use of selected digital learning tools and resources to support productivity and learning."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.ICT.2",
+      "objectiveTitle": "Use digital learning tools and resources to locate, evaluate and use information.",
+      "objectiveDescription": "Students will develop skills in information literacy by using digital tools to locate, evaluate, and use information effectively.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Identify questions related to a topic of interest to broaden or narrow the topic as needed."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Use appropriate search techniques to locate needed information using digital learning tools and resources."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Use multiple criteria developed with guidance to differentiate between relevant and irrelevant information found with digital learning tools and resources."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Explain basic ideas of plagiarism and copyright."
+        },
+        {
+          "expectationID": "e",
+          "expectationDescription": "Use digital citation tools to cite sources with appropriate guidance."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.ICT.3",
+      "objectiveTitle": "Use digital learning tools and resources to construct knowledge.",
+      "objectiveDescription": "Students will learn to synthesize and create new knowledge by utilizing various digital resources.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Gather, organize and summarize information from multiple digital learning tools and resources to build knowledge of a topic."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Interpret images, diagrams, maps, graphs, infographics, videos, animations, interactives, etc., in digital learning tools and resources to clarify and add to knowledge."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Organize observations and data collected during student explorations to determine if patterns are present."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Create artifacts using digital learning tools and resources to demonstrate knowledge."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.ICT.4",
+      "objectiveTitle": "Use digital learning tools and resources to communicate and disseminate information to multiple audiences.",
+      "objectiveDescription": "Students will utilize digital tools to effectively communicate and share information with diverse audiences.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "With guidance, discuss and identify communication needs considering goals, audience and content."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "With guidance, select media formats appropriate to content and audience."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Evaluate the features of digital learning tools and resources based on the characteristics of a specific audience."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Produce and publish information appropriate for a target audience using digital learning tools and resources."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.ST.1",
+      "objectiveTitle": "Demonstrate an understanding of technology’s impact on the advancement of humanity – economically, environmentally and ethically.",
+      "objectiveDescription": "Students will explore how technology influences and shapes various aspects of society, including ethical considerations and community impacts.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Demonstrate appropriate use of technology and explain the importance of responsible and ethical technology use."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Identify positive and negative impacts one’s use of personal technology and technology systems (e.g., agriculture, transportation, energy generation, water treatment) can have on one’s community."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Describe legal and responsible practices when utilizing technology."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.ST.2",
+      "objectiveTitle": "Analyze the impact of communication and collaboration in both digital and physical environments.",
+      "objectiveDescription": "Students will understand the dynamics of digital and physical interactions and their implications for effective collaboration.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Create a plan and select collaboration and/or communication tools to complete a given task."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Exercise digital etiquette when communicating and collaborating."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Identify the positive and negative impact the use of technology can have on relationships, communities and self."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.ST.3",
+      "objectiveTitle": "Explain how technology, society and the individual impact one another.",
+      "objectiveDescription": "Students will explore the interrelationship between technology, society, and individual identity, considering both historical and future perspectives.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Describe the advantages and disadvantages of technology (past, present, future) to understand the relationship between technology, society and the individual."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Demonstrate how technology innovations/inventions can have multiple applications."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Identify and discuss how the use of technology affects self and others in various ways."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Identify the components of one’s digital identity and one’s digital footprint."
+        },
+        {
+          "expectationID": "e",
+          "expectationDescription": "Identify and discuss laws and rules that apply to digital content and information."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.DT.1",
+      "objectiveTitle": "Define and describe technology, including its core concepts of systems, resources, requirements, processes, controls, optimization and trade-offs.",
+      "objectiveDescription": "Students will gain a foundational understanding of technology and its various aspects, which are crucial to understanding how technological systems function.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Demonstrate how applying human knowledge using tools and machines extends human capabilities to meet our needs and wants."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Give examples of how requirements for a product can limit the design possibilities for that product."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Describe a process as a series of actions and how it is used to produce a result."
+        },
+        {
+          "expectationID": "d",
+          "expectationDescription": "Identify and describe examples of technology products and processes."
+        },
+        {
+          "expectationID": "e",
+          "expectationDescription": "Explain how controls use information to cause systems to change, like a home thermostat turning on the heat based on the low temperature of a room."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.DT.2",
+      "objectiveTitle": "Identify a problem and use an engineering design process to solve the problem.",
+      "objectiveDescription": "Students will engage in the engineering design process to identify and solve problems, critically thinking about potential solutions and their implementation.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Critique needs and opportunities for designing solutions."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Plan and implement a design process: identify a problem, think about ways to solve the problem, develop possible solutions, test and evaluate solution(s), present a possible solution, and redesign to improve the solution."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Generate, develop and communicate design ideas and decisions using appropriate terms and graphical representations."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.DT.3",
+      "objectiveTitle": "Demonstrate that solutions to complex problems require collaboration, interdisciplinary understanding and systems thinking.",
+      "objectiveDescription": "Students will learn the value of collaborative and interdisciplinary approaches to solving complex problems, emphasizing systems thinking.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Design a product with multiple components and describe how the components interact to form a system."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Explore and document connections between technology and other fields of study."
+        },
+        {
+          "expectationID": "c",
+          "expectationDescription": "Identify a product and describe how people from different disciplines combined their skills in the design and production of the product."
+        }
+      ]
+    },
+    {
+      "objectiveID": "3-5.DT.4",
+      "objectiveTitle": "Evaluate designs using functional, aesthetic and creative elements.",
+      "objectiveDescription": "Students will apply criteria to evaluate technological products, considering both functional and aesthetic aspects to appreciate the creative elements involved.",
+      "expectations": [
+        {
+          "expectationID": "a",
+          "expectationDescription": "Use criteria developed with guidance to evaluate a new or improved product for its functional, aesthetic and creative elements."
+        },
+        {
+          "expectationID": "b",
+          "expectationDescription": "Examine a familiar product or process and suggest improvements to its design."
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "week#": "1",
+      "title": "Introduction to Digital Learning Tools",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Identifying Digital Tools",
+          "sSID": "3-5.ICT.1.a",
+          "sectionDescription": "With guidance, identify digital learning tools or resources to support planning, implementing, and reflecting upon a defined task."
+        }
+      ]
+    },
+    {
+      "week#": "2",
+      "title": "Using Digital Tools for Productivity",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Explaining Tool Usage",
+          "sSID": "3-5.ICT.1.b",
+          "sectionDescription": "Explain the use of selected digital learning tools and resources to support productivity and learning."
+        }
+      ]
+    },
+    {
+      "week#": "3",
+      "title": "Information Literacy: Asking Questions",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Broadening or Narrowing Topics",
+          "sSID": "3-5.ICT.2.a",
+          "sectionDescription": "Identify questions related to a topic of interest to broaden or narrow the topic as needed."
+        }
+      ]
+    },
+    {
+      "week#": "4",
+      "title": "Searching for Information",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Search Techniques",
+          "sSID": "3-5.ICT.2.b",
+          "sectionDescription": "Use appropriate search techniques to locate needed information using digital learning tools and resources."
+        }
+      ]
+    },
+    {
+      "week#": "5",
+      "title": "Evaluating Information",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Relevant vs. Irrelevant Information",
+          "sSID": "3-5.ICT.2.c",
+          "sectionDescription": "Use multiple criteria developed with guidance to differentiate between relevant and irrelevant information found with digital learning tools and resources."
+        }
+      ]
+    },
+    {
+      "week#": "6",
+      "title": "Understanding Plagiarism and Copyright",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Basic Ideas of Plagiarism",
+          "sSID": "3-5.ICT.2.d",
+          "sectionDescription": "Explain the basic ideas of plagiarism and copyright."
+        }
+      ]
+    },
+    {
+      "week#": "7",
+      "title": "Citing Sources",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Citation Tools",
+          "sSID": "3-5.ICT.2.e",
+          "sectionDescription": "Use digital citation tools to cite sources with appropriate guidance."
+        }
+      ]
+    },
+    {
+      "week#": "8",
+      "title": "Gathering Information",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Building Knowledge",
+          "sSID": "3-5.ICT.3.a",
+          "sectionDescription": "Gather, organize, and summarize information from multiple digital learning tools and resources to build knowledge of a topic."
+        }
+      ]
+    },
+    {
+      "week#": "9",
+      "title": "Interpreting Digital Content",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Understanding Visual Information",
+          "sSID": "3-5.ICT.3.b",
+          "sectionDescription": "Interpret images, diagrams, maps, graphs, infographics, videos, animations, interactives, etc., in digital learning tools and resources to clarify and add to knowledge."
+        }
+      ]
+    },
+    {
+      "week#": "10",
+      "title": "Organizing Data",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Observations and Patterns",
+          "sSID": "3-5.ICT.3.c",
+          "sectionDescription": "Organize observations and data collected during student explorations to determine if patterns are present."
+        }
+      ]
+    },
+    {
+      "week#": "11",
+      "title": "Creating Digital Artifacts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Demonstrating Knowledge",
+          "sSID": "3-5.ICT.3.d",
+          "sectionDescription": "Create artifacts using digital learning tools and resources to demonstrate knowledge."
+        }
+      ]
+    },
+    {
+      "week#": "12",
+      "title": "Identifying Communication Needs",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Considering Goals and Audience",
+          "sSID": "3-5.ICT.4.a",
+          "sectionDescription": "With guidance, discuss and identify communication needs considering goals, audience, and content."
+        }
+      ]
+    },
+    {
+      "week#": "13",
+      "title": "Selecting Media Formats",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Appropriate Formats",
+          "sSID": "3-5.ICT.4.b",
+          "sectionDescription": "With guidance, select media formats appropriate to content and audience."
+        }
+      ]
+    },
+    {
+      "week#": "14",
+      "title": "Evaluating Digital Tools",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Features for Specific Audiences",
+          "sSID": "3-5.ICT.4.c",
+          "sectionDescription": "Evaluate the features of digital learning tools and resources based on the characteristics of a specific audience."
+        }
+      ]
+    },
+    {
+      "week#": "15",
+      "title": "Producing and Publishing Information",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Target Audience Publications",
+          "sSID": "3-5.ICT.4.d",
+          "sectionDescription": "Produce and publish information appropriate for a target audience using digital learning tools and resources."
+        }
+      ]
+    },
+    {
+      "week#": "16",
+      "title": "Responsible Technology Use",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Ethical Technology Practices",
+          "sSID": "3-5.ST.1.a",
+          "sectionDescription": "Demonstrate appropriate use of technology and explain the importance of responsible and ethical technology use."
+        }
+      ]
+    },
+    {
+      "week#": "17",
+      "title": "Impact of Technology on Community",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Positive and Negative Impacts",
+          "sSID": "3-5.ST.1.b",
+          "sectionDescription": "Identify positive and negative impacts one’s use of personal technology and technology systems can have on one’s community."
+        }
+      ]
+    },
+    {
+      "week#": "18",
+      "title": "Legal and Responsible Practices",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Technology Usage Rules",
+          "sSID": "3-5.ST.1.c",
+          "sectionDescription": "Describe legal and responsible practices when utilizing technology."
+        }
+      ]
+    },
+    {
+      "week#": "19",
+      "title": "Communication and Collaboration",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Planning for Collaboration",
+          "sSID": "3-5.ST.2.a",
+          "sectionDescription": "Create a plan and select collaboration and/or communication tools to complete a given task."
+        }
+      ]
+    },
+    {
+      "week#": "20",
+      "title": "Digital Etiquette",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Communicating Respectfully",
+          "sSID": "3-5.ST.2.b",
+          "sectionDescription": "Exercise digital etiquette when communicating and collaborating."
+        }
+      ]
+    },
+    {
+      "week#": "21",
+      "title": "Technology's Impact on Relationships",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Effects on Community",
+          "sSID": "3-5.ST.2.c",
+          "sectionDescription": "Identify the positive and negative impact the use of technology can have on relationships, communities, and self."
+        }
+      ]
+    },
+    {
+      "week#": "22",
+      "title": "Technology and Society",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Historical and Future Perspectives",
+          "sSID": "3-5.ST.3.a",
+          "sectionDescription": "Describe the advantages and disadvantages of technology (past, present, future) to understand the relationship between technology, society, and the individual."
+        }
+      ]
+    },
+    {
+      "week#": "23",
+      "title": "Innovations and Inventions",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Multiple Applications",
+          "sSID": "3-5.ST.3.b",
+          "sectionDescription": "Demonstrate how technology innovations/inventions can have multiple applications."
+        }
+      ]
+    },
+    {
+      "week#": "24",
+      "title": "Technology's Effects on Individuals",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Self and Others",
+          "sSID": "3-5.ST.3.c",
+          "sectionDescription": "Identify and discuss how the use of technology affects self and others in various ways."
+        }
+      ]
+    },
+    {
+      "week#": "25",
+      "title": "Digital Identity and Footprint",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Components of Digital Identity",
+          "sSID": "3-5.ST.3.d",
+          "sectionDescription": "Identify the components of one’s digital identity and one’s digital footprint."
+        }
+      ]
+    },
+    {
+      "week#": "26",
+      "title": "Laws and Digital Content",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Rules and Regulations",
+          "sSID": "3-5.ST.3.e",
+          "sectionDescription": "Identify and discuss laws and rules that apply to digital content and information."
+        }
+      ]
+    },
+    {
+      "week#": "27",
+      "title": "Understanding Technology Systems",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Core Concepts of Technology",
+          "sSID": "3-5.DT.1.a",
+          "sectionDescription": "Demonstrate how applying human knowledge using tools and machines extends human capabilities to meet our needs and wants."
+        }
+      ]
+    },
+    {
+      "week#": "28",
+      "title": "Design Requirements and Possibilities",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Design Limitations",
+          "sSID": "3-5.DT.1.b",
+          "sectionDescription": "Give examples of how requirements for a product can limit the design possibilities for that product."
+        }
+      ]
+    },
+    {
+      "week#": "29",
+      "title": "Understanding Processes",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Series of Actions",
+          "sSID": "3-5.DT.1.c",
+          "sectionDescription": "Describe a process as a series of actions and how it is used to produce a result."
+        }
+      ]
+    },
+    {
+      "week#": "30",
+      "title": "Technology Products and Processes",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Examples in Technology",
+          "sSID": "3-5.DT.1.d",
+          "sectionDescription": "Identify and describe examples of technology products and processes."
+        }
+      ]
+    },
+    {
+      "week#": "31",
+      "title": "Control Systems",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Controls",
+          "sSID": "3-5.DT.1.e",
+          "sectionDescription": "Explain how controls use information to cause systems to change, like a home thermostat turning on the heat based on the low temperature of a room."
+        }
+      ]
+    },
+    {
+      "week#": "32",
+      "title": "Engineering Design Process",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Identifying Problems",
+          "sSID": "3-5.DT.2.a",
+          "sectionDescription": "Critique needs and opportunities for designing solutions."
+        }
+      ]
+    },
+    {
+      "week#": "33",
+      "title": "Design Implementation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Planning and Evaluating",
+          "sSID": "3-5.DT.2.b",
+          "sectionDescription": "Plan and implement a design process: identify a problem, think about ways to solve the problem, develop possible solutions, test and evaluate solution(s), present a possible solution, and redesign to improve the solution."
+        }
+      ]
+    },
+    {
+      "week#": "34",
+      "title": "Communicating Design Ideas",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Terms and Representations",
+          "sSID": "3-5.DT.2.c",
+          "sectionDescription": "Generate, develop, and communicate design ideas and decisions using appropriate terms and graphical representations."
+        }
+      ]
+    },
+    {
+      "week#": "35",
+      "title": "Evaluating Designs",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Functional and Aesthetic Elements",
+          "sSID": "3-5.DT.4.a",
+          "sectionDescription": "Use criteria developed with guidance to evaluate a new or improved product for its functional, aesthetic, and creative elements."
+        }
+      ]
+    },
+    {
+      "week#": "36",
+      "title": "Improving Designs",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Suggesting Improvements",
+          "sSID": "3-5.DT.4.b",
+          "sectionDescription": "Examine a familiar product or process and suggest improvements to its design."
+        }
+      ]
+    }
+  ]
+}

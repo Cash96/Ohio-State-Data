@@ -1,0 +1,576 @@
+{
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-2.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "2.OA",
+                  "objectiveTitle": "Operations and Algebraic Thinking",
+                  "objectiveDescription": "Represent and solve problems involving addition and subtraction.",
+                  "expectations": [
+                    {
+                      "expectationID": "2.OA.1",
+                      "expectationDescription": "Use addition and subtraction within 100 to solve one- and two-step word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem."
+                    },
+                    {
+                      "expectationID": "2.OA.2",
+                      "expectationDescription": "Fluently add and subtract within 20 using mental strategies. By end of Grade 2, know from memory all sums of two one-digit numbers."
+                    },
+                    {
+                      "expectationID": "2.OA.3",
+                      "expectationDescription": "Determine whether a group of objects (up to 20) has an odd or even number of members, e.g., by pairing objects or counting them by 2s; write an equation to express an even number as a sum of two equal addends."
+                    },
+                    {
+                      "expectationID": "2.OA.4",
+                      "expectationDescription": "Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and up to 5 columns; write an equation to express the total as a sum of equal addends."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.NBT",
+                  "objectiveTitle": "Number and Operations in Base Ten",
+                  "objectiveDescription": "Understand and use place value and properties of operations to add and subtract.",
+                  "expectations": [
+                    {
+                      "expectationID": "2.NBT.1",
+                      "expectationDescription": "Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones."
+                    },
+                    {
+                      "expectationID": "2.NBT.2",
+                      "expectationDescription": "Count forward and backward within 1,000 by ones, tens, and hundreds starting at any number; skip-count by 5s starting at any multiple of 5."
+                    },
+                    {
+                      "expectationID": "2.NBT.3",
+                      "expectationDescription": "Read and write numbers to 1,000 using base-ten numerals, number names, expanded form, and equivalent representations."
+                    },
+                    {
+                      "expectationID": "2.NBT.4",
+                      "expectationDescription": "Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons."
+                    },
+                    {
+                      "expectationID": "2.NBT.5",
+                      "expectationDescription": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and/or the relationship between addition and subtraction."
+                    },
+                    {
+                      "expectationID": "2.NBT.6",
+                      "expectationDescription": "Add up to four two-digit numbers using strategies based on place value and properties of operations."
+                    },
+                    {
+                      "expectationID": "2.NBT.7",
+                      "expectationDescription": "Add and subtract within 1,000, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; record the strategy with a written numerical method and explain the reasoning used."
+                    },
+                    {
+                      "expectationID": "2.NBT.8",
+                      "expectationDescription": "Mentally add 10 or 100 to a given number 100-900, and mentally subtract 10 or 100 from a given number 100-900."
+                    },
+                    {
+                      "expectationID": "2.NBT.9",
+                      "expectationDescription": "Explain why addition and subtraction strategies work, using place value and the properties of operations."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.MD",
+                  "objectiveTitle": "Measurement and Data",
+                  "objectiveDescription": "Measure and estimate lengths in standard units. Relate addition and subtraction to length. Work with time and money. Represent and interpret data.",
+                  "expectations": [
+                    {
+                      "expectationID": "2.MD.1",
+                      "expectationDescription": "Measure the length of an object by selecting and using appropriate tools such as rulers, yardsticks, meter sticks, and measuring tapes."
+                    },
+                    {
+                      "expectationID": "2.MD.2",
+                      "expectationDescription": "Measure the length of an object twice, using length units of different lengths for the two measurements; describe how the two measurements relate to the size of the unit chosen."
+                    },
+                    {
+                      "expectationID": "2.MD.3",
+                      "expectationDescription": "Estimate lengths using units of inches, feet, centimeters, and meters."
+                    },
+                    {
+                      "expectationID": "2.MD.4",
+                      "expectationDescription": "Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit."
+                    },
+                    {
+                      "expectationID": "2.MD.5",
+                      "expectationDescription": "Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same whole number units."
+                    },
+                    {
+                      "expectationID": "2.MD.6",
+                      "expectationDescription": "Represent whole numbers as lengths from 0 on a number line diagram with equally spaced points corresponding to the numbers 0, 1, 2,..., and represent whole number sums and differences within 100 on a number line diagram."
+                    },
+                    {
+                      "expectationID": "2.MD.7",
+                      "expectationDescription": "Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m."
+                    },
+                    {
+                      "expectationID": "2.MD.8",
+                      "expectationDescription": "Solve problems with money, including identifying nickels and quarters by name and value, finding the value of a collection of coins, and solving word problems by adding and subtracting within 100."
+                    },
+                    {
+                      "expectationID": "2.MD.9",
+                      "expectationDescription": "Generate measurement data by measuring lengths of several objects to the nearest whole unit or by making repeated measurements of the same object. Show the measurements by creating a line plot, where the horizontal scale is marked off in whole number units."
+                    },
+                    {
+                      "expectationID": "2.MD.10",
+                      "expectationDescription": "Organize, represent, and interpret data with up to four categories; complete picture graphs and bar graphs when single-unit scales are provided; solve simple put-together, take-apart, and compare problems in a graph."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.G",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Reason with shapes and their attributes.",
+                  "expectations": [
+                    {
+                      "expectationID": "2.G.1",
+                      "expectationDescription": "Recognize and identify triangles, quadrilaterals, pentagons, and hexagons based on the number of sides or vertices. Recognize and identify cubes, rectangular prisms, cones, and cylinders."
+                    },
+                    {
+                      "expectationID": "2.G.2",
+                      "expectationDescription": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of them."
+                    },
+                    {
+                      "expectationID": "2.G.3",
+                      "expectationDescription": "Partition circles and rectangles into two, three, or four equal shares; describe the shares using the words halves, thirds, or fourths and quarters, and use the phrases half of, third of, or fourth of and quarter of. Describe the whole as two halves, three thirds, or four fourths in real-world contexts. Recognize that equal shares of identical wholes need not have the same shape."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "One- and Two-Step Word Problems",
+                      "sSID": "2.OA.1",
+                      "sectionDescription": "Use addition and subtraction within 100 to solve one- and two-step word problems involving situations of adding to, taking from, putting together, taking apart, and comparing."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Fluency with Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Mental Strategies",
+                      "sSID": "2.OA.2",
+                      "sectionDescription": "Fluently add and subtract within 20 using mental strategies."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Odd and Even Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Determining Odd and Even",
+                      "sSID": "2.OA.3",
+                      "sectionDescription": "Determine whether a group of objects (up to 20) has an odd or even number of members."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Rectangular Arrays",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Adding Objects in Arrays",
+                      "sSID": "2.OA.4",
+                      "sectionDescription": "Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and up to 5 columns."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Understanding Place Value",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Three-Digit Numbers",
+                      "sSID": "2.NBT.1",
+                      "sectionDescription": "Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Counting Within 1,000",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Counting by Ones, Tens, and Hundreds",
+                      "sSID": "2.NBT.2",
+                      "sectionDescription": "Count forward and backward within 1,000 by ones, tens, and hundreds starting at any number."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Reading and Writing Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Base-Ten Numerals and Number Names",
+                      "sSID": "2.NBT.3",
+                      "sectionDescription": "Read and write numbers to 1,000 using base-ten numerals, number names, expanded form, and equivalent representations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Comparing Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Three-Digit Numbers",
+                      "sSID": "2.NBT.4",
+                      "sectionDescription": "Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Adding and Subtracting Within 100",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Strategies for Addition and Subtraction",
+                      "sSID": "2.NBT.5",
+                      "sectionDescription": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and/or the relationship between addition and subtraction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Adding Multiple Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Adding Two-Digit Numbers",
+                      "sSID": "2.NBT.6",
+                      "sectionDescription": "Add up to four two-digit numbers using strategies based on place value and properties of operations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Adding and Subtracting Within 1,000",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Concrete Models and Drawings",
+                      "sSID": "2.NBT.7",
+                      "sectionDescription": "Add and subtract within 1,000, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Mental Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Adding and Subtracting 10 or 100",
+                      "sSID": "2.NBT.8",
+                      "sectionDescription": "Mentally add 10 or 100 to a given number 100-900, and mentally subtract 10 or 100 from a given number 100-900."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Explaining Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Strategies",
+                      "sSID": "2.NBT.9",
+                      "sectionDescription": "Explain why addition and subtraction strategies work, using place value and the properties of operations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Measuring Lengths",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Measurement Tools",
+                      "sSID": "2.MD.1",
+                      "sectionDescription": "Measure the length of an object by selecting and using appropriate tools such as rulers, yardsticks, meter sticks, and measuring tapes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Comparing Length Measurements",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Different Units",
+                      "sSID": "2.MD.2",
+                      "sectionDescription": "Measure the length of an object twice, using length units of different lengths for the two measurements; describe how the two measurements relate to the size of the unit chosen."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Estimating Lengths",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Standard Units",
+                      "sSID": "2.MD.3",
+                      "sectionDescription": "Estimate lengths using units of inches, feet, centimeters, and meters."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Comparing Object Lengths",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Expressing Length Differences",
+                      "sSID": "2.MD.4",
+                      "sectionDescription": "Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Word Problems with Length",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Length Problems",
+                      "sSID": "2.MD.5",
+                      "sectionDescription": "Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same whole number units."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Number Line Diagrams",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Representing Lengths",
+                      "sSID": "2.MD.6",
+                      "sectionDescription": "Represent whole numbers as lengths from 0 on a number line diagram with equally spaced points corresponding to the numbers 0, 1, 2,..., and represent whole number sums and differences within 100 on a number line diagram."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Telling Time",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Analog and Digital Clocks",
+                      "sSID": "2.MD.7",
+                      "sectionDescription": "Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Understanding Money",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Coins",
+                      "sSID": "2.MD.8",
+                      "sectionDescription": "Solve problems with money, including identifying nickels and quarters by name and value, finding the value of a collection of coins, and solving word problems by adding and subtracting within 100."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Generating Measurement Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating a Line Plot",
+                      "sSID": "2.MD.9",
+                      "sectionDescription": "Generate measurement data by measuring lengths of several objects to the nearest whole unit or by making repeated measurements of the same object. Show the measurements by creating a line plot, where the horizontal scale is marked off in whole number units."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Organizing and Interpreting Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Graphs",
+                      "sSID": "2.MD.10",
+                      "sectionDescription": "Organize, represent, and interpret data with up to four categories; complete picture graphs and bar graphs when single-unit scales are provided; solve simple put-together, take-apart, and compare problems in a graph."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Identifying Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Recognizing Shapes",
+                      "sSID": "2.G.1",
+                      "sectionDescription": "Recognize and identify triangles, quadrilaterals, pentagons, and hexagons based on the number of sides or vertices. Recognize and identify cubes, rectangular prisms, cones, and cylinders."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Partitioning Rectangles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Rows and Columns",
+                      "sSID": "2.G.2",
+                      "sectionDescription": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of them."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Partitioning Circles and Rectangles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Equal Shares",
+                      "sSID": "2.G.3",
+                      "sectionDescription": "Partition circles and rectangles into two, three, or four equal shares; describe the shares using the words halves, thirds, or fourths and quarters, and use the phrases half of, third of, or fourth of and quarter of."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Review of Operations and Algebraic Thinking",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review and Practice",
+                      "sSID": "2.OA",
+                      "sectionDescription": "Review key concepts and practice problems related to Operations and Algebraic Thinking."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Review of Number and Operations in Base Ten",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review and Practice",
+                      "sSID": "2.NBT",
+                      "sectionDescription": "Review key concepts and practice problems related to Number and Operations in Base Ten."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Review of Measurement and Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review and Practice",
+                      "sSID": "2.MD",
+                      "sectionDescription": "Review key concepts and practice problems related to Measurement and Data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Review of Geometry",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review and Practice",
+                      "sSID": "2.G",
+                      "sectionDescription": "Review key concepts and practice problems related to Geometry."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Project Planning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interdisciplinary Math Projects",
+                      "sSID": "2.OA, 2.NBT, 2.MD, 2.G",
+                      "sectionDescription": "Begin planning final interdisciplinary math projects that incorporate various techniques and concepts learned during the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Developing Projects",
+                      "sSID": "2.OA, 2.NBT, 2.MD, 2.G",
+                      "sectionDescription": "Develop and refine final interdisciplinary math projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Refining Projects",
+                      "sSID": "2.OA, 2.NBT, 2.MD, 2.G",
+                      "sectionDescription": "Continue refining final interdisciplinary math projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finalizing Projects",
+                      "sSID": "2.OA, 2.NBT, 2.MD, 2.G",
+                      "sectionDescription": "Finalize interdisciplinary math projects, preparing for presentation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "2.OA, 2.NBT, 2.MD, 2.G",
+                      "sectionDescription": "Present final interdisciplinary math projects to the class, explaining the integration of various concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Year-End Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Celebrating Learning",
+                      "sSID": "2.OA, 2.NBT, 2.MD, 2.G",
+                      "sectionDescription": "Celebrate the accomplishments and projects completed during the year."
+                    }
+                  ]
+                }
+              ]
+
+            }
+          ]
+}

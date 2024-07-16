@@ -1,0 +1,526 @@
+{
+          "grade": "2",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "2.ESS.1",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore the properties of air and wind",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify observable and measurable properties of air."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will explain that the transfer of energy in the atmosphere causes air movement, which is felt as wind. They will identify that wind speed and direction can be measured."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.ESS.2",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will understand the presence of water in the atmosphere",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that water exists in the atmosphere as water vapor."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will describe how clouds, fog, rain, ice, snow, sleet, or hail form when water vapor in the atmosphere cools."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.ESS.3",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore how energy changes affect weather",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will recognize that changes in energy affect various aspects of weather, including temperature, precipitation, and wind."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.PS.1",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will investigate how forces change the motion of objects",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that the motion of an object can increase, change direction, or stop depending on the applied force."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify that the change in motion of an object is related to the size of the force."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will recognize that some forces, like magnetism and gravity, can act without touching the object."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.LS.1",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will understand how living things cause changes on Earth",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that living things interact with and function within their physical environments. They will recognize that living things can cause noticeable or subtle, fast or slow changes in their environment."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.LS.2",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will explore the concept of extinction",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will understand that some organisms become extinct when their basic needs are no longer met or the environment changes."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Air Properties",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Observable Properties of Air",
+                      "sSID": "2.ESS.1.1",
+                      "sectionDescription": "Identify observable and measurable properties of air."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Understanding Wind",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Air Movement and Wind",
+                      "sSID": "2.ESS.1.2",
+                      "sectionDescription": "Explain that the transfer of energy in the atmosphere causes air movement, which is felt as wind. Identify that wind speed and direction can be measured."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Water Vapor in the Atmosphere",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presence of Water Vapor",
+                      "sSID": "2.ESS.2.1",
+                      "sectionDescription": "Explain that water exists in the atmosphere as water vapor."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Formation of Precipitation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "How Precipitation Forms",
+                      "sSID": "2.ESS.2.2",
+                      "sectionDescription": "Describe how clouds, fog, rain, ice, snow, sleet, or hail form when water vapor in the atmosphere cools."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Energy Changes and Weather",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy's Effect on Weather",
+                      "sSID": "2.ESS.3.1",
+                      "sectionDescription": "Recognize that changes in energy affect various aspects of weather, including temperature, precipitation, and wind."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Forces and Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "How Forces Affect Motion",
+                      "sSID": "2.PS.1.1",
+                      "sectionDescription": "Explain that the motion of an object can increase, change direction, or stop depending on the applied force."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Size of Forces",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Impact of Force Size on Motion",
+                      "sSID": "2.PS.1.2",
+                      "sectionDescription": "Identify that the change in motion of an object is related to the size of the force."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Non-Contact Forces",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Magnetism and Gravity",
+                      "sSID": "2.PS.1.3",
+                      "sectionDescription": "Recognize that some forces, like magnetism and gravity, can act without touching the object."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Interactions with Environments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Living Things and Environments",
+                      "sSID": "2.LS.1.1",
+                      "sectionDescription": "Explain that living things interact with and function within their physical environments. Recognize that living things can cause noticeable or subtle, fast or slow changes in their environment."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Understanding Extinction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Causes of Extinction",
+                      "sSID": "2.LS.2.1",
+                      "sectionDescription": "Understand that some organisms become extinct when their basic needs are no longer met or the environment changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Earth and Space Science Concepts",
+                      "sSID": "2.ESS",
+                      "sectionDescription": "Review key concepts and skills related to Earth and Space Science learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Physical Science Concepts",
+                      "sSID": "2.PS",
+                      "sectionDescription": "Review key concepts and skills related to Physical Science learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Life Science Concepts",
+                      "sSID": "2.LS",
+                      "sectionDescription": "Review key concepts and skills related to Life Science learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Project: Properties of Air",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Investigating Air Properties",
+                      "sSID": "2.ESS.1.1",
+                      "sectionDescription": "Conduct a project to identify observable and measurable properties of air."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Project: Understanding Wind",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Measuring Wind",
+                      "sSID": "2.ESS.1.2",
+                      "sectionDescription": "Conduct a project to measure wind speed and direction, and explain air movement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Project: Water Vapor and Precipitation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Studying Water in the Atmosphere",
+                      "sSID": "2.ESS.2.1, 2.ESS.2.2",
+                      "sectionDescription": "Conduct a project to explore water vapor and the formation of precipitation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Project: Energy and Weather",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Investigating Weather Changes",
+                      "sSID": "2.ESS.3.1",
+                      "sectionDescription": "Conduct a project to investigate how changes in energy affect weather patterns."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Project: Forces and Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Applied Forces",
+                      "sSID": "2.PS.1.1, 2.PS.1.2",
+                      "sectionDescription": "Conduct a project to explore how forces change the motion of objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Project: Magnetism and Gravity",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Non-Contact Forces",
+                      "sSID": "2.PS.1.3",
+                      "sectionDescription": "Conduct a project to investigate how magnetism and gravity act without touching objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Project: Living Things and Environments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interactions and Changes",
+                      "sSID": "2.LS.1.1",
+                      "sectionDescription": "Conduct a project to explore how living things interact with and change their environments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Project: Understanding Extinction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Studying Extinct Organisms",
+                      "sSID": "2.LS.2.1",
+                      "sectionDescription": "Conduct a project to understand the reasons why some organisms become extinct."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Advanced Topics in Earth Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "In-Depth Air and Wind Study",
+                      "sSID": "2.ESS.1",
+                      "sectionDescription": "Explore advanced topics and conduct experiments related to the properties of air and wind."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Advanced Topics in Earth Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Water in the Atmosphere",
+                      "sSID": "2.ESS.2",
+                      "sectionDescription": "Explore advanced topics and conduct experiments related to water vapor and precipitation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Advanced Topics in Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Forces and Motion",
+                      "sSID": "2.PS.1",
+                      "sectionDescription": "Explore advanced topics and conduct experiments related to forces and motion."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Advanced Topics in Life Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Living Things and Environment",
+                      "sSID": "2.LS.1",
+                      "sectionDescription": "Explore advanced topics and conduct experiments related to the interaction of living things with their environment."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Advanced Topics in Life Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Extinction Studies",
+                      "sSID": "2.LS.2",
+                      "sectionDescription": "Explore advanced topics and conduct experiments related to the concept of extinction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Final Project Planning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interdisciplinary Projects",
+                      "sSID": "2.ESS, 2.PS, 2.LS",
+                      "sectionDescription": "Begin planning final interdisciplinary projects that incorporate various techniques and concepts learned during the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Developing Projects",
+                      "sSID": "2.ESS, 2.PS, 2.LS",
+                      "sectionDescription": "Develop and refine final interdisciplinary projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Refining Projects",
+                      "sSID": "2.ESS, 2.PS, 2.LS",
+                      "sectionDescription": "Continue refining final interdisciplinary projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finalizing Projects",
+                      "sSID": "2.ESS, 2.PS, 2.LS",
+                      "sectionDescription": "Finalize interdisciplinary projects, preparing for presentation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "2.ESS, 2.PS, 2.LS",
+                      "sectionDescription": "Present final interdisciplinary projects to the class, explaining the integration of various concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Earth Science",
+                      "sSID": "2.ESS",
+                      "sectionDescription": "Review and reflect on key Earth Science concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Physical Science",
+                      "sSID": "2.PS",
+                      "sectionDescription": "Review and reflect on key Physical Science concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Life Science",
+                      "sSID": "2.LS",
+                      "sectionDescription": "Review and reflect on key Life Science concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Course Summary and Integration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Integrating Concepts",
+                      "sSID": "2.ESS, 2.PS, 2.LS",
+                      "sectionDescription": "Summarize and integrate key concepts from Earth, Physical, and Life Sciences."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Celebrating Learning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Year-End Celebration",
+                      "sSID": "2.ESS, 2.PS, 2.LS",
+                      "sectionDescription": "Celebrate the accomplishments and projects completed during the year."
+                    }
+                  ]
+                }
+              ]
+            }

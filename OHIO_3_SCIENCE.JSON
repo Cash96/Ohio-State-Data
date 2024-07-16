@@ -1,0 +1,546 @@
+{
+          "grade": "3",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "3.ESS.1",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore the properties of Earth's nonliving resources",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that soil is composed of pieces of rock, organic material, water, and air. They will identify measurable and observable characteristics of soil."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will differentiate between dirt and soil."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will identify that rocks have specific characteristics that allow them to be sorted and compared. They will understand that rocks form in different ways."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Students will recognize that air and water are also nonliving resources."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.ESS.2",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will understand the difference between renewable and nonrenewable energy resources",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that renewable energy resources, such as wind, water, or solar energy, can be replenished within a short amount of time by natural processes."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify that nonrenewable energy is a finite resource, such as natural gas, coal, or oil, which cannot be replenished in a short amount of time."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.ESS.3",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore the concept of limited resources",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that some of Earth's resources become limited due to overuse and/or contamination."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify ways to conserve resources, such as reducing resource use, decreasing waste and pollution, recycling, and reusing."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.PS.1",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will understand the concept of matter",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that matter takes up space and has mass."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.PS.2",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will explore the different states of matter",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify the most recognizable states of matter: solids, liquids, and gases."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will explain that shape and compressibility are properties that can distinguish between the states of matter."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will understand that one way to change matter from one state to another is by heating or cooling."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.PS.3",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will be introduced to different forms of energy",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will recognize that there are many different forms of energy, including heat, electrical energy, light, sound, and magnetic energy."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will understand that energy is the ability to cause motion or create change."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will identify that the forms of energy outlined at this grade level should be limited to familiar forms they can observe."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Earth's Nonliving Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Soil",
+                      "sSID": "3.ESS.1.1",
+                      "sectionDescription": "Explain that soil is composed of pieces of rock, organic material, water, and air. Identify measurable and observable characteristics of soil."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Differentiating Dirt and Soil",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Dirt and Soil",
+                      "sSID": "3.ESS.1.2",
+                      "sectionDescription": "Differentiate between dirt and soil."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Characteristics of Rocks",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Rocks",
+                      "sSID": "3.ESS.1.3",
+                      "sectionDescription": "Identify that rocks have specific characteristics that allow them to be sorted and compared. Understand that rocks form in different ways."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Air and Water as Nonliving Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Recognizing Air and Water",
+                      "sSID": "3.ESS.1.4",
+                      "sectionDescription": "Recognize that air and water are also nonliving resources."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Renewable Energy Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Renewable Resources",
+                      "sSID": "3.ESS.2.1",
+                      "sectionDescription": "Explain that renewable energy resources, such as wind, water, or solar energy, can be replenished within a short amount of time by natural processes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Nonrenewable Energy Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Nonrenewable Resources",
+                      "sSID": "3.ESS.2.2",
+                      "sectionDescription": "Identify that nonrenewable energy is a finite resource, such as natural gas, coal, or oil, which cannot be replenished in a short amount of time."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Concept of Limited Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Limited Resources",
+                      "sSID": "3.ESS.3.1",
+                      "sectionDescription": "Explain that some of Earth's resources become limited due to overuse and/or contamination."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Conserving Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ways to Conserve Resources",
+                      "sSID": "3.ESS.3.2",
+                      "sectionDescription": "Identify ways to conserve resources, such as reducing resource use, decreasing waste and pollution, recycling, and reusing."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Introduction to Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Matter",
+                      "sSID": "3.PS.1.1",
+                      "sectionDescription": "Explain that matter takes up space and has mass."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "States of Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Recognizing States of Matter",
+                      "sSID": "3.PS.2.1",
+                      "sectionDescription": "Identify the most recognizable states of matter: solids, liquids, and gases."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Properties of States of Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Shape and Compressibility",
+                      "sSID": "3.PS.2.2",
+                      "sectionDescription": "Explain that shape and compressibility are properties that can distinguish between the states of matter."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Changing States of Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Heating and Cooling",
+                      "sSID": "3.PS.2.3",
+                      "sectionDescription": "Understand that one way to change matter from one state to another is by heating or cooling."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Introduction to Forms of Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Different Forms of Energy",
+                      "sSID": "3.PS.3.1",
+                      "sectionDescription": "Recognize that there are many different forms of energy, including heat, electrical energy, light, sound, and magnetic energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Energy and Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Energy",
+                      "sSID": "3.PS.3.2",
+                      "sectionDescription": "Understand that energy is the ability to cause motion or create change."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Observing Forms of Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Familiar Forms of Energy",
+                      "sSID": "3.PS.3.3",
+                      "sectionDescription": "Identify that the forms of energy outlined at this grade level should be limited to familiar forms they can observe."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Review of Earth's Nonliving Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Nonliving Resources",
+                      "sSID": "3.ESS.1",
+                      "sectionDescription": "Review key concepts and characteristics of Earth's nonliving resources."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Review of Renewable and Nonrenewable Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Energy Resources",
+                      "sSID": "3.ESS.2",
+                      "sectionDescription": "Review the differences between renewable and nonrenewable energy resources."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Review of Limited Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Limited Resources",
+                      "sSID": "3.ESS.3",
+                      "sectionDescription": "Review the concept of limited resources and ways to conserve them."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Review of Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Matter",
+                      "sSID": "3.PS.1",
+                      "sectionDescription": "Review key concepts related to the concept of matter."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Review of States of Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing States of Matter",
+                      "sSID": "3.PS.2",
+                      "sectionDescription": "Review the different states of matter and their properties."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Review of Forms of Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reviewing Forms of Energy",
+                      "sSID": "3.PS.3",
+                      "sectionDescription": "Review the different forms of energy and their applications."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Advanced Topics in Earth's Resources",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Advanced Concepts",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3",
+                      "sectionDescription": "Explore advanced topics related to Earth's nonliving resources and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Advanced Topics in Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Matter and Energy",
+                      "sSID": "3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Explore advanced topics related to matter and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Interdisciplinary Projects in Earth and Space Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Planning Projects",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3",
+                      "sectionDescription": "Begin planning interdisciplinary projects related to Earth's nonliving resources and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Interdisciplinary Projects in Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Planning Projects",
+                      "sSID": "3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Begin planning interdisciplinary projects related to matter and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Developing Projects in Earth and Space Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Developing Projects",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3",
+                      "sectionDescription": "Develop and refine interdisciplinary projects related to Earth's nonliving resources and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Developing Projects in Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Developing Projects",
+                      "sSID": "3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Develop and refine interdisciplinary projects related to matter and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Finalizing Projects in Earth and Space Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finalizing Projects",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3",
+                      "sectionDescription": "Finalize interdisciplinary projects related to Earth's nonliving resources and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Finalizing Projects in Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finalizing Projects",
+                      "sSID": "3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Finalize interdisciplinary projects related to matter and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Presenting Projects in Earth and Space Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3",
+                      "sectionDescription": "Present interdisciplinary projects related to Earth's nonliving resources and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Presenting Projects in Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Present interdisciplinary projects related to matter and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Learning",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3, 3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Review and reflect on key concepts and projects completed during the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Advanced Topics in Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring New Concepts",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3, 3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Explore advanced scientific concepts and ideas."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Projects",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3, 3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Develop final advanced projects applying various scientific concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Advanced Projects",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3, 3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Present final advanced projects to the class, explaining the integration of various scientific concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Year-End Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Celebrating Learning",
+                      "sSID": "3.ESS.1, 3.ESS.2, 3.ESS.3, 3.PS.1, 3.PS.2, 3.PS.3",
+                      "sectionDescription": "Celebrate the accomplishments and projects completed during the year."
+                    }
+                  ]
+                }
+              ]
+            }

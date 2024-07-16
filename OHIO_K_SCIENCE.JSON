@@ -1,0 +1,535 @@
+{
+      "state": "Ohio",
+      "stateID": "OH",
+      "stateInstitutionName": "Ohio Department of Education",
+      "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+      "stateStandardAbbriv": "OLSMC",
+      "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+      "hasData": true,
+      "grades": [
+        {
+          "grade": "k",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "K.ESS.1",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will observe and understand weather changes",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify that weather changes occur throughout the day and from day to day."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will understand that air is a nonliving substance that surrounds Earth and wind is moving air."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will use wind, temperature, and precipitation to document short-term weather changes."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Students will observe yearly weather changes (seasons) as patterns in daily weather changes."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.ESS.2",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will observe the moon, sun, and stars at different times",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will describe the positions of the moon, sun, and stars at different times of the day or night."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will observe the apparent changes in the sun's position throughout the day and across seasons. They will identify that stars are visible at night and some are visible in the evening or morning."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.PS.1",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will sort and describe objects by their properties",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will sort and describe objects based on the material properties, including color, size, and texture."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.PS.2",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will understand the production of sound",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify that sound is produced by touching, blowing, or tapping objects. They will understand that the sound produced depends on the properties of the objects."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.LS.1",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will understand the characteristics and traits of living things",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will recognize that living things grow and reproduce, and they are found worldwide."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.LS.2",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will explore the physical traits and behaviors of living things",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify that living things have various structures and some of these structures and behaviors influence their survival."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Weather",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Weather Changes",
+                      "sSID": "K.ESS.1.1",
+                      "sectionDescription": "Introduce students to the concept that weather changes occur throughout the day and from day to day."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Understanding Air and Wind",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Air and Wind",
+                      "sSID": "K.ESS.1.2",
+                      "sectionDescription": "Explain that air is a nonliving substance that surrounds Earth and wind is moving air."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Documenting Weather Changes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Short-term Weather Changes",
+                      "sSID": "K.ESS.1.3",
+                      "sectionDescription": "Use wind, temperature, and precipitation to document short-term weather changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Seasonal Weather Patterns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Yearly Weather Changes",
+                      "sSID": "K.ESS.1.4",
+                      "sectionDescription": "Observe yearly weather changes (seasons) as patterns in daily weather changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Observing the Moon",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Moon Positions",
+                      "sSID": "K.ESS.2.1",
+                      "sectionDescription": "Describe the positions of the moon at different times of the day or night."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Observing the Sun",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sun Positions",
+                      "sSID": "K.ESS.2.2",
+                      "sectionDescription": "Observe the apparent changes in the sun's position throughout the day and across seasons."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Observing Stars",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Star Visibility",
+                      "sSID": "K.ESS.2.2",
+                      "sectionDescription": "Identify that stars are visible at night and some are visible in the evening or morning."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Introduction to Physical Properties",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sorting Objects",
+                      "sSID": "K.PS.1.1",
+                      "sectionDescription": "Sort and describe objects based on the material properties, including color, size, and texture."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Understanding Sound",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Production of Sound",
+                      "sSID": "K.PS.2.1",
+                      "sectionDescription": "Identify that sound is produced by touching, blowing, or tapping objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Properties of Sound",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sound and Object Properties",
+                      "sSID": "K.PS.2.1",
+                      "sectionDescription": "Understand that the sound produced depends on the properties of the objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Characteristics of Living Things",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Growth and Reproduction",
+                      "sSID": "K.LS.1.1",
+                      "sectionDescription": "Recognize that living things grow and reproduce, and they are found worldwide."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Exploring Living Things",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Structures and Survival",
+                      "sSID": "K.LS.2.1",
+                      "sectionDescription": "Identify that living things have various structures and some of these structures and behaviors influence their survival."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Weather Journals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Documenting Weather",
+                      "sSID": "K.ESS.1",
+                      "sectionDescription": "Students will create weather journals to document daily and seasonal weather changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Wind Experiments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Wind",
+                      "sSID": "K.ESS.1.2",
+                      "sectionDescription": "Conduct experiments to observe the effects of wind on different objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Star Gazing",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Observing Stars",
+                      "sSID": "K.ESS.2.2",
+                      "sectionDescription": "Plan a star gazing night to observe and identify stars and constellations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Sound Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Sound",
+                      "sSID": "K.PS.2.1",
+                      "sectionDescription": "Create instruments from everyday materials to explore how different sounds are made."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Seasonal Changes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Observing Seasons",
+                      "sSID": "K.ESS.1.4",
+                      "sectionDescription": "Observe and document changes in the environment as seasons change."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Materials and Properties",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Materials",
+                      "sSID": "K.PS.1.1",
+                      "sectionDescription": "Investigate and sort various materials based on their properties."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Life Cycle of Plants",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Plant Growth",
+                      "sSID": "K.LS.1.1",
+                      "sectionDescription": "Study the life cycle of plants from seed to full-grown plant."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Animal Habitats",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Exploring Habitats",
+                      "sSID": "K.LS.2.1",
+                      "sectionDescription": "Learn about different animal habitats and how animals adapt to their environments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Weather Patterns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Patterns",
+                      "sSID": "K.ESS.1.4",
+                      "sectionDescription": "Identify and describe patterns in weather changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Exploring Light",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Light and Shadows",
+                      "sSID": "K.ESS.2.2",
+                      "sectionDescription": "Observe how light creates shadows and changes with the position of the sun."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Plant Structures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Parts of a Plant",
+                      "sSID": "K.LS.1.1",
+                      "sectionDescription": "Identify and describe the different parts of a plant and their functions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Animal Behaviors",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Behavioral Adaptations",
+                      "sSID": "K.LS.2.1",
+                      "sectionDescription": "Learn about various animal behaviors that help them survive in their habitats."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Sound and Music",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Music",
+                      "sSID": "K.PS.2.1",
+                      "sectionDescription": "Create a class band using homemade instruments to understand sound production."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Weather Forecasting",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Making Forecasts",
+                      "sSID": "K.ESS.1.3",
+                      "sectionDescription": "Learn how to predict weather changes based on wind, temperature, and precipitation observations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Sun and Shadows",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Observing Shadows",
+                      "sSID": "K.ESS.2.2",
+                      "sectionDescription": "Observe and record how shadows change in size and direction throughout the day."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Exploring Rocks and Soil",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Rocks",
+                      "sSID": "K.PS.1.1",
+                      "sectionDescription": "Investigate different types of rocks and soil, and their properties."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Plant Needs",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "What Plants Need",
+                      "sSID": "K.LS.1.1",
+                      "sectionDescription": "Learn about the basic needs of plants for growth and survival."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Animal Life Cycles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Life Cycle of Animals",
+                      "sSID": "K.LS.2.1",
+                      "sectionDescription": "Study the life cycles of various animals from birth to adulthood."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Final Project Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Planning Projects",
+                      "sSID": "K.ESS, K.PS, K.LS",
+                      "sectionDescription": "Begin planning final projects that incorporate various concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Projects",
+                      "sSID": "K.ESS, K.PS, K.LS",
+                      "sectionDescription": "Develop and create final projects with guidance and support."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Final Project Completion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Completing Projects",
+                      "sSID": "K.ESS, K.PS, K.LS",
+                      "sectionDescription": "Complete and polish final projects, preparing for presentation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "K.ESS, K.PS, K.LS",
+                      "sectionDescription": "Students present their final projects to the class, explaining their work and what they learned."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Course Review",
+                      "sSID": "K.ESS, K.PS, K.LS",
+                      "sectionDescription": "Review key concepts learned throughout the year and reflect on personal growth."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Celebration and Future Learning",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Celebration",
+                      "sSID": "K.ESS, K.PS, K.LS",
+                      "sectionDescription": "Celebrate the year's accomplishments and discuss how students can continue to explore science in the future."
+                    }
+                  ]
+                }
+              ]
+            }

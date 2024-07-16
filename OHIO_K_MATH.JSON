@@ -1,0 +1,584 @@
+{
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Kindergarten.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "K.CC",
+                  "objectiveTitle": "Counting and Cardinality",
+                  "objectiveDescription": "Know number names and the count sequence.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Count to 100 by ones and by tens."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Count forward within 100 beginning from any given number other than 1."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Write numerals from 0 to 20. Represent a number of objects with a written numeral 0-20 (with 0 representing a count of no objects)."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Understand the relationship between numbers and quantities; connect counting to cardinality using a variety of objects including pennies."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Count to answer 'how many?' questions about as many as 20 things arranged in a line, a rectangular array, or a circle, or as many as 10 things in a scattered configuration; given a number from 1-20, count out that many objects."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Orally identify (without using inequality symbols) whether the number of objects in one group is greater/more than, less/fewer than, or the same as the number of objects in another group, not to exceed 10 objects in each group."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Compare (without using inequality symbols) two numbers between 0 and 10 when presented as written numerals."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.OA",
+                  "objectiveTitle": "Operations and Algebraic Thinking",
+                  "objectiveDescription": "Understand addition as putting together and adding to, and understand subtraction as taking apart and taking from.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Represent addition and subtraction with objects, fingers, mental images, drawings, sounds such as claps, acting out situations, verbal explanations, expressions, or equations."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Solve addition and subtraction problems (written or oral), and add and subtract within 10 by using objects or drawings to represent the problem."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Decompose numbers and record compositions for numbers less than or equal to 10 into pairs in more than one way by using objects and, when appropriate, drawings or equations."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "For any number from 1 to 9, find the number that makes 10 when added to the given number, e.g., by using objects or drawings, and record the answer with a drawing or, when appropriate, an equation."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Fluently add and subtract within 5."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.NBT",
+                  "objectiveTitle": "Number and Operations in Base Ten",
+                  "objectiveDescription": "Work with numbers 11–19 to gain foundations for place value.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Compose and decompose numbers from 11 to 19 into a group of ten ones and some further ones by using objects and, when appropriate, drawings or equations; understand that these numbers are composed of a group of ten ones and one, two, three, four, five, six, seven, eight, or nine ones."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.MD",
+                  "objectiveTitle": "Measurement and Data",
+                  "objectiveDescription": "Identify, describe, and compare measurable attributes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Identify and describe measurable attributes (length, weight, and height) of a single object using vocabulary terms such as long/short, heavy/light, or tall/short."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Directly compare two objects with a measurable attribute in common to see which object has 'more of' or 'less of' the attribute, and describe the difference."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Classify objects into given categories; count the numbers of objects in each category and sort the categories by count. The number of objects in each category should be less than or equal to ten. Counting and sorting coins should be limited to pennies."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.G",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Identify and describe shapes (squares, circles, triangles, rectangles, hexagons, cubes, cones, cylinders, and spheres).",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Describe objects in the environment using names of shapes, and describe the relative positions of these objects using terms such as above, below, beside, in front of, behind, and next to."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Correctly name shapes regardless of their orientations or overall size."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Identify shapes as two-dimensional (lying in a plane, 'flat') or three-dimensional ('solid')."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Describe and compare two- or three-dimensional shapes, in different sizes and orientations, using informal language to describe their commonalities, differences, parts, and other attributes."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Model shapes in the world by building shapes from components, e.g., sticks and clay balls, and drawing shapes."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Combine simple shapes to form larger shapes."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Counting to 100",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Counting by Ones",
+                      "sSID": "K.CC.1",
+                      "sectionDescription": "Learn to count to 100 by ones."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Counting by Tens",
+                      "sSID": "K.CC.1",
+                      "sectionDescription": "Learn to count to 100 by tens."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Counting Forward from Any Number",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Counting Forward",
+                      "sSID": "K.CC.2",
+                      "sectionDescription": "Practice counting forward within 100 from any given number."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Writing Numerals and Representing Objects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Writing Numerals",
+                      "sSID": "K.CC.3",
+                      "sectionDescription": "Write numerals from 0 to 20."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Representing Objects",
+                      "sSID": "K.CC.3",
+                      "sectionDescription": "Represent a number of objects with a written numeral 0-20."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Numbers and Quantities",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Counting to Cardinality",
+                      "sSID": "K.CC.4",
+                      "sectionDescription": "Understand the relationship between numbers and quantities using various objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Counting to Answer 'How Many?'",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Arranged and Scattered Objects",
+                      "sSID": "K.CC.5",
+                      "sectionDescription": "Count to answer 'how many?' questions about up to 20 objects arranged in various configurations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Comparing Numbers and Quantities",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Groups",
+                      "sSID": "K.CC.6",
+                      "sectionDescription": "Identify whether the number of objects in one group is greater, less, or the same as another group."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Comparing Numerals",
+                      "sSID": "K.CC.7",
+                      "sectionDescription": "Compare two numbers between 0 and 10 when presented as written numerals."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Introduction to Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Representing Operations",
+                      "sSID": "K.OA.1",
+                      "sectionDescription": "Represent addition and subtraction with various methods."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Solving Addition and Subtraction Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Problems",
+                      "sSID": "K.OA.2",
+                      "sectionDescription": "Solve addition and subtraction problems within 10 using objects or drawings."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Decomposing Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Number Pairs",
+                      "sSID": "K.OA.3",
+                      "sectionDescription": "Decompose numbers less than or equal to 10 into pairs in multiple ways."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Making Ten",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Completing Ten",
+                      "sSID": "K.OA.4",
+                      "sectionDescription": "Find the number that makes 10 when added to any number from 1 to 9."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Fluency in Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fluent Operations",
+                      "sSID": "K.OA.5",
+                      "sectionDescription": "Fluently add and subtract within 5."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Understanding Place Value",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Composing and Decomposing Numbers",
+                      "sSID": "K.NBT.1",
+                      "sectionDescription": "Compose and decompose numbers from 11 to 19 into a group of ten ones and further ones."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Measurable Attributes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Attributes",
+                      "sSID": "K.MD.1",
+                      "sectionDescription": "Identify and describe measurable attributes of objects using terms like long/short, heavy/light, or tall/short."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Comparing Attributes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Direct Comparison",
+                      "sSID": "K.MD.2",
+                      "sectionDescription": "Compare two objects with a measurable attribute in common and describe the difference."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Classifying and Counting Objects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Classifying Objects",
+                      "sSID": "K.MD.3",
+                      "sectionDescription": "Classify objects into given categories; count the number of objects in each category and sort the categories by count."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Identifying Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Shapes in the Environment",
+                      "sSID": "K.G.1",
+                      "sectionDescription": "Describe objects in the environment using names of shapes and their relative positions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Naming Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Correct Naming",
+                      "sSID": "K.G.2",
+                      "sectionDescription": "Correctly name shapes regardless of their orientations or overall size."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Two- and Three-Dimensional Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Dimensions",
+                      "sSID": "K.G.3",
+                      "sectionDescription": "Identify shapes as two-dimensional (flat) or three-dimensional (solid)."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Describing Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Shape Attributes",
+                      "sSID": "K.G.4",
+                      "sectionDescription": "Describe and compare two- or three-dimensional shapes using informal language."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Modeling Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Building Shapes",
+                      "sSID": "K.G.5",
+                      "sectionDescription": "Model shapes in the world by building shapes from components and drawing shapes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Combining Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Forming Larger Shapes",
+                      "sSID": "K.G.6",
+                      "sectionDescription": "Combine simple shapes to form larger shapes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Reviewing Counting and Cardinality",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Counting",
+                      "sSID": "K.CC",
+                      "sectionDescription": "Review the concepts of counting and cardinality learned so far."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Reviewing Operations and Algebraic Thinking",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Operations",
+                      "sSID": "K.OA",
+                      "sectionDescription": "Review the concepts of addition and subtraction learned so far."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Reviewing Number and Operations in Base Ten",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Base Ten",
+                      "sSID": "K.NBT",
+                      "sectionDescription": "Review the concepts of number and operations in base ten learned so far."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Reviewing Measurement and Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Measurement",
+                      "sSID": "K.MD",
+                      "sectionDescription": "Review the concepts of measurement and data learned so far."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Reviewing Geometry",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Shapes",
+                      "sSID": "K.G",
+                      "sectionDescription": "Review the concepts of geometry learned so far."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Advanced Counting and Cardinality",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Counting",
+                      "sSID": "K.CC",
+                      "sectionDescription": "Practice advanced counting techniques and challenges."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Advanced Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Operations",
+                      "sSID": "K.OA",
+                      "sectionDescription": "Explore more complex addition and subtraction problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Advanced Place Value",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Base Ten",
+                      "sSID": "K.NBT",
+                      "sectionDescription": "Deepen understanding of place value with larger numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Advanced Measurement",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Measurement",
+                      "sSID": "K.MD",
+                      "sectionDescription": "Explore advanced measurement and data concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Advanced Geometry",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Shapes",
+                      "sSID": "K.G",
+                      "sectionDescription": "Explore complex shapes and geometric concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Final Project Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "K.CC, K.OA, K.NBT, K.MD, K.G",
+                      "sectionDescription": "Begin planning final projects incorporating various concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Creation",
+                      "sSID": "K.CC, K.OA, K.NBT, K.MD, K.G",
+                      "sectionDescription": "Develop and create final projects with guidance and support."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project Completion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Completing Projects",
+                      "sSID": "K.CC, K.OA, K.NBT, K.MD, K.G",
+                      "sectionDescription": "Complete final projects and prepare for presentations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "K.CC, K.OA, K.NBT, K.MD, K.G",
+                      "sectionDescription": "Students present their final projects to the class, explaining their work and what they learned."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Course Review and Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review and Celebrate",
+                      "sSID": "K.CC, K.OA, K.NBT, K.MD, K.G",
+                      "sectionDescription": "Review key concepts learned throughout the year and celebrate the accomplishments and learning of the students."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
