@@ -1,0 +1,142 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "8",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "8.ESS.2",
+                  "objectiveTitle": "Earth’s Lithosphere",
+                  "objectiveDescription": "Earth’s lithosphere consists of major and minor tectonic plates that move relative to each other.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Historical data such as fossil distribution and paleomagnetism contributed to the theory of plate tectonics."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Convection currents in the asthenosphere cause movements of the lithospheric plates."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "There are three main types of plate boundaries: divergent, convergent, and transform."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.ESS.3",
+                  "objectiveTitle": "Formation of Earth’s Surface",
+                  "objectiveDescription": "A combination of constructive and destructive geologic processes formed Earth’s surface.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Earth’s surface is formed from various geologic processes including plate tectonics."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.ESS.4",
+                  "objectiveTitle": "Evidence of Dynamic Changes",
+                  "objectiveDescription": "Evidence of the dynamic changes of Earth’s surface through time is found in the geologic record.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The geologic record helps identify past environmental and climate conditions."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.PS.1",
+                  "objectiveTitle": "External Forces",
+                  "objectiveDescription": "Objects can experience a force due to an external field such as magnetic, electrostatic, or gravitational fields.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Magnetic, electrical, and gravitational forces can act at a distance."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.PS.2",
+                  "objectiveTitle": "Motion and Forces",
+                  "objectiveDescription": "Forces can act to change the motion of objects.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The motion of an object is always measured with respect to a reference point."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Forces can be added; the net force on an object is the sum of all the forces acting on it."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "If there is a nonzero net force acting on an object, its speed and/or direction will change."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Kinetic friction and drag are forces that act opposite to the motion of objects."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.LS.1",
+                  "objectiveTitle": "Diversity and Evolution",
+                  "objectiveDescription": "Diversity of species, a result of variation of traits, occurs through the process of evolution and extinction over many generations.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Fossils provide important evidence of how life and environmental conditions have changed."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Changes in environmental conditions can affect the survival and reproductive success of species."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Extinction occurs when the environment changes and organisms do not have the traits necessary to survive and reproduce."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.LS.2",
+                  "objectiveTitle": "Reproduction and Genetic Transfer",
+                  "objectiveDescription": "Every organism alive today comes from a long line of ancestors who reproduced successfully every generation.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Reproduction involves the transfer of genetic information from one generation to the next."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "8.LS.3",
+                  "objectiveTitle": "Inherited Traits",
+                  "objectiveDescription": "The characteristics of an organism are a result of inherited traits received from parent(s).",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Expression of traits is determined by genes and environmental factors."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Genetic information is transmitted between parent and offspring during reproduction."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

@@ -1,0 +1,131 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "4",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "4.ESS.1",
+                  "objectiveTitle": "Earth and Space Science",
+                  "objectiveDescription": "Earth’s surface has specific characteristics and landforms that can be identified.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "About 70 percent of the Earth’s surface is covered with water and most of that is the ocean. Only a small portion of the Earth’s water is freshwater, which is found in rivers, lakes, groundwater and glaciers."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Earth’s surface can change due to erosion and deposition of soil, rock or sediment."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Catastrophic events such as flooding, volcanoes and earthquakes can create landforms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.ESS.2",
+                  "objectiveTitle": "Earth and Space Science",
+                  "objectiveDescription": "The surface of Earth changes due to weathering.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Rocks change shape, size and/or form due to water or glacial movement, freeze and thaw, wind, plant growth, acid rain, pollution and catastrophic events such as earthquakes, flooding, and volcanic activity."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.ESS.3",
+                  "objectiveTitle": "Earth and Space Science",
+                  "objectiveDescription": "The surface of Earth changes due to erosion and deposition.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Liquid water, wind and ice physically remove and carry rock, soil and sediment (erosion) and deposit the material in a new location (deposition)."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Gravitational force affects movements of water, rock and soil."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.PS.1",
+                  "objectiveTitle": "Physical Science",
+                  "objectiveDescription": "When objects break into smaller pieces, dissolve, or change state, the total amount of matter is conserved.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "When an object is broken into smaller pieces, when a solid is dissolved in a liquid or when matter changes state (solid, liquid, gas), the total amount of matter remains constant."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.PS.2",
+                  "objectiveTitle": "Physical Science",
+                  "objectiveDescription": "Energy can be transferred from one location to another or can be transformed from one form to another.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Energy transfers from hot objects to cold objects as heat, resulting in a temperature change."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Electric circuits require a complete loop of conducting materials through which electrical energy can be transferred."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Electrical energy in circuits can be transformed to other forms of energy, including light, heat, sound and motion. Electricity and magnetism are closely related."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.LS.1",
+                  "objectiveTitle": "Life Science",
+                  "objectiveDescription": "Changes in an organism’s environment are sometimes beneficial to its survival and sometimes harmful.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Ecosystems can change gradually or dramatically. When the environment changes, some plants and animals survive and reproduce and others die or move to new locations."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Ecosystems are based on interrelationships among and between biotic and abiotic factors. These include the diversity of other organisms present, the availability of food and other resources, and the physical attributes of the environment."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.LS.2",
+                  "objectiveTitle": "Life Science",
+                  "objectiveDescription": "Fossils can be compared to one another and to present-day organisms according to their similarities and differences.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The concept of biodiversity is expanded to include different classification schemes based upon shared internal and external characteristics of organisms."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Most species that have lived on Earth are extinct."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Fossils provide a point of comparison between the types of organisms that lived long ago and those existing today."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

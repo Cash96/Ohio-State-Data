@@ -1,0 +1,212 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "4",
+          "subject": [
+            {
+              "subjectID": "Computer Science",
+              "subjectTitle": "Computer Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-4-CS-Standards.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "CS",
+                  "objectiveTitle": "Computing Systems",
+                  "objectiveDescription": "Understanding the components and troubleshooting of computing systems.",
+                  "expectations": [
+                    {
+                      "expectationID": "D.4.a",
+                      "expectationDescription": "Explore external components of a computing system and their function to understand and describe the role they play in a computer system."
+                    },
+                    {
+                      "expectationID": "HS.4.a",
+                      "expectationDescription": "Select and use digital learning tools/devices to support planning, implementing and reflecting upon a defined task."
+                    },
+                    {
+                      "expectationID": "T.4.a",
+                      "expectationDescription": "Diagnose problems and select an appropriate solution from a list of problems and solutions to resolve hardware and software issues."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "NI",
+                  "objectiveTitle": "Networks and the Internet",
+                  "objectiveDescription": "Learning about networking, cybersecurity, and the Internet of Things.",
+                  "expectations": [
+                    {
+                      "expectationID": "N.4.a",
+                      "expectationDescription": "Describe how information is broken down to be transmitted over a network to help students gain a better understanding of the internet and networks."
+                    },
+                    {
+                      "expectationID": "N.4.b",
+                      "expectationDescription": "Describe network addresses, names and rules (i.e., protocols) to share or receive information from the global community."
+                    },
+                    {
+                      "expectationID": "C.4.a",
+                      "expectationDescription": "Describe what information should be protected and the importance of a secure password to protect information."
+                    },
+                    {
+                      "expectationID": "C.4.b",
+                      "expectationDescription": "Describe and explain safe usage of various online services such as web, email, video, gaming, cloud services and networked drives."
+                    },
+                    {
+                      "expectationID": "IOT.4.a",
+                      "expectationDescription": "Explore how information is transferred to the internet from smart and intelligent devices to recognize how the internet and networks operate."
+                    },
+                    {
+                      "expectationID": "IOT.4.b",
+                      "expectationDescription": "Describe how transferred information is tagged using identifiers to transmit information about the user so students begin to learn that no information on the internet is anonymous."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "DA",
+                  "objectiveTitle": "Data and Analysis",
+                  "objectiveDescription": "Understanding data collection, visualization, and inference.",
+                  "expectations": [
+                    {
+                      "expectationID": "DCS.4.a",
+                      "expectationDescription": "Gather and organize multiple quantitative data elements using a tool to perform various tasks."
+                    },
+                    {
+                      "expectationID": "DCS.4.b",
+                      "expectationDescription": "Identify techniques and formats to store, process and retrieve different types of information."
+                    },
+                    {
+                      "expectationID": "VC.4.a",
+                      "expectationDescription": "Organize data into subsets to provide different views or commonalities and present insights gained using visual or other types of representations."
+                    },
+                    {
+                      "expectationID": "IM.4.a",
+                      "expectationDescription": "Utilize data to make predictions and discuss whether there is adequate data to make reliable predictions."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "ATP",
+                  "objectiveTitle": "Algorithmic Thinking and Programming",
+                  "objectiveDescription": "Exploring algorithms, variables, control structures, and program development.",
+                  "expectations": [
+                    {
+                      "expectationID": "A.4.a",
+                      "expectationDescription": "Construct and refine an algorithm to accomplish a given task."
+                    },
+                    {
+                      "expectationID": "VDR.4.a",
+                      "expectationDescription": "Identify and use a variable, a placeholder for storing a value, to understand how it works in a multi-step process."
+                    },
+                    {
+                      "expectationID": "CS.4.a",
+                      "expectationDescription": "Create a program using sequences, events, loops, and conditionals to solve a problem."
+                    },
+                    {
+                      "expectationID": "M.4.a",
+                      "expectationDescription": "Decompose the steps needed or not needed into precise sequences of instructions to design an algorithm."
+                    },
+                    {
+                      "expectationID": "PD.4.a",
+                      "expectationDescription": "Use a design process to plan and develop a program that addresses a multi-step problem."
+                    },
+                    {
+                      "expectationID": "PD.4.b",
+                      "expectationDescription": "Using guided questions, work through a program to identify errors and discuss possible solutions to repair the program."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "AI",
+                  "objectiveTitle": "Artificial Intelligence",
+                  "objectiveDescription": "Understanding AI's role in perception, reasoning, machine learning, and societal impacts.",
+                  "expectations": [
+                    {
+                      "expectationID": "P.4.a",
+                      "expectationDescription": "Describe the difference between analog and digital signals to understand their uses."
+                    },
+                    {
+                      "expectationID": "P.4.b",
+                      "expectationDescription": "Give examples of computer perception to understand how it is affected by the environment."
+                    },
+                    {
+                      "expectationID": "RR.4.a",
+                      "expectationDescription": "Create a classification system using a tree structure to understand binary solutions."
+                    },
+                    {
+                      "expectationID": "RR.4.b",
+                      "expectationDescription": "Describe how AI represents knowledge to make a reasonable answer."
+                    },
+                    {
+                      "expectationID": "ML.4.a",
+                      "expectationDescription": "Explain three different machine learning approaches to choose which may be best for a given situation."
+                    },
+                    {
+                      "expectationID": "ML.4.b",
+                      "expectationDescription": "Explain how machine learning can create a bias to understand how computers can be biased."
+                    },
+                    {
+                      "expectationID": "ML.4.c",
+                      "expectationDescription": "Describe tasks where AI outperforms human tasks and when it does not to describe how humans rely on AI."
+                    },
+                    {
+                      "expectationID": "NI.4.a",
+                      "expectationDescription": "Use AI systems that are designed to be inclusive and describe how they affect the humans who use them."
+                    },
+                    {
+                      "expectationID": "NI.4.b",
+                      "expectationDescription": "Give examples of bias to demonstrate how it can affect decision-making."
+                    },
+                    {
+                      "expectationID": "SI.4.a",
+                      "expectationDescription": "Give examples of bias to demonstrate how it can affect specific groups of people."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "IC",
+                  "objectiveTitle": "Impacts of Computing",
+                  "objectiveDescription": "Explore how computing technologies impact various aspects of life including culture, social interactions, safety, law, and ethics.",
+                  "expectations": [
+                    {
+                      "expectationID": "Cu.4.a",
+                      "expectationDescription": "List examples of computing technologies that have changed the global community to express how those technologies influenced and are influenced by cultural practice."
+                    },
+                    {
+                      "expectationID": "Cu.4.b",
+                      "expectationDescription": "Identify and anticipate diverse user needs to increase accessibility to all users."
+                    },
+                    {
+                      "expectationID": "SI.4.a",
+                      "expectationDescription": "Collaborate and consider diverse perspectives to improve digital artifacts."
+                    },
+                    {
+                      "expectationID": "SLE.4.a",
+                      "expectationDescription": "Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission."
+                    },
+                    {
+                      "expectationID": "SLE.4.b",
+                      "expectationDescription": "Explain why information should be shared or kept private to protect student identity."
+                    },
+                    {
+                      "expectationID": "SLE.4.c",
+                      "expectationDescription": "Communicate the importance of protecting your digital footprint."
+                    },
+                    {
+                      "expectationID": "SLE.4.d",
+                      "expectationDescription": "Describe tradeoffs between allowing information to be public and keeping information private and secure."
+                    },
+                    {
+                      "expectationID": "SLE.4.e",
+                      "expectationDescription": "Explain the effect of cyber bullying and who to tell if this is happening."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

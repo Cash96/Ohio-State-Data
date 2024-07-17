@@ -1,0 +1,111 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "5",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "5.ESS.1",
+                  "objectiveTitle": "The Solar System",
+                  "objectiveDescription": "The solar system includes the sun and all celestial bodies that orbit the sun. Each planet in the solar system has unique characteristics.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The distance from the sun, size, composition, and movement of each planet are unique. Planets revolve around the sun in elliptical orbits. Some of the planets have moons and/or debris that orbit them. Comets, asteroids, and meteoroids orbit the sun."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.ESS.2",
+                  "objectiveTitle": "The Sun as a Star",
+                  "objectiveDescription": "The sun is one of many stars that exist in the universe.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The sun appears to be the largest star in the sky because it is the closest star to Earth. Some stars are larger than the sun and some stars are smaller than the sun."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.ESS.3",
+                  "objectiveTitle": "Earth and Sun Cycles",
+                  "objectiveDescription": "Most of the cycles and patterns of motion between the Earth and sun are predictable.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Earth’s revolution around the sun takes approximately 365 days. Earth completes one rotation on its axis in a 24-hour period, producing day and night. This rotation makes the sun, stars and moon appear to change position in the sky."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.PS.1",
+                  "objectiveTitle": "Movement and Force",
+                  "objectiveDescription": "The amount of change in movement of an object is based on the mass of the object and the amount of force exerted.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Movement can be measured by speed. The speed of an object is calculated by determining the distance traveled in a period of time."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Any change in speed or direction of an object requires a force and is affected by the mass of the object and the amount of force applied."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.PS.2",
+                  "objectiveTitle": "Light and Sound",
+                  "objectiveDescription": "Light and sound are forms of energy that behave in predictable ways.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Light travels and maintains its direction until it interacts with an object or moves from one medium to another and then it can be reflected, refracted or absorbed."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Sound is produced by vibrating objects and requires a medium through which to travel. The rate of vibration is related to the pitch of the sound."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.LS.1",
+                  "objectiveTitle": "Roles in Ecosystems",
+                  "objectiveDescription": "Organisms perform a variety of roles in an ecosystem.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Populations of organisms can be categorized by how they acquire energy."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Food webs can be used to identify the relationships among producers, consumers, and decomposers in an ecosystem."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.LS.2",
+                  "objectiveTitle": "Energy in Ecosystems",
+                  "objectiveDescription": "All of the processes that take place within organisms require energy.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "For ecosystems, the major source of energy is sunlight. Energy entering ecosystems as sunlight is transferred and transformed by producers into energy that organisms use through the process of photosynthesis. That energy is used or stored by the producer and can be passed from organism to organism as illustrated in food webs."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

@@ -1,0 +1,124 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+      "grade": "1",
+      "subject": [
+        {
+          "subjectID": "Science",
+          "subjectTitle": "Science",
+          "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+          "objectives": [
+            {
+              "objectiveID": "1.ESS.1",
+              "objectiveTitle": "Earth and Space Science (ESS)",
+              "objectiveDescription": "Students will understand the sun as the primary source of energy",
+              "expectations": [
+                {
+                  "expectationID": "1",
+                  "expectationDescription": "Students will explain that sunlight warms Earth's land, air, and water."
+                },
+                {
+                  "expectationID": "2",
+                  "expectationDescription": "Students will identify that the amount of sunlight exposure affects the warming or cooling of air, water, and land."
+                }
+              ]
+            },
+            {
+              "objectiveID": "1.ESS.2",
+              "objectiveTitle": "Earth and Space Science (ESS)",
+              "objectiveDescription": "Students will explore the different forms of water on Earth",
+              "expectations": [
+                {
+                  "expectationID": "1",
+                  "expectationDescription": "Students will describe that water on Earth exists in many forms."
+                },
+                {
+                  "expectationID": "2",
+                  "expectationDescription": "Students will explain that the physical properties of water can change due to changes in energy. They will identify that water can change from a liquid to a solid (freezing) and from a solid to a liquid (melting)."
+                }
+              ]
+            },
+            {
+              "objectiveID": "1.PS.1",
+              "objectiveTitle": "Physical Science (PS)",
+              "objectiveDescription": "Students will investigate how properties of objects and materials can change",
+              "expectations": [
+                {
+                  "expectationID": "1",
+                  "expectationDescription": "Students will observe that objects and materials change when exposed to various conditions, such as heating or cooling. They will understand that changes in temperature are a result of changes in energy."
+                },
+                {
+                  "expectationID": "2",
+                  "expectationDescription": "Students will identify that not all materials change in the same way when exposed to different conditions."
+                }
+              ]
+            },
+            {
+              "objectiveID": "1.PS.2",
+              "objectiveTitle": "Physical Science (PS)",
+              "objectiveDescription": "Students will explore motion and how objects can be moved",
+              "expectations": [
+                {
+                  "expectationID": "1",
+                  "expectationDescription": "Students will describe the position of an object by locating it relative to another object or its surroundings."
+                },
+                {
+                  "expectationID": "2",
+                  "expectationDescription": "Students will identify that an object is in motion when its position changes."
+                },
+                {
+                  "expectationID": "3",
+                  "expectationDescription": "Students will explain that the motion of an object can be affected by pushing or pulling (forces). They will understand that a push or pull can make an object move faster, slower, or change direction."
+                },
+                {
+                  "expectationID": "4",
+                  "expectationDescription": "Students will recognize that changes in motion are a result of changes in energy."
+                }
+              ]
+            },
+            {
+              "objectiveID": "1.LS.1",
+              "objectiveTitle": "Life Science (LS)",
+              "objectiveDescription": "Students will understand the basic needs of living things",
+              "expectations": [
+                {
+                  "expectationID": "1",
+                  "expectationDescription": "Students will identify that living things require energy, water, and a specific temperature range in their environment."
+                },
+                {
+                  "expectationID": "2",
+                  "expectationDescription": "Students will explain that plants get energy from sunlight, while animals get energy from plants and other animals."
+                },
+                {
+                  "expectationID": "3",
+                  "expectationDescription": "Students will recognize that living things acquire resources from both living and nonliving components of their environment."
+                }
+              ]
+            },
+            {
+              "objectiveID": "1.LS.2",
+              "objectiveTitle": "Life Science (LS)",
+              "objectiveDescription": "Students will explore how living things survive in their environment",
+              "expectations": [
+                {
+                  "expectationID": "1",
+                  "expectationDescription": "Students will understand that resources are necessary to meet the needs of individual organisms and populations."
+                },
+                {
+                  "expectationID": "2",
+                  "expectationDescription": "Students will explain how living things interact with their physical environments to meet their needs."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

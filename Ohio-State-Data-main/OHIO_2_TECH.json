@@ -1,0 +1,87 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "2",
+          "subject": [
+            {
+              "subjectID": "Technology",
+              "subjectTitle": "Technology",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Technology/Ohios-Learning-Standards-for-Technology/The-2017-Ohio-Learning-Standards-in-Technology.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "K-2.ICT",
+                  "objectiveTitle": "Information and Communications Technology",
+                  "objectiveDescription": "The understanding and application of digital learning tools for accessing, creating, evaluating, applying and communicating ideas and information.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Identify and use appropriate digital learning tools and resources to accomplish a defined task."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Use digital learning tools and resources to locate, evaluate and use information."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Use digital learning tools and resources to construct knowledge."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Use digital learning tools and resources to communicate and disseminate information to multiple audiences."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K-2.ST",
+                  "objectiveTitle": "Society and Technology",
+                  "objectiveDescription": "The interconnectedness of technology, self, society and the natural world, specifically addressing the ethical, legal, political and global impact of technology.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Demonstrate an understanding of technology’s impact on the advancement of humanity – economically, environmentally and ethically."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Analyze the impact of communication and collaboration in both digital and physical environments."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Explain how technology, society and the individual impact one another."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K-2.DT",
+                  "objectiveTitle": "Design and Technology",
+                  "objectiveDescription": "Addresses the nature of technology to develop and improve products and systems over time to meet human/societal needs and wants through design processes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Define and describe technology, including its core concepts of systems, resources, requirements, processes, controls, optimization and trade-offs."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Identify a problem and use an engineering design process to solve the problem."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Demonstrate that solutions to complex problems require collaboration, interdisciplinary understanding and systems thinking."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Evaluate designs using functional, aesthetic and creative elements."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

@@ -1,0 +1,104 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "k",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "K.ESS.1",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will observe and understand weather changes",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify that weather changes occur throughout the day and from day to day."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will understand that air is a nonliving substance that surrounds Earth and wind is moving air."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will use wind, temperature, and precipitation to document short-term weather changes."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Students will observe yearly weather changes (seasons) as patterns in daily weather changes."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.ESS.2",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will observe the moon, sun, and stars at different times",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will describe the positions of the moon, sun, and stars at different times of the day or night."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will observe the apparent changes in the sun's position throughout the day and across seasons. They will identify that stars are visible at night and some are visible in the evening or morning."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.PS.1",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will sort and describe objects by their properties",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will sort and describe objects based on the material properties, including color, size, and texture."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.PS.2",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will understand the production of sound",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify that sound is produced by touching, blowing, or tapping objects. They will understand that the sound produced depends on the properties of the objects."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.LS.1",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will understand the characteristics and traits of living things",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will recognize that living things grow and reproduce, and they are found worldwide."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "K.LS.2",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will explore the physical traits and behaviors of living things",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify that living things have various structures and some of these structures and behaviors influence their survival."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

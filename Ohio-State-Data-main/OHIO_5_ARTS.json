@@ -1,0 +1,111 @@
+ {
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "5",
+          "subject": [
+            {
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "PE.5",
+                  "objectiveTitle": "Perceiving/Knowing",
+                  "objectiveDescription": "Observe, listen, attend to, discriminate",
+                  "expectations": [
+                    {
+                      "expectationID": "1PE",
+                      "expectationDescription": "Understand that the context of an art object has an effect on how that object is perceived."
+                    },
+                    {
+                      "expectationID": "2PE",
+                      "expectationDescription": "Identify and communicate how historical and cultural contexts influence ideas that inform artists."
+                    },
+                    {
+                      "expectationID": "3PE",
+                      "expectationDescription": "Investigate the role of cultural objects in our everyday environment."
+                    },
+                    {
+                      "expectationID": "4PE",
+                      "expectationDescription": "Compare and contrast how form and style are influenced by social, environmental and political views in artworks."
+                    },
+                    {
+                      "expectationID": "5PE",
+                      "expectationDescription": "Focus attention on selected artworks to identify and pose questions about aesthetic qualities (e.g., sensory, organizational, emotional) in the works."
+                    },
+                    {
+                      "expectationID": "6PE",
+                      "expectationDescription": "Select and access contemporary digital tools and media arts to investigate ideas and inform artmaking."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "PR.5",
+                  "objectiveTitle": "Producing/Performing",
+                  "objectiveDescription": "Generate, create, realize, use & master skills",
+                  "expectations": [
+                    {
+                      "expectationID": "1PR",
+                      "expectationDescription": "Integrate observational and technical skills to strengthen artmaking."
+                    },
+                    {
+                      "expectationID": "2PR",
+                      "expectationDescription": "Use digital tools to explore ideas, create and refine works of art during the artmaking process."
+                    },
+                    {
+                      "expectationID": "3PR",
+                      "expectationDescription": "Experiment with various ideas and visual art media to solve a problem that addresses a contemporary social issue."
+                    },
+                    {
+                      "expectationID": "4PR",
+                      "expectationDescription": "Select and use the elements and principles of art and design to communicate understanding of an interdisciplinary concept."
+                    },
+                    {
+                      "expectationID": "5PR",
+                      "expectationDescription": "During collaborative artmaking experiences, demonstrate respect and support for peer ideas and creativity."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "RE.5",
+                  "objectiveTitle": "Responding/Reflecting",
+                  "objectiveDescription": "Make connections, reconsider, question, self-assess",
+                  "expectations": [
+                    {
+                      "expectationID": "1RE",
+                      "expectationDescription": "Apply reasoning skills to analyze and interpret the meaning in artworks."
+                    },
+                    {
+                      "expectationID": "2RE",
+                      "expectationDescription": "Describe how personal experiences can influence artistic preferences."
+                    },
+                    {
+                      "expectationID": "3RE",
+                      "expectationDescription": "Explain the reasons and value of documenting and preserving works of art and art objects in some cultures."
+                    },
+                    {
+                      "expectationID": "4RE",
+                      "expectationDescription": "Communicate how personal artistic decisions are influenced by social, environmental and political views."
+                    },
+                    {
+                      "expectationID": "5RE",
+                      "expectationDescription": "Express what was learned and the challenges that remain when assessing their artworks."
+                    },
+                    {
+                      "expectationID": "6RE",
+                      "expectationDescription": "Use criteria to assess works of art individually and collaboratively"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

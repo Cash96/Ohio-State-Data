@@ -1,0 +1,171 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "6",
+          "subject": [
+            {
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-6.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "OH.6.MATH.1",
+                  "objectiveTitle": "Ratios and Proportional Relationships",
+                  "objectiveDescription": "Understand ratio concepts and use ratio reasoning to solve problems.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Use ratio and rate reasoning to solve real-world and mathematical problems."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.2",
+                  "objectiveTitle": "The Number System",
+                  "objectiveDescription": "Apply and extend previous understandings of multiplication and division to divide fractions by fractions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Fluently divide multi-digit numbers using a standard algorithm."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Fluently add, subtract, multiply, and divide multi-digit decimals using a standard algorithm for each operation."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Understand a rational number as a point on the number line."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Understand ordering and absolute value of rational numbers."
+                    },
+                    {
+                      "expectationID": "8",
+                      "expectationDescription": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.3",
+                  "objectiveTitle": "Expressions and Equations",
+                  "objectiveDescription": "Apply and extend previous understandings of arithmetic to algebraic expressions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Write and evaluate numerical expressions involving whole number exponents."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Write, read, and evaluate expressions in which letters stand for numbers."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Apply the properties of operations to generate equivalent expressions."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Identify when two expressions are equivalent."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Understand solving an equation or inequality as a process of answering a question."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q, and x are all nonnegative rational numbers."
+                    },
+                    {
+                      "expectationID": "8",
+                      "expectationDescription": "Write an inequality of the form x > c or x < c to represent a constraint or condition in a real-world or mathematical problem."
+                    },
+                    {
+                      "expectationID": "9",
+                      "expectationDescription": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.4",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Solve real-world and mathematical problems involving area, surface area, and volume.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Find the volume of a right rectangular prism with fractional edge lengths."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Draw polygons in the coordinate plane given coordinates for the vertices."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.6.MATH.5",
+                  "objectiveTitle": "Statistics and Probability",
+                  "objectiveDescription": "Develop understanding of statistical problem solving.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Develop statistical reasoning by using the GAISE model."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Display numerical data in plots on a number line, including dot plots (line plots), histograms, and box plots."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Summarize numerical data sets in relation to their context."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }

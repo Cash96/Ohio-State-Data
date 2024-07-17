@@ -1,0 +1,123 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "1",
+          "subject": [
+            {
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "VA.3.1",
+                  "objectiveTitle": "Perceiving/Knowing",
+                  "objectiveDescription": "Observe, listen, attend to, discriminate",
+                  "expectations": [
+                    {
+                      "expectationID": "1PE",
+                      "expectationDescription": "Recognize and describe that people create art and art objects to communicate ideas and serve different purposes."
+                    },
+                    {
+                      "expectationID": "2PE",
+                      "expectationDescription": "Explore and describe how a selected art object was made."
+                    },
+                    {
+                      "expectationID": "3PE",
+                      "expectationDescription": "Examine one or more cultural and historical artworks and respond to the visual, expressive features in the work."
+                    },
+                    {
+                      "expectationID": "4PE",
+                      "expectationDescription": "Identify and point out visual art and design elements and principles in their own artworks and in those of others using art vocabulary."
+                    },
+                    {
+                      "expectationID": "5PE",
+                      "expectationDescription": "Identify and discuss what an artist does and find examples of works by artists in their schools and communities."
+                    },
+                    {
+                      "expectationID": "6PE",
+                      "expectationDescription": "Generate artmaking ideas from their daily experiences and the environment."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "PR",
+                  "objectiveTitle": "Producing/Performing",
+                  "objectiveDescription": "Generate, create, realize, use & master skills.",
+                  "expectations": [
+                    {
+                      "expectationID": "1PR",
+                      "expectationDescription": "Demonstrate beginning skill and craftsmanship in the use of art materials and tools."
+                    },
+                    {
+                      "expectationID": "2PR",
+                      "expectationDescription": "Invent imagery and symbols to express thoughts and feelings."
+                    },
+                    {
+                      "expectationID": "3PR",
+                      "expectationDescription": "Explore and use a range of subject matter to create original works of art."
+                    },
+                    {
+                      "expectationID": "4PR",
+                      "expectationDescription": "Create an artwork based on observation of familiar objects and scenes."
+                    },
+                    {
+                      "expectationID": "5PR",
+                      "expectationDescription": "Use selected art and design elements and principles to explore ideas, feelings and relationships."
+                    },
+                    {
+                      "expectationID": "6PR",
+                      "expectationDescription": "Engage in artmaking to produce a work that combines music, movement or dramatic play with visual art."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "VA.3.3",
+                  "objectiveTitle": "Responding/Reflecting",
+                  "objectiveDescription": "Make connections, reconsider, question, self-assess",
+                  "expectations": [
+                    {
+                      "expectationID": "1RE",
+                      "expectationDescription": "Recognize and point out the strengths in their artworks and how the work could be improved."
+                    },
+                    {
+                      "expectationID": "2RE",
+                      "expectationDescription": "Revise works of art to a level of personal satisfaction."
+                    },
+                    {
+                      "expectationID": "3RE",
+                      "expectationDescription": "Share their artmaking processes with peers."
+                    },
+                    {
+                      "expectationID": "4RE",
+                      "expectationDescription": "Explain how personal interests and experiences are reflected in the subject matter of artworks."
+                    },
+                    {
+                      "expectationID": "5RE",
+                      "expectationDescription": "Discuss the meanings of visual symbols, images and icons observed in artworks."
+                    },
+                    {
+                      "expectationID": "6RE",
+                      "expectationDescription": "Select an art object and describe its personal, functional or decorative purpose."
+                    },
+                    {
+                      "expectationID": "7RE",
+                      "expectationDescription": "Describe how elements and principles communicate meaning in works of art."
+                    },
+                    {
+                      "expectationID": "8RE",
+                      "expectationDescription": "Express and share their own responses to works of art and consider the responses of others."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

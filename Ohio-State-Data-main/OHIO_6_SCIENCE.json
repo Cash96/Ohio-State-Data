@@ -1,0 +1,201 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "6",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "6.ESS.1",
+                  "objectiveTitle": "Minerals have specific, quantifiable properties.",
+                  "objectiveDescription": "Minerals are naturally occurring, inorganic solids that have a defined chemical composition and observable, measurable properties, forming in specific environments.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Minerals are naturally occurring, inorganic solids that have a defined chemical composition. Minerals have properties that can be observed and measured. Minerals form in specific environments."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.2",
+                  "objectiveTitle": "Igneous, metamorphic and sedimentary rocks have unique characteristics.",
+                  "objectiveDescription": "These rock types are identifiable and classifiable by their unique characteristics, including mineral composition and formation processes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Most rocks are composed of one or more minerals, but some sedimentary rocks contain organic material, such as coal. The composition, types of mineral present, and mineral shape and size can identify the rock and interpret its formation, weathering, and erosion history."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.3",
+                  "objectiveTitle": "Igneous, metamorphic and sedimentary rocks form in different ways.",
+                  "objectiveDescription": "Each rock type provides information about the environment of its formation based on its origin from magma, existing rock, or sediment.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Magma or lava cools and crystallizes to form igneous rocks. Heat and pressure transform existing rock into metamorphic rocks. Sedimentary rock forms from weathered material that is compressed and lithifies."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.4",
+                  "objectiveTitle": "Soil is unconsolidated material that contains organic matter and weathered rock.",
+                  "objectiveDescription": "Soil formation varies by environmental conditions and types of bedrock, forming distinguishable layers known as horizons.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Soil formation occurs at different rates based on environmental conditions, types of existing bedrock, and weathering rates. Soil forms in layers known as horizons, distinguishable by measurable properties. Use the term 'soil' rather than 'dirt'."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.ESS.5",
+                  "objectiveTitle": "Rocks, minerals and soils have common and practical uses.",
+                  "objectiveDescription": "These geologic resources are essential for manufacturing and are considered nonrenewable.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Nearly all manufactured material requires some kind of geologic resource. Most geologic resources are considered nonrenewable, including rocks, minerals, and soil."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.1",
+                  "objectiveTitle": "Matter is made up of small particles called atoms.",
+                  "objectiveDescription": "Matter is characterized by mass, volume, and density and consists of particles known as atoms.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Matter has mass, volume and density and is made up of particles called atoms."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Elements are a class of substances composed of a single kind of atom."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Molecules are the combination of two or more atoms that are joined together chemically."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.2",
+                  "objectiveTitle": "Changes of state are explained by a model of matter composed of particles in motion.",
+                  "objectiveDescription": "Temperature and heat influence the motion and position of particles during phase changes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Temperature is a measure of the average motion of particles in a substance."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Heat is a process of energy transfer rather than a type of energy. Energy transfer can result in a change in temperature or a phase change."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "When substances undergo changes of state, atoms change their motion and position."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.3",
+                  "objectiveTitle": "There are two categories of energy: kinetic and potential.",
+                  "objectiveDescription": "Energy manifests as kinetic energy through motion or as potential energy due to position.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Objects and substances in motion have kinetic energy."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Objects and substances can have energy as a result of their position (potential energy)."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.PS.4",
+                  "objectiveTitle": "An object’s motion can be described by its speed and direction.",
+                  "objectiveDescription": "The motion of an object is measurable and can be graphically represented over time.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "An object’s position and speed can be measured and graphed as a function of time."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.1",
+                  "objectiveTitle": "Cells are the fundamental unit of life.",
+                  "objectiveDescription": "All living things are composed of cells, with varied functions across different types of cells.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "All living things are composed of cells. Different body tissues and organs are made of different kinds of cells. The ways cells function are similar in all living organisms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.2",
+                  "objectiveTitle": "All cells come from pre-existing cells.",
+                  "objectiveDescription": "Cell division is a fundamental process for growth, development, and repair in multicellular organisms.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Cells repeatedly divide resulting in more cells and growth and repair in multicellular organisms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.3",
+                  "objectiveTitle": "Cells carry on specific functions that sustain life.",
+                  "objectiveDescription": "Cells perform essential biological functions necessary for the survival of organisms.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Many basic functions of organisms occur in cells. Cells take in nutrients and energy to perform work, like making various molecules required by that cell or an organism."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Every cell is covered by a membrane that controls what can enter and leave the cell."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Within the cell are specialized parts for the transport of materials, energy capture and release, protein building, waste disposal, information feedback and movement."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "6.LS.4",
+                  "objectiveTitle": "Living systems at all levels of organization demonstrate the complementary nature of structure and function.",
+                  "objectiveDescription": "Organisms exhibit various levels of organization, from cells to whole systems, which are essential for life processes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The level of organization within organisms includes cells, tissues, organs, organ systems and whole organisms."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Whether the organism is single-celled or multicellular, all of its parts function as a whole to perform the tasks necessary for the survival of the organism."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Organisms have diverse body plans, symmetry and internal structures that contribute to their being able to survive in their environments."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

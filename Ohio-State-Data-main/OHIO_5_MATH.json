@@ -1,0 +1,183 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "5",
+          "subject": [
+            {
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-5.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "OH.5.MATH.1",
+                  "objectiveTitle": "Operations and Algebraic Thinking",
+                  "objectiveDescription": "Write and interpret numerical expressions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.a",
+                      "expectationDescription": "Use parentheses in numerical expressions, and evaluate expressions with this symbol. Formal use of algebraic order of operations is not necessary."
+                    },
+                    {
+                      "expectationID": "1.b",
+                      "expectationDescription": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Analyze patterns and relationships."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.2",
+                  "objectiveTitle": "Number and Operations in Base Ten",
+                  "objectiveDescription": "Understand the place value system.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Read, write, and compare decimals to thousandths."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Use place value understanding to round decimals to any place, millions through hundredths."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.3",
+                  "objectiveTitle": "Number and Operations in Base Ten (continued)",
+                  "objectiveDescription": "Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+                  "expectations": [
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Fluently multiply multi-digit whole numbers using a standard algorithm."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Find whole number quotients of whole numbers with up to four-digit dividends and two-digit divisors."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Solve real-world problems by adding, subtracting, multiplying, and dividing decimals."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.4",
+                  "objectiveTitle": "Number and Operations—Fractions",
+                  "objectiveDescription": "Use equivalent fractions as a strategy to add and subtract fractions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Add and subtract fractions with unlike denominators."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Solve word problems involving addition and subtraction of fractions referring to the same whole."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Interpret a fraction as division of the numerator by the denominator. Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Apply and extend previous understandings of multiplication and division to multiply a fraction or whole number by a fraction."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Interpret multiplication as scaling."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Solve real-world problems involving multiplication of fractions and mixed numbers."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.5",
+                  "objectiveTitle": "Measurement and Data",
+                  "objectiveDescription": "Convert like measurement units within a given measurement system.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Know relative sizes of these U.S. customary measurement units and convert between them in solving multi-step, real-world problems."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Display and interpret data in graphs to solve problems."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.6",
+                  "objectiveTitle": "Measurement and Data (continued)",
+                  "objectiveDescription": "Represent and interpret data. Understand concepts of volume and relate volume to multiplication and to addition.",
+                  "expectations": [
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Measure volumes by counting unit cubes and relate volume to the operations of multiplication and addition."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Find the volume of a right rectangular prism with whole number side lengths and apply the formulas for rectangular prisms to find volumes."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Recognize volume as additive and find volumes of solid figures composed of two non-overlapping right rectangular prisms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.7",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Graph points on the coordinate plane to solve real-world and mathematical problems. Classify two-dimensional figures into categories based on their properties.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Use a pair of perpendicular number lines to define a coordinate system and graph points in the first quadrant of the coordinate plane."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Represent real-world and mathematical problems by graphing points and interpret coordinate values of points."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Identify and describe commonalities and differences between types of triangles based on angle measures and side lengths."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Identify and describe commonalities and differences between types of quadrilaterals based on angle measures, side lengths, and the presence or absence of parallel and perpendicular lines."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

@@ -1,0 +1,232 @@
+  {
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "7",
+          "subject": [
+            {
+              "subjectID": "Computer Science",
+              "subjectTitle": "Computer Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-7-CS-Standards.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "CS",
+                  "objectiveTitle": "COMPUTING SYSTEMS",
+                  "objectiveDescription": "Learn about computing devices, hardware and software, and troubleshooting techniques.",
+                  "expectations": [
+                    {
+                      "expectationID": "CS.D.7.a",
+                      "expectationDescription": "Develop and implement a process to evaluate existing computing devices capabilities based on personal interaction with the device."
+                    },
+                    {
+                      "expectationID": "CS.HS.7.a",
+                      "expectationDescription": "Evaluate hardware and software combinations used to accomplish a task."
+                    },
+                    {
+                      "expectationID": "CS.T.7.a",
+                      "expectationDescription": "Use a systematic process to identify and evaluate the source of a routine computing problem. Select the best solution to solve the computing problem and communicate the solution to others."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "NI",
+                  "objectiveTitle": "NETWORKS AND THE INTERNET",
+                  "objectiveDescription": "Understand the hardware, protocols, cybersecurity, and IoT within networks and the internet.",
+                  "expectations": [
+                    {
+                      "expectationID": "NI.N.7.a",
+                      "expectationDescription": "Explain the role of hardware components and diagram the infrastructure of networks and the internet (including cloud servers)."
+                    },
+                    {
+                      "expectationID": "NI.N.7.b",
+                      "expectationDescription": "Explain the protocols (i.e., rules) and why they are used to transmit data across networks and the internet."
+                    },
+                    {
+                      "expectationID": "NI.C.7.a",
+                      "expectationDescription": "Identify and apply introductory methods of encryption to model the secure transmission of information."
+                    },
+                    {
+                      "expectationID": "NI.C.7.b",
+                      "expectationDescription": "Describe the types of malware to show how malware affects information."
+                    },
+                    {
+                      "expectationID": "NI.C.7.c",
+                      "expectationDescription": "Identify cybersecurity concerns and measures needed to protect electronic information."
+                    },
+                    {
+                      "expectationID": "NI.IOT.7.a",
+                      "expectationDescription": "Explain the positive and negative impacts of IoT as it applies to daily life and create ways to mitigate the negative impacts on society."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "DA",
+                  "objectiveTitle": "DATA AND ANALYSIS",
+                  "objectiveDescription": "Focus on data collection, storage, visualization, and analysis for practical insights.",
+                  "expectations": [
+                    {
+                      "expectationID": "DA.DCS.7.a",
+                      "expectationDescription": "Compare and contrast digital data collection tools to make them more useful and reliable."
+                    },
+                    {
+                      "expectationID": "DA.DCS.7.b",
+                      "expectationDescription": "Evaluate various file formats to understand data storage capabilities."
+                    },
+                    {
+                      "expectationID": "DA.DCS.7.c",
+                      "expectationDescription": "Create a logical file structure to organize data to support individual and collaborative work."
+                    },
+                    {
+                      "expectationID": "DA.VC.7.a",
+                      "expectationDescription": "Communicate relations between data sets to interpret results."
+                    },
+                    {
+                      "expectationID": "DA.VC.7.b",
+                      "expectationDescription": "Create a spreadsheet utilizing formulas, functions and graphs to represent and analyze data."
+                    },
+                    {
+                      "expectationID": "DA.IM.7.a",
+                      "expectationDescription": "Create and analyze models and simulations to accurately hypothesize a real-world situation."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "ATP",
+                  "objectiveTitle": "ALGORITHMIC THINKING AND PROGRAMMING",
+                  "objectiveDescription": "Develop skills in algorithms, programming, and problem-solving within software development.",
+                  "expectations": [
+                    {
+                      "expectationID": "ATP.A.7.a",
+                      "expectationDescription": "Select and modify pseudocode for a multi-step process to solve a problem."
+                    },
+                    {
+                      "expectationID": "ATP.VDR.7.a",
+                      "expectationDescription": "Use test cases to trace variable values to determine the result."
+                    },
+                    {
+                      "expectationID": "ATP.CS.7.a",
+                      "expectationDescription": "Use and apply decisions and loops in a program to solve a problem."
+                    },
+                    {
+                      "expectationID": "ATP.M.7.a",
+                      "expectationDescription": "Decompose problems into parts to facilitate the design, implementation and review of increasingly complex programs."
+                    },
+                    {
+                      "expectationID": "ATP.PD.7.a",
+                      "expectationDescription": "Write code that utilizes algorithms, variables and control structures to solve problems or as a creative expression."
+                    },
+                    {
+                      "expectationID": "ATP.PD.7.b",
+                      "expectationDescription": "Test, trace and debug to refine code."
+                    },
+                    {
+                      "expectationID": "ATP.PD.7.c",
+                      "expectationDescription": "Identify procedures that utilize parameters."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "AI",
+                  "objectiveTitle": "ARTIFICIAL INTELLIGENCE",
+                  "objectiveDescription": "Explore concepts of AI such as perception, machine learning, and societal impacts.",
+                  "expectations": [
+                    {
+                      "expectationID": "AI.P.7.a",
+                      "expectationDescription": "Give examples of how intelligent agents combine information from multiple sensors to react to an input."
+                    },
+                    {
+                      "expectationID": "AI.P.7.b",
+                      "expectationDescription": "Describe how edge detectors can be composed to form more complex feature detectors, e.g., for letters or shapes."
+                    },
+                    {
+                      "expectationID": "AI.P.7.c",
+                      "expectationDescription": "Illustrate the concept of feature extraction from images by simulating an edge detector."
+                    },
+                    {
+                      "expectationID": "AI.RR.7.a",
+                      "expectationDescription": "Compare several algorithms that could be used to solve a specific type of reasoning problem."
+                    },
+                    {
+                      "expectationID": "AI.ML.7.a",
+                      "expectationDescription": "Model how unsupervised learning finds patterns in unlabeled data to identify how machine learning takes place."
+                    },
+                    {
+                      "expectationID": "AI.ML.7.b",
+                      "expectationDescription": "Create a dataset for training a decision tree classifier or predictor to explore the impact that different feature encodings have on the decision tree."
+                    },
+                    {
+                      "expectationID": "AI.NI.7.a",
+                      "expectationDescription": "Curate a dataset to train a language-processing algorithm to create a program that incorporates voice commands."
+                    },
+                    {
+                      "expectationID": "AI.NI.7.b",
+                      "expectationDescription": "Identify the components of a chatbot and explain how each component contributes to the chatbot’s human-like responses."
+                    },
+                    {
+                      "expectationID": "AI.SI.7.a",
+                      "expectationDescription": "Identify and explain the effect training data has on the accuracy of an artificial intelligence system to uncover bias in training data."
+                    },
+                    {
+                      "expectationID": "AI.SI.7.b",
+                      "expectationDescription": "Identify and explain the problems of classification in the supervised artificial intelligence context to create data sets that are inclusive and accurate."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "IC",
+                  "objectiveTitle": "IMPACTS OF COMPUTING",
+                  "objectiveDescription": "Investigate how computing influences culture, society, and various professional fields.",
+                  "expectations": [
+                    {
+                      "expectationID": "IC.Cu.7.a",
+                      "expectationDescription": "Compare current technologies from the present to the past to evaluate the effect on people's everyday activities."
+                    },
+                    {
+                      "expectationID": "IC.Cu.7.b",
+                      "expectationDescription": "Evaluate various technologies to identify issues of bias and accessibility."
+                    },
+                    {
+                      "expectationID": "IC.Cu.7.c",
+                      "expectationDescription": "Identify and explore careers related to the field of computer science."
+                    },
+                    {
+                      "expectationID": "IC.Cu.7.d",
+                      "expectationDescription": "Explain how computing impacts innovation in other fields."
+                    },
+                    {
+                      "expectationID": "IC.SI.7.a",
+                      "expectationDescription": "Analyze and present beneficial and harmful effects of electronic communications to understand their impacts on interpersonal, global, economic, political, business and cultural interactions."
+                    },
+                    {
+                      "expectationID": "IC.SLE.7.a",
+                      "expectationDescription": "Describe tradeoffs between allowing information to be public and keeping information private and secure to inform decision-making."
+                    },
+                    {
+                      "expectationID": "IC.SLE.7.b",
+                      "expectationDescription": "Identify the social and economic implications of privacy in the context of safety, law or ethics to understand how privacy impacts these areas."
+                    },
+                    {
+                      "expectationID": "IC.SLE.7.c",
+                      "expectationDescription": "Evaluate the development of new technologies in communication, entertainment and business to understand the impact."
+                    },
+                    {
+                      "expectationID": "IC.SLE.7.d",
+                      "expectationDescription": "Provide appropriate credit when using resources or artifacts that are not our own."
+                    },
+                    {
+                      "expectationID": "IC.SLE.7.e",
+                      "expectationDescription": "Explain the connection between the longevity of data on the internet, personal online identity and personal privacy."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

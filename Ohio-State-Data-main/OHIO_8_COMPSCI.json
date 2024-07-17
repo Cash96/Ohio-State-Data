@@ -1,0 +1,248 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "8",
+          "subject": [
+            {
+              "subjectID": "Computer Science",
+              "subjectTitle": "Computer Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-8-CS-Standards.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "CS",
+                  "objectiveTitle": "Computing Systems",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "CS.D.8.a",
+                      "expectationDescription": "Evaluate the advantages and limitations of existing computing devices to recommend design improvements based on analysis of how users interact with the device."
+                    },
+                    {
+                      "expectationID": "CS.HS.8.a",
+                      "expectationDescription": "Design projects that combine hardware and software components that could complete a task."
+                    },
+                    {
+                      "expectationID": "CS.T.8.a",
+                      "expectationDescription": "Use a systematic process to identify and evaluate the source of a routine computing problem. Select the best solution to solve the computing problem and communicate the solution to others."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "NI",
+                  "objectiveTitle": "Networks and the Internet",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "NI.N.8.a",
+                      "expectationDescription": "Model the role of hardware components to diagram the infrastructure of networks and the internet (including cloud servers)."
+                    },
+                    {
+                      "expectationID": "NI.N.8.b",
+                      "expectationDescription": "Model protocols (i.e., rules) and explain why they are used to transmit data across networks and the internet."
+                    },
+                    {
+                      "expectationID": "NI.N.8.c",
+                      "expectationDescription": "Explain how a system responds when information is lost to understand the effect it has on the transferred information."
+                    },
+                    {
+                      "expectationID": "NI.C.8.a",
+                      "expectationDescription": "Explain how physical and digital security measures are used to protect electronic information."
+                    },
+                    {
+                      "expectationID": "NI.C.8.b",
+                      "expectationDescription": "Compare and contrast the effects of different types of malware to determine strategies for how to protect devices."
+                    },
+                    {
+                      "expectationID": "NI.C.8.c",
+                      "expectationDescription": "Compare and contrast examples of various threat actors, such as nation-states, cyber terrorist groups, organized crime or hacktivists."
+                    },
+                    {
+                      "expectationID": "NI.C.8.d",
+                      "expectationDescription": "Explore and differentiate examples of complex encryption methods, e.g., Vigenère, Bacon’s cipher and Enigma."
+                    },
+                    {
+                      "expectationID": "NI.IOT.8.a",
+                      "expectationDescription": "Explore career pathways related to IoT to identify careers associated with the computer science field."
+                    },
+                    {
+                      "expectationID": "NI.IOT.8.b",
+                      "expectationDescription": "Model the lifecycle of information in the IoT including data gathering, transmission, reception and analysis to recreate a real-world scenario."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "DA",
+                  "objectiveTitle": "Data and Analysis",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "DA.DCS.8.a",
+                      "expectationDescription": "Interpret digital data collection tools to manage information effectively."
+                    },
+                    {
+                      "expectationID": "DA.DCS.8.b",
+                      "expectationDescription": "Identify data storage systems to define how data is stored and accessed."
+                    },
+                    {
+                      "expectationID": "DA.DCS.8.c",
+                      "expectationDescription": "Create a logical file structure to organize data in different storage systems to support individual and collaborative work."
+                    },
+                    {
+                      "expectationID": "DA.VC.8.a",
+                      "expectationDescription": "Evaluate data to construct a model or representation."
+                    },
+                    {
+                      "expectationID": "DA.VC.8.b",
+                      "expectationDescription": "Create a spreadsheet utilizing formulas, functions and graphs to represent and analyze data."
+                    },
+                    {
+                      "expectationID": "DA.IM.8.a",
+                      "expectationDescription": "Create and analyze models and simulations to accurately hypothesize a real-world situation."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "ATP",
+                  "objectiveTitle": "Algorithmic Thinking and Programming",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "ATP.A.8.a",
+                      "expectationDescription": "Create multiple pseudocode to solve a multi-step process and justify the most efficient solution."
+                    },
+                    {
+                      "expectationID": "ATP.VDR.8.a",
+                      "expectationDescription": "Analyze test cases and determine the range of valid solutions."
+                    },
+                    {
+                      "expectationID": "ATP.VDR.8.b",
+                      "expectationDescription": "Use a data structure to represent a collection."
+                    },
+                    {
+                      "expectationID": "ATP.CS.8.a",
+                      "expectationDescription": "Use and apply decisions and loops in a program to solve a problem."
+                    },
+                    {
+                      "expectationID": "ATP.M.8.a",
+                      "expectationDescription": "Decompose problems and subproblems into parts to facilitate the design, implementation and review of complex programs."
+                    },
+                    {
+                      "expectationID": "ATP.PD.8.a",
+                      "expectationDescription": "Write code that utilizes algorithms, variables and control structures to solve problems or as a creative expression."
+                    },
+                    {
+                      "expectationID": "ATP.PD.8.b",
+                      "expectationDescription": "Systematically test and refine programs using a range of test cases."
+                    },
+                    {
+                      "expectationID": "ATP.PD.8.c",
+                      "expectationDescription": "Use procedures that utilize parameters to pass values."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "AI",
+                  "objectiveTitle": "Artificial Intelligence",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "AI.P.8.a",
+                      "expectationDescription": "Explain how sounds and images are represented digitally in a computer to explain how sensor data is stored in a computer."
+                    },
+                    {
+                      "expectationID": "AI.P.8.b",
+                      "expectationDescription": "Describe how a vision system might exhibit cultural bias if it lacked knowledge of objects not found in the culture of the people who created it to create inclusive and equitable data sets."
+                    },
+                    {
+                      "expectationID": "AI.P.8.c",
+                      "expectationDescription": "Illustrate how sequences of words can be recognized as phrases, even if some of the words are unclear, by looking at how the words fit together to create a text recognition program."
+                    },
+                    {
+                      "expectationID": "AI.RR.8.a",
+                      "expectationDescription": "Model the process of solving a graph-search problem using breadth-first search to draw a search tree."
+                    },
+                    {
+                      "expectationID": "AI.ML.8.a",
+                      "expectationDescription": "Explain the difference between training and using a reasoning model to identify how a machine learns."
+                    },
+                    {
+                      "expectationID": "AI.ML.8.b",
+                      "expectationDescription": "Illustrate how objects in an image can be segmented and labeled to construct a training set for object recognition."
+                    },
+                    {
+                      "expectationID": "AI.ML.8.c",
+                      "expectationDescription": "Explain how the choice of training data shapes the behavior of the classifier to identify how bias can be introduced if the training set is not properly balanced."
+                    },
+                    {
+                      "expectationID": "AI.NI.8.a",
+                      "expectationDescription": "Create a program, individually and collaboratively, that implements a language processing algorithm to create a functional chatbot."
+                    },
+                    {
+                      "expectationID": "AI.NI.8.b",
+                      "expectationDescription": "Critically analyze and discuss features that make an entity “intelligent,” including discussing differences between human, animal and machine intelligence to identify how machine intelligence varies from natural intelligence."
+                    },
+                    {
+                      "expectationID": "AI.SI.8.a",
+                      "expectationDescription": "Identify and explain how the composition of training data affects the outcome of a supervised artificial intelligence system to identify bias in data sets."
+                    },
+                    {
+                      "expectationID": "AI.SI.8.b",
+                      "expectationDescription": "Identify bias potential in the design of artificial intelligence systems and describe how to utilize inclusive AI design to prevent algorithmic bias."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "IC",
+                  "objectiveTitle": "Impacts of Computing",
+                  "objectiveDescription": "",
+                  "expectations": [
+                    {
+                      "expectationID": "IC.Cu.8.a",
+                      "expectationDescription": "Compare current technologies and how they affect the current economy."
+                    },
+                    {
+                      "expectationID": "IC.Cu.8.b",
+                      "expectationDescription": "Propose potential guidelines/standards/criteria to positively impact bias and accessibility in the design of future technologies."
+                    },
+                    {
+                      "expectationID": "IC.Cu.8.c",
+                      "expectationDescription": "Identify and explore careers related to the field of computer science."
+                    },
+                    {
+                      "expectationID": "IC.Cu.8.d",
+                      "expectationDescription": "Explain how computing impacts innovation in other fields."
+                    },
+                    {
+                      "expectationID": "IC.SI.8.a",
+                      "expectationDescription": "Evaluate the impacts of electronic communication on personal relationships to be able to evaluate differences between face-to-face and electronic communication."
+                    },
+                    {
+                      "expectationID": "IC.SLE.8.a",
+                      "expectationDescription": "Explain user privacy concerns related to the collection and generation of data that may not be evident through automated processes."
+                    },
+                    {
+                      "expectationID": "IC.SLE.8.b",
+                      "expectationDescription": "Describe the social and economic implications of privacy in the context of safety, law or ethics to be global digital citizens."
+                    },
+                    {
+                      "expectationID": "IC.SLE.8.c",
+                      "expectationDescription": "Identify ethical and legal security measures used to protect electronic information."
+                    },
+                    {
+                      "expectationID": "IC.SLE.8.d",
+                      "expectationDescription": "Provide appropriate credit when using resources or artifacts that are not our own."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
