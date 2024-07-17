@@ -1,0 +1,184 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "2",
+          "subject": [
+            {
+              "subjectID": "Computer Science",
+              "subjectTitle": "Computer Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-2-CS-Standards.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "CS",
+                  "objectiveTitle": "Computing Systems",
+                  "objectiveDescription": "Learn about various computing devices, their hardware and software components, and troubleshooting techniques.",
+                  "expectations": [
+                    {
+                      "expectationID": "CS.D.2.a",
+                      "expectationDescription": "Select and operate commonly used devices to perform a variety of tasks."
+                    },
+                    {
+                      "expectationID": "CS.HS.2.a",
+                      "expectationDescription": "Select and use hardware and software necessary for accomplishing a task."
+                    },
+                    {
+                      "expectationID": "CS.T.2.a",
+                      "expectationDescription": "Use problem-solving strategies to troubleshoot a problem."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "NI",
+                  "objectiveTitle": "Networks and the Internet",
+                  "objectiveDescription": "Explore networking, cybersecurity, and the Internet of Things (IoT) to understand digital communication and data exchange.",
+                  "expectations": [
+                    {
+                      "expectationID": "NI.N.2.a",
+                      "expectationDescription": "Describe how information can be communicated electronically to gain a deeper understanding of how information is transmitted (e.g., email, social media)."
+                    },
+                    {
+                      "expectationID": "NI.N.2.b",
+                      "expectationDescription": "Use computing devices that are connected to share and receive information from the global community."
+                    },
+                    {
+                      "expectationID": "NI.C.2.a",
+                      "expectationDescription": "Explain and demonstrate secure practices (e.g., creating strong passwords) to protect private information."
+                    },
+                    {
+                      "expectationID": "NI.C.2.b",
+                      "expectationDescription": "Identify and discuss examples of how devices can be used with good and bad intentions."
+                    },
+                    {
+                      "expectationID": "NI.IOT.2.a",
+                      "expectationDescription": "With guidance and support, explain how devices connect and exchange data over different environments to explore how information is shared."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "DA",
+                  "objectiveTitle": "Data and Analysis",
+                  "objectiveDescription": "Focus on data collection, storage, visualization, communication, and analysis to understand and manipulate data.",
+                  "expectations": [
+                    {
+                      "expectationID": "DA.DCS.2.a",
+                      "expectationDescription": "Collect and organize data to store, retrieve and modify."
+                    },
+                    {
+                      "expectationID": "DA.DCS.2.b",
+                      "expectationDescription": "Manipulate data to perform various tasks."
+                    },
+                    {
+                      "expectationID": "DA.VC.2.a",
+                      "expectationDescription": "Organize, analyze and present data in various formats."
+                    },
+                    {
+                      "expectationID": "DA.IM.2.a",
+                      "expectationDescription": "Interpret and analyze data, graphs, models or charts."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "ATP",
+                  "objectiveTitle": "Algorithmic Thinking and Programming",
+                  "objectiveDescription": "Learn about algorithms, program development, and other computational concepts to solve problems and express ideas.",
+                  "expectations": [
+                    {
+                      "expectationID": "ATP.A.2.a",
+                      "expectationDescription": "Model a real-world process by constructing and following step-by-step instructions (i.e., algorithms) to complete tasks."
+                    },
+                    {
+                      "expectationID": "ATP.VDR.2.a",
+                      "expectationDescription": "Construct a model that shows the way programs store and manipulate data by using numbers or other symbols to represent information."
+                    },
+                    {
+                      "expectationID": "ATP.CS.2.a",
+                      "expectationDescription": "Develop a program that uses sequencing and repetition (i.e., loops) to solve a problem or express ideas."
+                    },
+                    {
+                      "expectationID": "ATP.M.2.a",
+                      "expectationDescription": "Break down (i.e., decompose) a series of steps and separate the necessary from the unnecessary steps to create a precise sequence of instructions to solve a problem or express an idea."
+                    },
+                    {
+                      "expectationID": "ATP.PD.2.a",
+                      "expectationDescription": "Plan and create an artifact to illustrate thoughts, ideas and problems in a sequential (step-by-step) manner (e.g., story map, storyboard, sequential graphic organizer)."
+                    },
+                    {
+                      "expectationID": "ATP.PD.2.b",
+                      "expectationDescription": "Identify and fix (i.e., debug) a multi-step process that includes sequencing."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "AI",
+                  "objectiveTitle": "Artificial Intelligence",
+                  "objectiveDescription": "Explore basic concepts of AI, including perception, machine learning, and societal impacts, to understand how AI influences various fields.",
+                  "expectations": [
+                    {
+                      "expectationID": "AI.P.2.a",
+                      "expectationDescription": "Tell where sensors are on computers, robots and intelligent appliances to relate their location with their function such as motion, pressure/touch, temperature, proximity, light, sound, moisture or gases."
+                    },
+                    {
+                      "expectationID": "AI.P.2.b",
+                      "expectationDescription": "Apply the use of intelligent agents to assist in basic research (look up answers to specific questions)."
+                    },
+                    {
+                      "expectationID": "AI.RR.2.a",
+                      "expectationDescription": "With guidance and support, create a simple decision tree (conditionals) to create a pathway for decisions."
+                    },
+                    {
+                      "expectationID": "AI.ML.2.a",
+                      "expectationDescription": "Use a classifier that recognizes drawings and discuss how the program knows what they are drawing."
+                    },
+                    {
+                      "expectationID": "AI.NI.2.a",
+                      "expectationDescription": "List possible attributions computers can use to distinguish humans from each other by comparing these attributions."
+                    },
+                    {
+                      "expectationID": "AI.SI.2.a",
+                      "expectationDescription": "To determine how AI can help in daily life, group applications used into two categories: 'AI' and 'Not AI.'"
+                    },
+                    {
+                      "expectationID": "AI.SI.2.b",
+                      "expectationDescription": "Discuss AI and how it can be used for good or bad to discuss the ethical use of AI."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "IC",
+                  "objectiveTitle": "Impacts of Computing",
+                  "objectiveDescription": "Study the effects of computing on culture, social interactions, and ethical issues to foster informed and responsible use of technology.",
+                  "expectations": [
+                    {
+                      "expectationID": "IC.Cu.2.a",
+                      "expectationDescription": "Compare and contrast how the use of technology has changed to understand its impact on everyday life."
+                    },
+                    {
+                      "expectationID": "IC.Cu.2.b",
+                      "expectationDescription": "Describe the ways people use technologies in their daily work and personal lives to understand technology's impact on one's community."
+                    },
+                    {
+                      "expectationID": "IC.SI.2.a",
+                      "expectationDescription": "Compare and contrast safe and responsible behaviors to those that are not when using information and technology."
+                    },
+                    {
+                      "expectationID": "IC.SLE.2.a",
+                      "expectationDescription": "Discuss appropriate and ethical uses of technology to guide informed decisions."
+                    },
+                    {
+                      "expectationID": "IC.SLE.2.b",
+                      "expectationDescription": "Compare and contrast appropriate and inappropriate behavior online, including cyberbullying, and the steps to keep yourself and others safe and out of harm's way."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+    }
+  ]
+}

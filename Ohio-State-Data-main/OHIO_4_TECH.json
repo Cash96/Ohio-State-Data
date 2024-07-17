@@ -1,0 +1,255 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "4",
+          "subject": [
+            {
+              "subjectID": "Technology",
+              "subjectTitle": "Technology",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Technology/Ohios-Learning-Standards-for-Technology/The-2017-Ohio-Learning-Standards-in-Technology.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "3-5.ICT.1",
+                  "objectiveTitle": "Identify and use appropriate digital learning tools and resources to accomplish a defined task.",
+                  "objectiveDescription": "Students will learn how to select and utilize digital tools to plan, implement, and reflect upon a defined task.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "With guidance, identify and use digital learning tools or resources to support planning, implementing and reflecting upon a defined task."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Explain the use of selected digital learning tools and resources to support productivity and learning."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.ICT.2",
+                  "objectiveTitle": "Use digital learning tools and resources to locate, evaluate and use information.",
+                  "objectiveDescription": "Students will develop skills in information literacy by using digital tools to locate, evaluate, and use information effectively.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Identify questions related to a topic of interest to broaden or narrow the topic as needed."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Use appropriate search techniques to locate needed information using digital learning tools and resources."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Use multiple criteria developed with guidance to differentiate between relevant and irrelevant information found with digital learning tools and resources."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Explain basic ideas of plagiarism and copyright."
+                    },
+                    {
+                      "expectationID": "e",
+                      "expectationDescription": "Use digital citation tools to cite sources with appropriate guidance."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.ICT.3",
+                  "objectiveTitle": "Use digital learning tools and resources to construct knowledge.",
+                  "objectiveDescription": "Students will learn to synthesize and create new knowledge by utilizing various digital resources.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Gather, organize and summarize information from multiple digital learning tools and resources to build knowledge of a topic."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Interpret images, diagrams, maps, graphs, infographics, videos, animations, interactives, etc., in digital learning tools and resources to clarify and add to knowledge."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Organize observations and data collected during student explorations to determine if patterns are present."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Create artifacts using digital learning tools and resources to demonstrate knowledge."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.ICT.4",
+                  "objectiveTitle": "Use digital learning tools and resources to communicate and disseminate information to multiple audiences.",
+                  "objectiveDescription": "Students will utilize digital tools to effectively communicate and share information with diverse audiences.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "With guidance, discuss and identify communication needs considering goals, audience and content."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "With guidance, select media formats appropriate to content and audience."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Evaluate the features of digital learning tools and resources based on the characteristics of a specific audience."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Produce and publish information appropriate for a target audience using digital learning tools and resources."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.ST.1",
+                  "objectiveTitle": "Demonstrate an understanding of technology’s impact on the advancement of humanity – economically, environmentally and ethically.",
+                  "objectiveDescription": "Students will explore how technology influences and shapes various aspects of society, including ethical considerations and community impacts.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Demonstrate appropriate use of technology and explain the importance of responsible and ethical technology use."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Identify positive and negative impacts one’s use of personal technology and technology systems (e.g., agriculture, transportation, energy generation, water treatment) can have on one’s community."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Describe legal and responsible practices when utilizing technology."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.ST.2",
+                  "objectiveTitle": "Analyze the impact of communication and collaboration in both digital and physical environments.",
+                  "objectiveDescription": "Students will understand the dynamics of digital and physical interactions and their implications for effective collaboration.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Create a plan and select collaboration and/or communication tools to complete a given task."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Exercise digital etiquette when communicating and collaborating."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Identify the positive and negative impact the use of technology can have on relationships, communities and self."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.ST.3",
+                  "objectiveTitle": "Explain how technology, society and the individual impact one another.",
+                  "objectiveDescription": "Students will explore the interrelationship between technology, society, and individual identity, considering both historical and future perspectives.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Describe the advantages and disadvantages of technology (past, present, future) to understand the relationship between technology, society and the individual."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Demonstrate how technology innovations/inventions can have multiple applications."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Identify and discuss how the use of technology affects self and others in various ways."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Identify the components of one’s digital identity and one’s digital footprint."
+                    },
+                    {
+                      "expectationID": "e",
+                      "expectationDescription": "Identify and discuss laws and rules that apply to digital content and information."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.DT.1",
+                  "objectiveTitle": "Define and describe technology, including its core concepts of systems, resources, requirements, processes, controls, optimization and trade-offs.",
+                  "objectiveDescription": "Students will gain a foundational understanding of technology and its various aspects, which are crucial to understanding how technological systems function.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Demonstrate how applying human knowledge using tools and machines extends human capabilities to meet our needs and wants."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Give examples of how requirements for a product can limit the design possibilities for that product."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Describe a process as a series of actions and how it is used to produce a result."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Identify and describe examples of technology products and processes."
+                    },
+                    {
+                      "expectationID": "e",
+                      "expectationDescription": "Explain how controls use information to cause systems to change, like a home thermostat turning on the heat based on the low temperature of a room."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.DT.2",
+                  "objectiveTitle": "Identify a problem and use an engineering design process to solve the problem.",
+                  "objectiveDescription": "Students will engage in the engineering design process to identify and solve problems, critically thinking about potential solutions and their implementation.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Critique needs and opportunities for designing solutions."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Plan and implement a design process: identify a problem, think about ways to solve the problem, develop possible solutions, test and evaluate solution(s), present a possible solution, and redesign to improve the solution."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Generate, develop and communicate design ideas and decisions using appropriate terms and graphical representations."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.DT.3",
+                  "objectiveTitle": "Demonstrate that solutions to complex problems require collaboration, interdisciplinary understanding and systems thinking.",
+                  "objectiveDescription": "Students will learn the value of collaborative and interdisciplinary approaches to solving complex problems, emphasizing systems thinking.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Design a product with multiple components and describe how the components interact to form a system."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Explore and document connections between technology and other fields of study."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Identify a product and describe how people from different disciplines combined their skills in the design and production of the product."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3-5.DT.4",
+                  "objectiveTitle": "Evaluate designs using functional, aesthetic and creative elements.",
+                  "objectiveDescription": "Students will apply criteria to evaluate technological products, considering both functional and aesthetic aspects to appreciate the creative elements involved.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Use criteria developed with guidance to evaluate a new or improved product for its functional, aesthetic and creative elements."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Examine a familiar product or process and suggest improvements to its design."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

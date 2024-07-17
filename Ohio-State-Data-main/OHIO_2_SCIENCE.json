@@ -1,0 +1,104 @@
+  {
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "2",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "2.ESS.1",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore the properties of air and wind",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify observable and measurable properties of air."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will explain that the transfer of energy in the atmosphere causes air movement, which is felt as wind. They will identify that wind speed and direction can be measured."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.ESS.2",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will understand the presence of water in the atmosphere",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that water exists in the atmosphere as water vapor."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will describe how clouds, fog, rain, ice, snow, sleet, or hail form when water vapor in the atmosphere cools."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.ESS.3",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore how energy changes affect weather",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will recognize that changes in energy affect various aspects of weather, including temperature, precipitation, and wind."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.PS.1",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will investigate how forces change the motion of objects",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that the motion of an object can increase, change direction, or stop depending on the applied force."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify that the change in motion of an object is related to the size of the force."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will recognize that some forces, like magnetism and gravity, can act without touching the object."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.LS.1",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will understand how living things cause changes on Earth",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that living things interact with and function within their physical environments. They will recognize that living things can cause noticeable or subtle, fast or slow changes in their environment."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "2.LS.2",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will explore the concept of extinction",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will understand that some organisms become extinct when their basic needs are no longer met or the environment changes."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+      }
+    ]
+  }

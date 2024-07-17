@@ -1,0 +1,111 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "3",
+          "subject": [
+            {
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "VA.3-PE",
+                  "objectiveTitle": "Perceiving/Knowing",
+                  "objectiveDescription": "Observe, listen, attend to, discriminate",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Observe and compare similar themes, subject matter and images in artworks from historical and contemporary eras."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Identify the relationships between and among selected elements and principles of art and design."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Use historical and cultural artworks to answer questions about daily life."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Recognize selected artists who contributed to the cultural heritages of the people of the United States."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Provide examples of how we encounter art and artists in everyday life."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Recognize and identify choices that give meaning to a personal work of art."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "VA.3-PR",
+                  "objectiveTitle": "Producing/Performing",
+                  "objectiveDescription": "Generate, create, realize, use & master skills",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Demonstrate skill and expression in the use of art techniques and processes."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Use appropriate visual art vocabulary during artmaking processes."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Find and solve problems of personal relevance and interest when developing artmaking ideas."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Create artworks that demonstrate awareness of two- and three-dimensional space."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Show increasing attention to the nuances of elements and principles of design when creating personal works of art."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Collaborate with others to create a work of art that addresses an interdisciplinary theme."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "VA.3-RE",
+                  "objectiveTitle": "Responding/Reflecting",
+                  "objectiveDescription": "Make connections, reconsider, question, self-assess",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Examine and describe how art and design principles are used by artists to create visual effects."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Select an object an explain reasons why they think it is a work of art."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Compare and contrast their opinions of a work of art with those of their peers."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Identify artworks from their communities or regions and communicate how they reflect social influences and cultural traditions."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Use feedback and self-assessment to improve the quality of personal artworks."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

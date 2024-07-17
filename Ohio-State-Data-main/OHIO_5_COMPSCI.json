@@ -1,0 +1,208 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "5",
+          "subject": [
+            {
+              "subjectID": "Computer Science",
+              "subjectTitle": "Computer Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-5-CS-Standards.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "CS",
+                  "objectiveTitle": "COMPUTING SYSTEMS",
+                  "objectiveDescription": "Learn about the internal parts, hardware, software, and troubleshooting of computing systems.",
+                  "expectations": [
+                    {
+                      "expectationID": "CS.D.5.a",
+                      "expectationDescription": "Explore the internal parts of the computing system and their function to understand and describe the role they play in a computer system."
+                    },
+                    {
+                      "expectationID": "CS.HS.5.a",
+                      "expectationDescription": "Evaluate digital learning tools/devices to support planning, implementing and reflecting across curricular areas."
+                    },
+                    {
+                      "expectationID": "CS.T.5.a",
+                      "expectationDescription": "Diagnose problems and develop strategies to resolve technology issues."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "NI",
+                  "objectiveTitle": "NETWORKS AND THE INTERNET",
+                  "objectiveDescription": "Understanding networking, cybersecurity, and the Internet of Things (IoT).",
+                  "expectations": [
+                    {
+                      "expectationID": "NI.N.5.a",
+                      "expectationDescription": "Model how information is broken down to be transmitted and then reassembled to help students gain a better understanding of the internet and networks."
+                    },
+                    {
+                      "expectationID": "NI.N.5.b",
+                      "expectationDescription": "Apply knowledge of network addresses, names and rules (i.e., protocols) to discuss real-world scenarios."
+                    },
+                    {
+                      "expectationID": "NI.C.5.a",
+                      "expectationDescription": "Demonstrate password creation techniques to develop and use a strong password used on personal accounts."
+                    },
+                    {
+                      "expectationID": "NI.C.5.b",
+                      "expectationDescription": "Explore and utilize safe online services such as web, email, video, gaming, cloud services and network attached storage devices."
+                    },
+                    {
+                      "expectationID": "NI.IOT.5.a",
+                      "expectationDescription": "Learn and model how information is broken down to be transmitted by smart devices to help students visualize how information transfers over the internet."
+                    },
+                    {
+                      "expectationID": "NI.IOT.5.b",
+                      "expectationDescription": "Explore the benefits of the IoT with regards to convenience, safety and health to gain an appreciation of the risks involved in using devices, including data theft, identity theft, tracking and other forms of criminality."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "DA",
+                  "objectiveTitle": "DATA AND ANALYSIS",
+                  "objectiveDescription": "Learn about data collection, storage, visualization, communication, inference, and modeling.",
+                  "expectations": [
+                    {
+                      "expectationID": "DA.DCS.5.a",
+                      "expectationDescription": "Gather and organize multiple quantitative data elements using a tool to perform various tasks."
+                    },
+                    {
+                      "expectationID": "DA.DCS.5.b",
+                      "expectationDescription": "Compare and contrast file formats to demonstrate the advantages and disadvantages of each."
+                    },
+                    {
+                      "expectationID": "DA.VC.5.a",
+                      "expectationDescription": "Organize and present collected data using visual or other types of representations to highlight relationships and support a claim."
+                    },
+                    {
+                      "expectationID": "DA.IM.5.a",
+                      "expectationDescription": "Utilize data to propose cause and effect relationships and predict outcomes."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "ATP",
+                  "objectiveTitle": "ALGORITHMIC THINKING AND PROGRAMMING",
+                  "objectiveDescription": "Understanding algorithms, variables, data representation, control structures, modularity, and program development.",
+                  "expectations": [
+                    {
+                      "expectationID": "ATP.A.5.a",
+                      "expectationDescription": "Evaluate a multi-step process to diagram the proper steps to solve a problem."
+                    },
+                    {
+                      "expectationID": "ATP.VDR.5.a",
+                      "expectationDescription": "Create a variable, a placeholder for storing a value, to understand how it is used in a multi-step process (i.e., algorithm)."
+                    },
+                    {
+                      "expectationID": "ATP.CS.5.a",
+                      "expectationDescription": "Create a program using sequences, events, loops and conditionals to solve a problem."
+                    },
+                    {
+                      "expectationID": "ATP.M.5.a",
+                      "expectationDescription": "Decompose (i.e., break down) the steps needed or not needed (i.e., abstraction) into precise sequences of instructions to design an algorithm."
+                    },
+                    {
+                      "expectationID": "ATP.M.5.b",
+                      "expectationDescription": "With grade appropriate complexity, modify, remix or incorporate portions of an existing program into one's own work, to develop something new or add more advanced features."
+                    },
+                    {
+                      "expectationID": "ATP.PD.5.a",
+                      "expectationDescription": "Use a design process to plan and develop a program that includes multiple steps and end user preferences."
+                    },
+                    {
+                      "expectationID": "ATP.PD.5.b",
+                      "expectationDescription": "Using guided questions, work through a program to identify errors and discuss possible solutions to repair the program."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "AI",
+                  "objectiveTitle": "ARTIFICIAL INTELLIGENCE",
+                  "objectiveDescription": "Learn about perception, representation & reasoning, machine learning, and the societal impacts of AI.",
+                  "expectations": [
+                    {
+                      "expectationID": "AI.P.5.a",
+                      "expectationDescription": "Describe how sensor inputs are converted as analog or digital signals to describe their uses."
+                    },
+                    {
+                      "expectationID": "AI.P.5.b",
+                      "expectationDescription": "Demonstrate a limitation of computer perception to understand how computers interact with humans."
+                    },
+                    {
+                      "expectationID": "AI.RR.5.a",
+                      "expectationDescription": "Create a classification system using a tree structure to demonstrate binary solutions."
+                    },
+                    {
+                      "expectationID": "AI.RR.5.b",
+                      "expectationDescription": "Describe how AI representations support reasoning to answer questions."
+                    },
+                    {
+                      "expectationID": "AI.ML.5.a",
+                      "expectationDescription": "Compare three different machine learning approaches to solve a problem."
+                    },
+                    {
+                      "expectationID": "AI.ML.5.b",
+                      "expectationDescription": "Describe how algorithms and machine learning can exhibit biases to be aware of how humans introduce bias into algorithms and machine learning."
+                    },
+                    {
+                      "expectationID": "AI.ML.5.c",
+                      "expectationDescription": "Describe tasks where AI outperforms human tasks and when it does not and propose possible ways to have AI perform more human tasks."
+                    },
+                    {
+                      "expectationID": "AI.NI.5.a",
+                      "expectationDescription": "Describe ways that AI systems can be designed to support inclusivity."
+                    },
+                    {
+                      "expectationID": "AI.SI.5.a",
+                      "expectationDescription": "Explore how data is influenced by bias and how it affects decision-making to defend arguments in AI."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "IC",
+                  "objectiveTitle": "IMPACTS OF COMPUTING",
+                  "objectiveDescription": "Understanding the cultural, social, and ethical impacts of computing technologies.",
+                  "expectations": [
+                    {
+                      "expectationID": "IC.Cu.5.a",
+                      "expectationDescription": "Explain how computing technologies have changed the global community and express how those technologies influence and are influenced by cultural practices."
+                    },
+                    {
+                      "expectationID": "IC.Cu.5.b",
+                      "expectationDescription": "Develop, test and refine digital artifacts to improve accessibility and usability."
+                    },
+                    {
+                      "expectationID": "IC.SI.5.a",
+                      "expectationDescription": "Collaborate and consider diverse perspectives to improve digital artifacts."
+                    },
+                    {
+                      "expectationID": "IC.SLE.5.a",
+                      "expectationDescription": "Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission."
+                    },
+                    {
+                      "expectationID": "IC.SLE.5.b",
+                      "expectationDescription": "Communicate the effects of sharing personal information on the safety of student identity to determine how to protect students."
+                    },
+                    {
+                      "expectationID": "IC.SLE.5.c",
+                      "expectationDescription": "Evaluate the need to keep personal information secure and protect the digital footprint."
+                    },
+                    {
+                      "expectationID": "IC.SLE.5.d",
+                      "expectationDescription": "Analyze different forms of cyberbullying and identify strategies to stop cyberbullying."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

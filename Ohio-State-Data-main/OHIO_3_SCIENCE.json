@@ -1,0 +1,124 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "3",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "3.ESS.1",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore the properties of Earth's nonliving resources",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that soil is composed of pieces of rock, organic material, water, and air. They will identify measurable and observable characteristics of soil."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will differentiate between dirt and soil."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will identify that rocks have specific characteristics that allow them to be sorted and compared. They will understand that rocks form in different ways."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Students will recognize that air and water are also nonliving resources."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.ESS.2",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will understand the difference between renewable and nonrenewable energy resources",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that renewable energy resources, such as wind, water, or solar energy, can be replenished within a short amount of time by natural processes."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify that nonrenewable energy is a finite resource, such as natural gas, coal, or oil, which cannot be replenished in a short amount of time."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.ESS.3",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore the concept of limited resources",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that some of Earth's resources become limited due to overuse and/or contamination."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify ways to conserve resources, such as reducing resource use, decreasing waste and pollution, recycling, and reusing."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.PS.1",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will understand the concept of matter",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that matter takes up space and has mass."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.PS.2",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will explore the different states of matter",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify the most recognizable states of matter: solids, liquids, and gases."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will explain that shape and compressibility are properties that can distinguish between the states of matter."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will understand that one way to change matter from one state to another is by heating or cooling."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "3.PS.3",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will be introduced to different forms of energy",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will recognize that there are many different forms of energy, including heat, electrical energy, light, sound, and magnetic energy."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will understand that energy is the ability to cause motion or create change."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will identify that the forms of energy outlined at this grade level should be limited to familiar forms they can observe."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

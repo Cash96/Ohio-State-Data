@@ -1,0 +1,115 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "4",
+          "subject": [
+            {  
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "VA.3.PE",
+                  "objectiveTitle": "Perceiving/Knowing",
+                  "objectiveDescription": "Observe, listen, attend to, discriminate",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Use sensory details and descriptive language to identify and describe universal themes, subject matter and ideas expressed across arts disciplines."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Notice and describe different visual effects resulting from artmaking techniques."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Compare and contrast art forms, techniques and functions and artistic styles from a variety of cultures and historical periods."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Identify and describe how artists from various cultural and ethnic groups have impacted Ohio’s history."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Link ideas in and design of works of art to the emotions and moods expressed in them."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Identify and name the sources for artmaking ideas (e.g., self, environment and other people)."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "VA.3.PR",
+                  "objectiveTitle": "Producing/Performing",
+                  "objectiveDescription": "Generate, create, realize, use & master skills",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Identify, select and vary art materials, tools and processes to achieve desired results in their artwork."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Experiment with art materials by using them in unexpected and creative ways to express ideas and convey meaning."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Generate ideas and employ a variety of strategies to solve visual problems."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Demonstrate motivation, independence and persistence during studio practices to complete artworks."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Combine the elements and principles of art and design to create visually effective compositions in original works of art."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Demonstrate technical skill through the integration of common processes and topics from other subject areas."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "VA.3.RE",
+                  "objectiveTitle": "Responding/Reflecting",
+                  "objectiveDescription": "Make connections, reconsider, question, self-assess",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Identify qualities that contribute to the design and meaning of their artworks and the works of others."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Develop and share their ideas, beliefs and values about art."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Recognize and describe the relationship of artworks to their social and cultural contexts."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Generate criteria for discussing and assessing works of art."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Refer to criteria and use art vocabulary when discussing and judging the quality of artworks."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Give and use constructive feedback to produce artworks that achieve learning goals."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

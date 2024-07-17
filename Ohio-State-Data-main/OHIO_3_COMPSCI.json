@@ -1,0 +1,204 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "3",
+          "subject": [
+            {
+              "subjectID": "Computer Science",
+              "subjectTitle": "Computer Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-3-CS-Standards.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "CS",
+                  "objectiveTitle": "Computing Systems",
+                  "objectiveDescription": "Learning about the various components of computing systems and their functions.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Explore common components of a computing system and their function to understand and describe the role they play in a computer system."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Identify and use digital learning tools/devices to support planning, implementing, and reflecting upon a defined task."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Apply troubleshooting strategies given problems and solutions to resolve hardware and software problems."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "NI",
+                  "objectiveTitle": "Networks and the Internet",
+                  "objectiveDescription": "Understanding how networks and the internet function, including the basics of cybersecurity and the Internet of Things.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Describe how communication occurs when information is sent and received over physical or wireless paths to explain communication systems."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Recognize that every device on a network has a unique identification to share or receive information from the global community."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Explore digital safety concepts in order to explain that information can be both public and private, to determine what information can safely be shared and to know how to use passwords to protect information."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Explore and explain grade-appropriate examples of unsafe content, such as pop-ups and malicious links."
+                    },
+                    {
+                      "expectationID": "e",
+                      "expectationDescription": "Describe how devices send and receive information over physical or wireless paths to identify how information is transmitted."
+                    },
+                    {
+                      "expectationID": "f",
+                      "expectationDescription": "Define intelligent devices and describe the difference between smart devices and intelligent devices to identify the."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "DA",
+                  "objectiveTitle": "Data and Analysis",
+                  "objectiveDescription": "Developing skills in data collection, storage, visualization, and making inferences.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Collect quantitative data over time from multiple sources to perform various tasks."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Identify different types of information to store in different formats."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Create a chart or graph to inform a target audience about observations and data collected."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Utilize data to make predictions and discuss whether there is adequate data to make reliable predictions."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "ATP",
+                  "objectiveTitle": "Algorithmic Thinking and Programming",
+                  "objectiveDescription": "Understanding the principles of algorithmic thinking and the fundamentals of programming.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Construct and reflect on errors in an algorithm to accomplish a given task."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Define and identify a variable, a placeholder for storing a value, to understand how it is used in a multi-step process (i.e., algorithm)."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Create a program using sequences, events, loops and conditionals to solve a problem."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Decompose (i.e., break down) the steps needed or not needed (i.e., abstraction) into precise sequences of instructions to design an algorithm."
+                    },
+                    {
+                      "expectationID": "e",
+                      "expectationDescription": "Use a design process to plan the development of a program that solves problems."
+                    },
+                    {
+                      "expectationID": "f",
+                      "expectationDescription": "Using a given program known to contain errors, identify and debug errors to ensure it works."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "AI",
+                  "objectiveTitle": "Artificial Intelligence",
+                  "objectiveDescription": "Exploring the basics of artificial intelligence, including perception, reasoning, machine learning, and societal impacts.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Use different sensors, analog and digital, and discuss the difference between them."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Describe what computer perception is and how it affects computers to see how it compares to human perception."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "With guidance and support, create a classification system using a tree structure to understand how computers think."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Use AI to answer questions and describe how the answer is reasonable."
+                    },
+                    {
+                      "expectationID": "e",
+                      "expectationDescription": "Label three different machine learning approaches to identify them to see different approaches."
+                    },
+                    {
+                      "expectationID": "f",
+                      "expectationDescription": "Give examples of bias to understand what it is and how it affects machine learning."
+                    },
+                    {
+                      "expectationID": "g",
+                      "expectationDescription": "Identify tasks that use AI to perform human tasks to understand how humans rely on AI."
+                    },
+                    {
+                      "expectationID": "h",
+                      "expectationDescription": "Locate AI systems that are designed to help everyone have equal access."
+                    },
+                    {
+                      "expectationID": "i",
+                      "expectationDescription": "Define what a bias is to understand how it can influence humans."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "IC",
+                  "objectiveTitle": "Impacts of Computing",
+                  "objectiveDescription": "Examining how computing technologies influence society, culture, and individual behavior.",
+                  "expectations": [
+                    {
+                      "expectationID": "a",
+                      "expectationDescription": "Identify computing technologies that have changed the world and express how those technologies influence and are influenced by cultural practice."
+                    },
+                    {
+                      "expectationID": "b",
+                      "expectationDescription": "Identify how computing devices have built-in features to increase accessibility to all users."
+                    },
+                    {
+                      "expectationID": "c",
+                      "expectationDescription": "Collaborate and consider diverse perspectives to improve digital artifacts."
+                    },
+                    {
+                      "expectationID": "d",
+                      "expectationDescription": "Use public domain or Creative Commons media, and refrain from copying or using material created by others without permission."
+                    },
+                    {
+                      "expectationID": "e",
+                      "expectationDescription": "Determine whether information should be shared or kept private to protect student identity."
+                    },
+                    {
+                      "expectationID": "f",
+                      "expectationDescription": "Communicate the importance of information security to protect one's own digital footprint."
+                    },
+                    {
+                      "expectationID": "g",
+                      "expectationDescription": "Explain why different types of information might need to be protected, describing common safeguards for protecting personal information."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }

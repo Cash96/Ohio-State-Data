@@ -1,0 +1,123 @@
+{
+  "state": "Ohio",
+  "stateID": "OH",
+  "stateInstitutionName": "Ohio Department of Education",
+  "stateStandardName": "Ohio`s Learning Standards and Model Curriculum",
+  "stateStandardAbbriv": "OLSMC",
+  "URL": "https://education.ohio.gov/Topics/Learning-in-Ohio",
+  "grades": [
+    {
+          "grade": "2",
+          "subject": [
+            {
+              "subjectID": "Visual Art",
+              "subjectTitle": "Visual Art",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "VA.3-2.1",
+                  "objectiveTitle": "Visual Arts - Perceiving/Knowing",
+                  "objectiveDescription": "Engage in observation, listening, and attending to details in artworks.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Notice and point out details and respond to expressive features in artworks."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Distinguish the subject matter and artistic style of two or more visual artists."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Compare the form, materials and techniques in selected works of art using descriptive language."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Identify and compare the purposes for creating art objects from various cultures."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Identify and describe cultural symbols, image and contexts of works of art."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Identify and share the uses of visual art outside the classroom and provide examples."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Generate artmaking ideas from their daily experiences and the environment."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "VA.3-2.2",
+                  "objectiveTitle": "Visual Arts - Producing/Performing",
+                  "objectiveDescription": "Focus on creation and realization of artworks using diverse artistic skills.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Demonstrate increasing skill and craft in the use of art tools and materials with attention to their diverse qualities."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Envision what cannot be observed directly and depict it visually."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Create artworks based on imagination and observation of familiar objects and scenes."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Demonstrate flexibility in their creative processes and use of art materials."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Identify, select and use art and design elements and principles to express emotions and produce a variety of visual effects (e.g., nuances of surface, contour, pattern and tone)."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Use visual art materials to express an idea that reflects their own social or cultural identity."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "VA.3-2.3",
+                  "objectiveTitle": "Visual Arts - Responding/Reflecting",
+                  "objectiveDescription": "Engage in making connections, reconsidering, questioning, and self-assessing in relation to art.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Use basic self-assessment strategies to improve their artworks."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Understand the difference between assessing the quality of an artwork and their personal preference for the work."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Relate the subject matter and ideas in their own artworks to those in the works of others."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Share their personal interpretations of the meanings conveyed in various works of art."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Describe how an artist uses the elements and principles of design to create expressive impact in a work of art."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Identify and articulate important historical and cultural contributions of selected visual artists."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Recognize and discuss that people have various opinions about art and value art for different reasons."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+    }
+  ]
+}
