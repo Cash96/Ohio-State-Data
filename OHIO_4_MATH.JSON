@@ -1,0 +1,605 @@
+{
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-4.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "OH.4.MATH.1",
+                  "objectiveTitle": "Operations and Algebraic Thinking",
+                  "objectiveDescription": "Use the four operations with whole numbers to solve problems.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.a",
+                      "expectationDescription": "Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations."
+                    },
+                    {
+                      "expectationID": "1.b",
+                      "expectationDescription": "Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison."
+                    },
+                    {
+                      "expectationID": "1.c",
+                      "expectationDescription": "Solve multistep word problems posed with whole numbers and having whole number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding. Gain familiarity with factors and multiples."
+                    },
+                    {
+                      "expectationID": "1.d",
+                      "expectationDescription": "Find all factor pairs for a whole number in the range 1-100. Recognize that a whole number is a multiple of each of its factors. Determine whether a given whole number in the range 1-100 is a multiple of a given one-digit number. Determine whether a given whole number in the range 1-100 is prime or composite."
+                    },
+                    {
+                      "expectationID": "1.e",
+                      "expectationDescription": "Generate and analyze patterns. Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.4.MATH.2",
+                  "objectiveTitle": "Number and Operations in Base Ten",
+                  "objectiveDescription": "Generalize place value understanding for multi-digit whole numbers less than or equal to 1,000,000.",
+                  "expectations": [
+                    {
+                      "expectationID": "2.a",
+                      "expectationDescription": "Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right by applying concepts of place value, multiplication, or division."
+                    },
+                    {
+                      "expectationID": "2.b",
+                      "expectationDescription": "Read and write multi-digit whole numbers using standard form, word form, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons."
+                    },
+                    {
+                      "expectationID": "2.c",
+                      "expectationDescription": "Use place value understanding to round multi-digit whole numbers to any place through 1,000,000."
+                    },
+                    {
+                      "expectationID": "2.d",
+                      "expectationDescription": "Perform multi-digit arithmetic with whole numbers less than or equal to 1,000,000. Fluently add and subtract multi-digit whole numbers using a standard algorithm. Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations."
+                    },
+                    {
+                      "expectationID": "2.e",
+                      "expectationDescription": "Find whole number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.4.MATH.3",
+                  "objectiveTitle": "Number and Operations—Fractions",
+                  "objectiveDescription": "Extend understanding of fraction equivalence and ordering limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100.",
+                  "expectations": [
+                    {
+                      "expectationID": "3.a",
+                      "expectationDescription": "Explain why a fraction a/b is equivalent to a fraction (n × a) / (n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions."
+                    },
+                    {
+                      "expectationID": "3.b",
+                      "expectationDescription": "Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model."
+                    },
+                    {
+                      "expectationID": "3.c",
+                      "expectationDescription": "Understand a fraction a/b with a > 1 as a sum of fractions 1/b."
+                    },
+                    {
+                      "expectationID": "3.d",
+                      "expectationDescription": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number."
+                    },
+                    {
+                      "expectationID": "3.e",
+                      "expectationDescription": "Understand decimal notation for fractions, and compare decimal fractions limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100."
+                    },
+                    {
+                      "expectationID": "3.f",
+                      "expectationDescription": "Express a fraction with denominator 10 as an equivalent fraction with denominator 100, and use this technique to add two fractions with respective denominators 10 and 100."
+                    },
+                    {
+                      "expectationID": "3.g",
+                      "expectationDescription": "Use decimal notation for fractions with denominators 10 or 100."
+                    },
+                    {
+                      "expectationID": "3.h",
+                      "expectationDescription": "Compare two decimals to hundredths by reasoning about their size."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.4.MATH.4",
+                  "objectiveTitle": "Measurement and Data",
+                  "objectiveDescription": "Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
+                  "expectations": [
+                    {
+                      "expectationID": "4.a",
+                      "expectationDescription": "Know relative sizes of the metric measurement units within one system of units. Express a larger measurement unit in terms of a smaller unit. Record measurement conversions in a two-column table."
+                    },
+                    {
+                      "expectationID": "4.b",
+                      "expectationDescription": "Solve real-world problems involving money, time, and metric measurement. Add, subtract, and multiply whole numbers to solve metric measurement problems involving distances, liquid volumes, and masses of objects."
+                    },
+                    {
+                      "expectationID": "4.c",
+                      "expectationDescription": "Develop efficient strategies to determine the area and perimeter of rectangles in real-world situations and mathematical problems."
+                    },
+                    {
+                      "expectationID": "4.d",
+                      "expectationDescription": "Display and interpret data in graphs (picture graphs, bar graphs, and line plots) to solve problems using numbers and operations for this grade."
+                    },
+                    {
+                      "expectationID": "4.e",
+                      "expectationDescription": "Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement."
+                    },
+                    {
+                      "expectationID": "4.f",
+                      "expectationDescription": "Measure angles in whole number degrees using a protractor. Sketch angles of specified measure."
+                    },
+                    {
+                      "expectationID": "4.g",
+                      "expectationDescription": "Recognize angle measure as additive. Solve addition and subtraction problems to find unknown angles on a diagram in real-world and mathematical problems."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.4.MATH.5",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
+                  "expectations": [
+                    {
+                      "expectationID": "5.a",
+                      "expectationDescription": "Draw points, lines, line segments, rays, angles (right, acute, and obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures."
+                    },
+                    {
+                      "expectationID": "5.b",
+                      "expectationDescription": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines or the presence or absence of angles of a specified size."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Multiplication and Division",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multiplicative Comparisons",
+                      "sSID": "OH.4.MATH.1.a",
+                      "sectionDescription": "Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Solving Multiplicative Comparison Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Word Problems",
+                      "sSID": "OH.4.MATH.1.b",
+                      "sectionDescription": "Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Multistep Word Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Remainders",
+                      "sSID": "OH.4.MATH.1.c",
+                      "sectionDescription": "Solve multistep word problems posed with whole numbers and having whole number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Understanding Factors and Multiples",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Factor Pairs",
+                      "sSID": "OH.4.MATH.1.d",
+                      "sectionDescription": "Find all factor pairs for a whole number in the range 1-100. Recognize that a whole number is a multiple of each of its factors. Determine whether a given whole number in the range 1-100 is a multiple of a given one-digit number. Determine whether a given whole number in the range 1-100 is prime or composite."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Patterns and Rules",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Generating Patterns",
+                      "sSID": "OH.4.MATH.1.e",
+                      "sectionDescription": "Generate and analyze patterns. Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Place Value Concepts",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Place Value",
+                      "sSID": "OH.4.MATH.2.a",
+                      "sectionDescription": "Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right by applying concepts of place value, multiplication, or division."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Reading and Writing Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Standard, Word, and Expanded Forms",
+                      "sSID": "OH.4.MATH.2.b",
+                      "sectionDescription": "Read and write multi-digit whole numbers using standard form, word form, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Rounding Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Rounding Multi-Digit Numbers",
+                      "sSID": "OH.4.MATH.2.c",
+                      "sectionDescription": "Use place value understanding to round multi-digit whole numbers to any place through 1,000,000."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fluently Add and Subtract",
+                      "sSID": "OH.4.MATH.2.d",
+                      "sectionDescription": "Perform multi-digit arithmetic with whole numbers less than or equal to 1,000,000. Fluently add and subtract multi-digit whole numbers using a standard algorithm."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Multiplication Strategies",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multiplying Whole Numbers",
+                      "sSID": "OH.4.MATH.2.d",
+                      "sectionDescription": "Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Division Strategies",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Quotients and Remainders",
+                      "sSID": "OH.4.MATH.2.e",
+                      "sectionDescription": "Find whole number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Fraction Equivalence",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Equivalent Fractions",
+                      "sSID": "OH.4.MATH.3.a",
+                      "sectionDescription": "Explain why a fraction a/b is equivalent to a fraction (n × a) / (n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Comparing Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Fractions with Different Numerators and Denominators",
+                      "sSID": "OH.4.MATH.3.b",
+                      "sectionDescription": "Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Adding and Subtracting Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sum of Fractions",
+                      "sSID": "OH.4.MATH.3.c",
+                      "sectionDescription": "Understand a fraction a/b with a > 1 as a sum of fractions 1/b."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Multiplying Fractions by Whole Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Applying Multiplication",
+                      "sSID": "OH.4.MATH.3.d",
+                      "sectionDescription": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Decimal Notation for Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Decimals and Fractions",
+                      "sSID": "OH.4.MATH.3.e",
+                      "sectionDescription": "Understand decimal notation for fractions, and compare decimal fractions limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Equivalent Fractions with Denominators of 10 and 100",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Expressing Equivalence",
+                      "sSID": "OH.4.MATH.3.f",
+                      "sectionDescription": "Express a fraction with denominator 10 as an equivalent fraction with denominator 100, and use this technique to add two fractions with respective denominators 10 and 100."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Using Decimal Notation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Decimals to Hundredths",
+                      "sSID": "OH.4.MATH.3.g",
+                      "sectionDescription": "Use decimal notation for fractions with denominators 10 or 100."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Comparing Decimals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reasoning About Size",
+                      "sSID": "OH.4.MATH.3.h",
+                      "sectionDescription": "Compare two decimals to hundredths by reasoning about their size."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Measurement Conversion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Metric Measurement Units",
+                      "sSID": "OH.4.MATH.4.a",
+                      "sectionDescription": "Know relative sizes of the metric measurement units within one system of units. Express a larger measurement unit in terms of a smaller unit. Record measurement conversions in a two-column table."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Real-World Problems with Measurement",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Problems with Money, Time, and Measurement",
+                      "sSID": "OH.4.MATH.4.b",
+                      "sectionDescription": "Solve real-world problems involving money, time, and metric measurement. Add, subtract, and multiply whole numbers to solve metric measurement problems involving distances, liquid volumes, and masses of objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Area and Perimeter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Determining Area and Perimeter",
+                      "sSID": "OH.4.MATH.4.c",
+                      "sectionDescription": "Develop efficient strategies to determine the area and perimeter of rectangles in real-world situations and mathematical problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Data Display and Interpretation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Graphs to Solve Problems",
+                      "sSID": "OH.4.MATH.4.d",
+                      "sectionDescription": "Display and interpret data in graphs (picture graphs, bar graphs, and line plots) to solve problems using numbers and operations for this grade."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Understanding Angles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Concepts of Angle Measurement",
+                      "sSID": "OH.4.MATH.4.e",
+                      "sectionDescription": "Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Measuring Angles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using a Protractor",
+                      "sSID": "OH.4.MATH.4.f",
+                      "sectionDescription": "Measure angles in whole number degrees using a protractor. Sketch angles of specified measure."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Angle Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving for Unknown Angles",
+                      "sSID": "OH.4.MATH.4.g",
+                      "sectionDescription": "Recognize angle measure as additive. Solve addition and subtraction problems to find unknown angles on a diagram in real-world and mathematical problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Drawing Lines and Angles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Geometric Shapes",
+                      "sSID": "OH.4.MATH.5.a",
+                      "sectionDescription": "Draw points, lines, line segments, rays, angles (right, acute, and obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Classifying Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Shape Classification",
+                      "sSID": "OH.4.MATH.5.b",
+                      "sectionDescription": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines or the presence or absence of angles of a specified size."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Exploring More Complex Patterns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Patterns",
+                      "sSID": "OH.4.MATH.1.e",
+                      "sectionDescription": "Generate and analyze patterns. Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Advanced Multiplication Strategies",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multiplying Larger Numbers",
+                      "sSID": "OH.4.MATH.2.d",
+                      "sectionDescription": "Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Advanced Division Strategies",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Dividing Larger Numbers",
+                      "sSID": "OH.4.MATH.2.e",
+                      "sectionDescription": "Find whole number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Exploring Fractions Further",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Equivalence and Ordering",
+                      "sSID": "OH.4.MATH.3.a",
+                      "sectionDescription": "Explain why a fraction a/b is equivalent to a fraction (n × a) / (n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Comparing and Contrasting Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparison Techniques",
+                      "sSID": "OH.4.MATH.3.b",
+                      "sectionDescription": "Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Reviewing Key Concepts",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fraction Operations",
+                      "sSID": "OH.4.MATH.3.c",
+                      "sectionDescription": "Understand a fraction a/b with a > 1 as a sum of fractions 1/b."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Multiplication and Fractions",
+                      "sSID": "OH.4.MATH.3.d",
+                      "sectionDescription": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Preparing for Final Assessments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Decimal Notation and Operations",
+                      "sSID": "OH.4.MATH.3.e",
+                      "sectionDescription": "Understand decimal notation for fractions, and compare decimal fractions limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Advanced Problem Solving",
+                      "sSID": "OH.4.MATH.1.c",
+                      "sectionDescription": "Solve multistep word problems posed with whole numbers and having whole number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Assessments and Reflections",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review and Reflect",
+                      "sSID": "OH.4.MATH.1.h",
+                      "sectionDescription": "Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Final Assessment",
+                      "sSID": "OH.4.MATH.1.i",
+                      "sectionDescription": "Assess overall understanding and proficiency in key mathematical concepts learned throughout the year."
+                    }
+                  ]
+                }
+              ]
+
+            }
+          ]
+}

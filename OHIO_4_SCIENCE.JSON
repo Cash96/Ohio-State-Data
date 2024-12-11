@@ -1,0 +1,613 @@
+{
+          "grade": "4",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "4.ESS.1",
+                  "objectiveTitle": "Earth and Space Science",
+                  "objectiveDescription": "Earth’s surface has specific characteristics and landforms that can be identified.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "About 70 percent of the Earth’s surface is covered with water and most of that is the ocean. Only a small portion of the Earth’s water is freshwater, which is found in rivers, lakes, groundwater and glaciers."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Earth’s surface can change due to erosion and deposition of soil, rock or sediment."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Catastrophic events such as flooding, volcanoes and earthquakes can create landforms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.ESS.2",
+                  "objectiveTitle": "Earth and Space Science",
+                  "objectiveDescription": "The surface of Earth changes due to weathering.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Rocks change shape, size and/or form due to water or glacial movement, freeze and thaw, wind, plant growth, acid rain, pollution and catastrophic events such as earthquakes, flooding, and volcanic activity."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.ESS.3",
+                  "objectiveTitle": "Earth and Space Science",
+                  "objectiveDescription": "The surface of Earth changes due to erosion and deposition.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Liquid water, wind and ice physically remove and carry rock, soil and sediment (erosion) and deposit the material in a new location (deposition)."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Gravitational force affects movements of water, rock and soil."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.PS.1",
+                  "objectiveTitle": "Physical Science",
+                  "objectiveDescription": "When objects break into smaller pieces, dissolve, or change state, the total amount of matter is conserved.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "When an object is broken into smaller pieces, when a solid is dissolved in a liquid or when matter changes state (solid, liquid, gas), the total amount of matter remains constant."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.PS.2",
+                  "objectiveTitle": "Physical Science",
+                  "objectiveDescription": "Energy can be transferred from one location to another or can be transformed from one form to another.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Energy transfers from hot objects to cold objects as heat, resulting in a temperature change."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Electric circuits require a complete loop of conducting materials through which electrical energy can be transferred."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Electrical energy in circuits can be transformed to other forms of energy, including light, heat, sound and motion. Electricity and magnetism are closely related."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.LS.1",
+                  "objectiveTitle": "Life Science",
+                  "objectiveDescription": "Changes in an organism’s environment are sometimes beneficial to its survival and sometimes harmful.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Ecosystems can change gradually or dramatically. When the environment changes, some plants and animals survive and reproduce and others die or move to new locations."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Ecosystems are based on interrelationships among and between biotic and abiotic factors. These include the diversity of other organisms present, the availability of food and other resources, and the physical attributes of the environment."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "4.LS.2",
+                  "objectiveTitle": "Life Science",
+                  "objectiveDescription": "Fossils can be compared to one another and to present-day organisms according to their similarities and differences.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The concept of biodiversity is expanded to include different classification schemes based upon shared internal and external characteristics of organisms."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Most species that have lived on Earth are extinct."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Fossils provide a point of comparison between the types of organisms that lived long ago and those existing today."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Earth's Surface and Water",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Earth's Water Coverage",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "About 70 percent of the Earth’s surface is covered with water and most of that is the ocean. Only a small portion of the Earth’s water is freshwater, which is found in rivers, lakes, groundwater and glaciers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Erosion and Deposition",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Changes in Earth's Surface",
+                      "sSID": "4.ESS.1.2",
+                      "sectionDescription": "Earth’s surface can change due to erosion and deposition of soil, rock or sediment."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Catastrophic Events and Landforms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Formation of Landforms",
+                      "sSID": "4.ESS.1.3",
+                      "sectionDescription": "Catastrophic events such as flooding, volcanoes and earthquakes can create landforms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Weathering and Its Effects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Causes of Weathering",
+                      "sSID": "4.ESS.2.1",
+                      "sectionDescription": "Rocks change shape, size and/or form due to water or glacial movement, freeze and thaw, wind, plant growth, acid rain, pollution and catastrophic events such as earthquakes, flooding, and volcanic activity."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Processes of Erosion and Deposition",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Physical Removal and Deposition",
+                      "sSID": "4.ESS.3.1",
+                      "sectionDescription": "Liquid water, wind and ice physically remove and carry rock, soil and sediment (erosion) and deposit the material in a new location (deposition)."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Gravitational Force",
+                      "sSID": "4.ESS.3.2",
+                      "sectionDescription": "Gravitational force affects movements of water, rock and soil."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Conservation of Matter",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Matter Conservation",
+                      "sSID": "4.PS.1.1",
+                      "sectionDescription": "When an object is broken into smaller pieces, when a solid is dissolved in a liquid or when matter changes state (solid, liquid, gas), the total amount of matter remains constant."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Energy Transfer and Transformation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Heat Transfer",
+                      "sSID": "4.PS.2.1",
+                      "sectionDescription": "Energy transfers from hot objects to cold objects as heat, resulting in a temperature change."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Electric Circuits",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Complete Circuits",
+                      "sSID": "4.PS.2.2",
+                      "sectionDescription": "Electric circuits require a complete loop of conducting materials through which electrical energy can be transferred."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Transformation of Electrical Energy",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Electrical Energy Transformation",
+                      "sSID": "4.PS.2.3",
+                      "sectionDescription": "Electrical energy in circuits can be transformed to other forms of energy, including light, heat, sound and motion. Electricity and magnetism are closely related."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Ecosystem Changes and Survival",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ecosystem Dynamics",
+                      "sSID": "4.LS.1.1",
+                      "sectionDescription": "Ecosystems can change gradually or dramatically. When the environment changes, some plants and animals survive and reproduce and others die or move to new locations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Interrelationships in Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Biotic and Abiotic Factors",
+                      "sSID": "4.LS.1.2",
+                      "sectionDescription": "Ecosystems are based on interrelationships among and between biotic and abiotic factors."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Understanding Biodiversity",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Classification Schemes",
+                      "sSID": "4.LS.2.1",
+                      "sectionDescription": "The concept of biodiversity is expanded to include different classification schemes based upon shared internal and external characteristics of organisms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Extinction of Species",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Extinction",
+                      "sSID": "4.LS.2.2",
+                      "sectionDescription": "Most species that have lived on Earth are extinct."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Fossils and Present-Day Organisms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fossil Comparisons",
+                      "sSID": "4.LS.2.3",
+                      "sectionDescription": "Fossils provide a point of comparison between the types of organisms that lived long ago and those existing today."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Review of Earth's Surface",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Water Coverage and Changes",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Review content on Earth's surface coverage, erosion, and deposition."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Changes in Earth's Surface",
+                      "sSID": "4.ESS.1.2",
+                      "sectionDescription": "Review content on Earth's surface coverage, erosion, and deposition."
+                    },
+                    {
+                      "sectionNumber": "3",
+                      "sectionTitle": "Formation of Landforms",
+                      "sSID": "4.ESS.1.3",
+                      "sectionDescription": "Review content on Earth's surface coverage, erosion, and deposition."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Review of Weathering and Erosion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Causes of Weathering",
+                      "sSID": "4.ESS.2.1",
+                      "sectionDescription": "Review content on weathering and its impact on Earth's surface."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Physical Removal and Deposition",
+                      "sSID": "4.ESS.3.1",
+                      "sectionDescription": "Review content on weathering and its impact on Earth's surface."
+                    },
+                    {
+                      "sectionNumber": "3",
+                      "sectionTitle": "Gravitational Force",
+                      "sSID": "4.ESS.3.2",
+                      "sectionDescription": "Review content on weathering and its impact on Earth's surface."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Review of Matter Conservation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Matter Conservation Principles",
+                      "sSID": "4.PS.1.1",
+                      "sectionDescription": "Review content on the conservation of matter."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Review of Energy Transformation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Transfer and Circuits",
+                      "sSID": "4.PS.2.1",
+                      "sectionDescription": "Review content on energy transformation and electrical circuits."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Complete Circuits",
+                      "sSID": "4.PS.2.2",
+                      "sectionDescription": "Review content on energy transformation and electrical circuits."
+                    },
+                    {
+                      "sectionNumber": "3",
+                      "sectionTitle": "Electrical Energy Transformation",
+                      "sSID": "4.PS.2.3",
+                      "sectionDescription": "Review content on energy transformation and electrical circuits."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Review of Ecosystem Dynamics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ecosystem Dynamics",
+                      "sSID": "4.LS.1.1",
+                      "sectionDescription": "Review content on ecosystem dynamics and changes."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Biotic and Abiotic Factors",
+                      "sSID": "4.LS.1.2",
+                      "sectionDescription": "Review content on ecosystem dynamics and changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Review of Biodiversity and Extinction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Classification Schemes",
+                      "sSID": "4.LS.2.1",
+                      "sectionDescription": "Review content on biodiversity and classification schemes."
+                    },
+                    {
+                      "sectionNumber": "2",
+                      "sectionTitle": "Understanding Extinction",
+                      "sSID": "4.LS.2.2",
+                      "sectionDescription": "Review content on biodiversity and classification schemes."
+                    },
+                    {
+                      "sectionNumber": "3",
+                      "sectionTitle": "Fossil Comparisons",
+                      "sSID": "4.LS.2.3",
+                      "sectionDescription": "Review content on biodiversity and classification schemes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Practical Applications of Earth's Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Field Studies",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Engage in field studies to observe Earth's surface and processes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Practical Applications of Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Laboratory Experiments",
+                      "sSID": "4.PS.1.1",
+                      "sectionDescription": "Conduct laboratory experiments on matter and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Practical Applications of Life Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ecosystem Analysis",
+                      "sSID": "4.LS.1.1",
+                      "sectionDescription": "Analyze local ecosystems and their changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Interdisciplinary Connections: Art and Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Art Projects",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Create art projects that represent scientific concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Interdisciplinary Connections: Science and History",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Historical Context",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Explore the historical context of scientific discoveries."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Interdisciplinary Connections: Science and Literature",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Literature Review",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Read and discuss literature related to scientific themes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Advanced Topics in Matter Conservation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "In-depth Exploration",
+                      "sSID": "4.PS.1.1",
+                      "sectionDescription": "Explore advanced topics in matter conservation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Advanced Topics in Energy Transformation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "In-depth Exploration",
+                      "sSID": "4.PS.2.1",
+                      "sectionDescription": "Explore advanced topics in energy transformation and circuits."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Advanced Topics in Ecosystem Dynamics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "In-depth Exploration",
+                      "sSID": "4.LS.1.1",
+                      "sectionDescription": "Explore advanced topics in ecosystem dynamics and changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Advanced Topics in Fossils and Biodiversity",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "In-depth Exploration",
+                      "sSID": "4.LS.2.1",
+                      "sectionDescription": "Explore advanced topics in fossils and biodiversity."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Comprehensive Review of Earth Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Earth's Surface and Water",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Review all topics related to Earth's surface and water."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Comprehensive Review of Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Matter and Energy",
+                      "sSID": "4.PS.1.1",
+                      "sectionDescription": "Review all topics related to matter and energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Comprehensive Review of Life Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Ecosystems and Biodiversity",
+                      "sSID": "4.LS.1.1",
+                      "sectionDescription": "Review all topics related to ecosystems and biodiversity."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Assessment Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Practice Tests",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Prepare for end-of-year assessments with practice tests and review sessions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Projects",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Development",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Develop and complete final projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Projects and Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Presentations and Celebration",
+                      "sSID": "4.ESS.1.1",
+                      "sectionDescription": "Present final projects and celebrate the year's achievements."
+                    }
+                  ]
+                }
+              ]
+            }

@@ -1,0 +1,605 @@
+{
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-5.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "OH.5.MATH.1",
+                  "objectiveTitle": "Operations and Algebraic Thinking",
+                  "objectiveDescription": "Write and interpret numerical expressions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.a",
+                      "expectationDescription": "Use parentheses in numerical expressions, and evaluate expressions with this symbol. Formal use of algebraic order of operations is not necessary."
+                    },
+                    {
+                      "expectationID": "1.b",
+                      "expectationDescription": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Analyze patterns and relationships."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.2",
+                  "objectiveTitle": "Number and Operations in Base Ten",
+                  "objectiveDescription": "Understand the place value system.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Read, write, and compare decimals to thousandths."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Use place value understanding to round decimals to any place, millions through hundredths."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.3",
+                  "objectiveTitle": "Number and Operations in Base Ten (continued)",
+                  "objectiveDescription": "Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+                  "expectations": [
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Fluently multiply multi-digit whole numbers using a standard algorithm."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Find whole number quotients of whole numbers with up to four-digit dividends and two-digit divisors."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Solve real-world problems by adding, subtracting, multiplying, and dividing decimals."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.4",
+                  "objectiveTitle": "Number and Operations—Fractions",
+                  "objectiveDescription": "Use equivalent fractions as a strategy to add and subtract fractions.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Add and subtract fractions with unlike denominators."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Solve word problems involving addition and subtraction of fractions referring to the same whole."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Interpret a fraction as division of the numerator by the denominator. Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Apply and extend previous understandings of multiplication and division to multiply a fraction or whole number by a fraction."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Interpret multiplication as scaling."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Solve real-world problems involving multiplication of fractions and mixed numbers."
+                    },
+                    {
+                      "expectationID": "7",
+                      "expectationDescription": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.5",
+                  "objectiveTitle": "Measurement and Data",
+                  "objectiveDescription": "Convert like measurement units within a given measurement system.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Know relative sizes of these U.S. customary measurement units and convert between them in solving multi-step, real-world problems."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Display and interpret data in graphs to solve problems."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.6",
+                  "objectiveTitle": "Measurement and Data (continued)",
+                  "objectiveDescription": "Represent and interpret data. Understand concepts of volume and relate volume to multiplication and to addition.",
+                  "expectations": [
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Measure volumes by counting unit cubes and relate volume to the operations of multiplication and addition."
+                    },
+                    {
+                      "expectationID": "5",
+                      "expectationDescription": "Find the volume of a right rectangular prism with whole number side lengths and apply the formulas for rectangular prisms to find volumes."
+                    },
+                    {
+                      "expectationID": "6",
+                      "expectationDescription": "Recognize volume as additive and find volumes of solid figures composed of two non-overlapping right rectangular prisms."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.5.MATH.7",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Graph points on the coordinate plane to solve real-world and mathematical problems. Classify two-dimensional figures into categories based on their properties.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Use a pair of perpendicular number lines to define a coordinate system and graph points in the first quadrant of the coordinate plane."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Represent real-world and mathematical problems by graphing points and interpret coordinate values of points."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Identify and describe commonalities and differences between types of triangles based on angle measures and side lengths."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Identify and describe commonalities and differences between types of quadrilaterals based on angle measures, side lengths, and the presence or absence of parallel and perpendicular lines."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Numerical Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Parentheses",
+                      "sSID": "1.a",
+                      "sectionDescription": "Use parentheses in numerical expressions, and evaluate expressions with this symbol. Formal use of algebraic order of operations is not necessary."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Writing Numerical Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Recording Calculations",
+                      "sSID": "1.b",
+                      "sectionDescription": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Analyzing Patterns and Relationships",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Patterns in Numbers",
+                      "sSID": "2",
+                      "sectionDescription": "Analyze patterns and relationships."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Generating Numerical Patterns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Relationships",
+                      "sSID": "3",
+                      "sectionDescription": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Understanding Place Value",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Place Value Concepts",
+                      "sSID": "1",
+                      "sectionDescription": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Patterns in Powers of 10",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multiplying by Powers of 10",
+                      "sSID": "2",
+                      "sectionDescription": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Comparing Decimals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reading and Writing Decimals",
+                      "sSID": "3",
+                      "sectionDescription": "Read, write, and compare decimals to thousandths."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Rounding Decimals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Place Value Understanding",
+                      "sSID": "4",
+                      "sectionDescription": "Use place value understanding to round decimals to any place, millions through hundredths."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Multiplying Multi-Digit Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Standard Algorithm",
+                      "sSID": "5",
+                      "sectionDescription": "Fluently multiply multi-digit whole numbers using a standard algorithm."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Dividing Whole Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Finding Quotients",
+                      "sSID": "6",
+                      "sectionDescription": "Find whole number quotients of whole numbers with up to four-digit dividends and two-digit divisors."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Operations with Decimals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Real-World Problems",
+                      "sSID": "7",
+                      "sectionDescription": "Solve real-world problems by adding, subtracting, multiplying, and dividing decimals."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Adding and Subtracting Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unlike Denominators",
+                      "sSID": "1",
+                      "sectionDescription": "Add and subtract fractions with unlike denominators."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Fraction Word Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Problems",
+                      "sSID": "2",
+                      "sectionDescription": "Solve word problems involving addition and subtraction of fractions referring to the same whole."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Interpreting Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Division of Whole Numbers",
+                      "sSID": "3",
+                      "sectionDescription": "Interpret a fraction as division of the numerator by the denominator. Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Multiplying Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Extending Understandings",
+                      "sSID": "4",
+                      "sectionDescription": "Apply and extend previous understandings of multiplication and division to multiply a fraction or whole number by a fraction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Multiplication as Scaling",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Scaling",
+                      "sSID": "5",
+                      "sectionDescription": "Interpret multiplication as scaling."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Real-World Fraction Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multiplying Fractions and Mixed Numbers",
+                      "sSID": "6",
+                      "sectionDescription": "Solve real-world problems involving multiplication of fractions and mixed numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Dividing Unit Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unit Fractions and Whole Numbers",
+                      "sSID": "7",
+                      "sectionDescription": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "U.S. Customary Measurement Units",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Relative Sizes and Conversion",
+                      "sSID": "1",
+                      "sectionDescription": "Know relative sizes of these U.S. customary measurement units and convert between them in solving multi-step, real-world problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Displaying Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Graphs",
+                      "sSID": "2",
+                      "sectionDescription": "Display and interpret data in graphs to solve problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Understanding Volume",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Volume Measurement",
+                      "sSID": "3",
+                      "sectionDescription": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Measuring Volumes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Counting Unit Cubes",
+                      "sSID": "4",
+                      "sectionDescription": "Measure volumes by counting unit cubes and relate volume to the operations of multiplication and addition."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Finding Volume of Prisms",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Rectangular Prisms",
+                      "sSID": "5",
+                      "sectionDescription": "Find the volume of a right rectangular prism with whole number side lengths and apply the formulas for rectangular prisms to find volumes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Volume of Solid Figures",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Additive Volume",
+                      "sSID": "6",
+                      "sectionDescription": "Recognize volume as additive and find volumes of solid figures composed of two non-overlapping right rectangular prisms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Coordinate Systems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Defining a Coordinate System",
+                      "sSID": "1",
+                      "sectionDescription": "Use a pair of perpendicular number lines to define a coordinate system and graph points in the first quadrant of the coordinate plane."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Graphing Real-World Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Coordinates",
+                      "sSID": "2",
+                      "sectionDescription": "Represent real-world and mathematical problems by graphing points and interpret coordinate values of points."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Types of Triangles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Classifying Triangles",
+                      "sSID": "3",
+                      "sectionDescription": "Identify and describe commonalities and differences between types of triangles based on angle measures and side lengths."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Types of Quadrilaterals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Classifying Quadrilaterals",
+                      "sSID": "4",
+                      "sectionDescription": "Identify and describe commonalities and differences between types of quadrilaterals based on angle measures, side lengths, and the presence or absence of parallel and perpendicular lines."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Review: Numerical Expressions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Expressions and Patterns",
+                      "sSID": "OH.5.MATH.1",
+                      "sectionDescription": "Review the use of parentheses, writing expressions, and analyzing patterns and relationships."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Review: Place Value and Decimals",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Decimals",
+                      "sSID": "OH.5.MATH.2",
+                      "sectionDescription": "Review place value understanding, patterns in powers of 10, and operations with decimals."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Review: Operations with Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Adding, Subtracting, and Multiplying Fractions",
+                      "sSID": "OH.5.MATH.4",
+                      "sectionDescription": "Review adding and subtracting fractions with unlike denominators, solving fraction word problems, and multiplication as scaling."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Review: Measurement and Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Converting and Displaying Data",
+                      "sSID": "OH.5.MATH.5",
+                      "sectionDescription": "Review converting measurement units, displaying data in graphs, and interpreting data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Review: Volume and Geometry",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Volume and Shapes",
+                      "sSID": "OH.5.MATH.6, OH.5.MATH.7",
+                      "sectionDescription": "Review volume measurement, finding volume of prisms, and classifying two-dimensional figures."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project: Mathematical Concepts",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "OH.5.MATH.1, OH.5.MATH.2, OH.5.MATH.3, OH.5.MATH.4, OH.5.MATH.5, OH.5.MATH.6, OH.5.MATH.7",
+                      "sectionDescription": "Plan and outline a final project that incorporates various mathematical concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project: Development and Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Development",
+                      "sSID": "OH.5.MATH.1, OH.5.MATH.2, OH.5.MATH.3, OH.5.MATH.4, OH.5.MATH.5, OH.5.MATH.6, OH.5.MATH.7",
+                      "sectionDescription": "Develop and prepare the final project, focusing on application of mathematical concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Course Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on Learning",
+                      "sSID": "OH.5.MATH.1, OH.5.MATH.2, OH.5.MATH.3, OH.5.MATH.4, OH.5.MATH.5, OH.5.MATH.6, OH.5.MATH.7",
+                      "sectionDescription": "Review key concepts learned throughout the course and reflect on personal growth and understanding."
+                    }
+                  ]
+                }
+              ]
+
+            }
+          ]
+}

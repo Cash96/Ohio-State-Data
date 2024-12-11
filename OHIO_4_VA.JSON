@@ -1,0 +1,534 @@
+{
+  "subjectID": "Visual Art",
+  "subjectTitle": "Visual Art",
+  "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+  "objectives": [
+    {
+      "objectiveID": "VA.3.PE",
+      "objectiveTitle": "Perceiving/Knowing",
+      "objectiveDescription": "Observe, listen, attend to, discriminate",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Use sensory details and descriptive language to identify and describe universal themes, subject matter and ideas expressed across arts disciplines."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Notice and describe different visual effects resulting from artmaking techniques."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Compare and contrast art forms, techniques and functions and artistic styles from a variety of cultures and historical periods."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Identify and describe how artists from various cultural and ethnic groups have impacted Ohio’s history."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Link ideas in and design of works of art to the emotions and moods expressed in them."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Identify and name the sources for artmaking ideas (e.g., self, environment and other people)."
+        }
+      ]
+    },
+    {
+      "objectiveID": "VA.3.PR",
+      "objectiveTitle": "Producing/Performing",
+      "objectiveDescription": "Generate, create, realize, use & master skills",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Identify, select and vary art materials, tools and processes to achieve desired results in their artwork."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Experiment with art materials by using them in unexpected and creative ways to express ideas and convey meaning."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Generate ideas and employ a variety of strategies to solve visual problems."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Demonstrate motivation, independence and persistence during studio practices to complete artworks."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Combine the elements and principles of art and design to create visually effective compositions in original works of art."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Demonstrate technical skill through the integration of common processes and topics from other subject areas."
+        }
+      ]
+    },
+    {
+      "objectiveID": "VA.3.RE",
+      "objectiveTitle": "Responding/Reflecting",
+      "objectiveDescription": "Make connections, reconsider, question, self-assess",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Identify qualities that contribute to the design and meaning of their artworks and the works of others."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Develop and share their ideas, beliefs and values about art."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Recognize and describe the relationship of artworks to their social and cultural contexts."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Generate criteria for discussing and assessing works of art."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Refer to criteria and use art vocabulary when discussing and judging the quality of artworks."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Give and use constructive feedback to produce artworks that achieve learning goals."
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "week#": "1",
+      "title": "Introduction to Visual Arts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Universal Themes in Art",
+          "sSID": "VA.3.PE.1",
+          "sectionDescription": "Use sensory details and descriptive language to identify and describe universal themes, subject matter and ideas expressed across arts disciplines."
+        }
+      ]
+    },
+    {
+      "week#": "2",
+      "title": "Visual Effects in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Artmaking Techniques",
+          "sSID": "VA.3.PE.2",
+          "sectionDescription": "Notice and describe different visual effects resulting from artmaking techniques."
+        }
+      ]
+    },
+    {
+      "week#": "3",
+      "title": "Comparing Art Forms",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Forms and Techniques",
+          "sSID": "VA.3.PE.3",
+          "sectionDescription": "Compare and contrast art forms, techniques and functions and artistic styles from a variety of cultures and historical periods."
+        }
+      ]
+    },
+    {
+      "week#": "4",
+      "title": "Cultural Impact on Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Artists' Impact on Ohio’s History",
+          "sSID": "VA.3.PE.4",
+          "sectionDescription": "Identify and describe how artists from various cultural and ethnic groups have impacted Ohio’s history."
+        }
+      ]
+    },
+    {
+      "week#": "5",
+      "title": "Emotions and Moods in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Linking Ideas and Emotions",
+          "sSID": "VA.3.PE.5",
+          "sectionDescription": "Link ideas in and design of works of art to the emotions and moods expressed in them."
+        }
+      ]
+    },
+    {
+      "week#": "6",
+      "title": "Sources of Artmaking Ideas",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Identifying Sources",
+          "sSID": "VA.3.PE.6",
+          "sectionDescription": "Identify and name the sources for artmaking ideas (e.g., self, environment and other people)."
+        }
+      ]
+    },
+    {
+      "week#": "7",
+      "title": "Art Materials and Tools",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Selecting Art Materials",
+          "sSID": "VA.3.PR.1",
+          "sectionDescription": "Identify, select and vary art materials, tools and processes to achieve desired results in their artwork."
+        }
+      ]
+    },
+    {
+      "week#": "8",
+      "title": "Creative Use of Art Materials",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Experimenting with Materials",
+          "sSID": "VA.3.PR.2",
+          "sectionDescription": "Experiment with art materials by using them in unexpected and creative ways to express ideas and convey meaning."
+        }
+      ]
+    },
+    {
+      "week#": "9",
+      "title": "Solving Visual Problems",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Generating Ideas",
+          "sSID": "VA.3.PR.3",
+          "sectionDescription": "Generate ideas and employ a variety of strategies to solve visual problems."
+        }
+      ]
+    },
+    {
+      "week#": "10",
+      "title": "Motivation in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Studio Practices",
+          "sSID": "VA.3.PR.4",
+          "sectionDescription": "Demonstrate motivation, independence and persistence during studio practices to complete artworks."
+        }
+      ]
+    },
+    {
+      "week#": "11",
+      "title": "Elements and Principles of Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Compositions",
+          "sSID": "VA.3.PR.5",
+          "sectionDescription": "Combine the elements and principles of art and design to create visually effective compositions in original works of art."
+        }
+      ]
+    },
+    {
+      "week#": "12",
+      "title": "Technical Skill in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Integrating Processes and Topics",
+          "sSID": "VA.3.PR.6",
+          "sectionDescription": "Demonstrate technical skill through the integration of common processes and topics from other subject areas."
+        }
+      ]
+    },
+    {
+      "week#": "13",
+      "title": "Design and Meaning in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Qualities of Artworks",
+          "sSID": "VA.3.RE.1",
+          "sectionDescription": "Identify qualities that contribute to the design and meaning of their artworks and the works of others."
+        }
+      ]
+    },
+    {
+      "week#": "14",
+      "title": "Ideas, Beliefs and Values",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Sharing Ideas",
+          "sSID": "VA.3.RE.2",
+          "sectionDescription": "Develop and share their ideas, beliefs and values about art."
+        }
+      ]
+    },
+    {
+      "week#": "15",
+      "title": "Art and Social Contexts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Relationship of Artworks",
+          "sSID": "VA.3.RE.3",
+          "sectionDescription": "Recognize and describe the relationship of artworks to their social and cultural contexts."
+        }
+      ]
+    },
+    {
+      "week#": "16",
+      "title": "Assessing Artworks",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Generating Criteria",
+          "sSID": "VA.3.RE.4",
+          "sectionDescription": "Generate criteria for discussing and assessing works of art."
+        }
+      ]
+    },
+    {
+      "week#": "17",
+      "title": "Art Vocabulary",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Art Vocabulary",
+          "sSID": "VA.3.RE.5",
+          "sectionDescription": "Refer to criteria and use art vocabulary when discussing and judging the quality of artworks."
+        }
+      ]
+    },
+    {
+      "week#": "18",
+      "title": "Constructive Feedback in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Improving Artworks",
+          "sSID": "VA.3.RE.6",
+          "sectionDescription": "Give and use constructive feedback to produce artworks that achieve learning goals."
+        }
+      ]
+    },
+    {
+      "week#": "19",
+      "title": "Exploring Techniques",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "New Art Techniques",
+          "sSID": "VA.3.PR.1",
+          "sectionDescription": "Identify, select and vary art materials, tools and processes to achieve desired results in their artwork."
+        }
+      ]
+    },
+    {
+      "week#": "20",
+      "title": "Experimenting with Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creative Use of Materials",
+          "sSID": "VA.3.PR.2",
+          "sectionDescription": "Experiment with art materials by using them in unexpected and creative ways to express ideas and convey meaning."
+        }
+      ]
+    },
+    {
+      "week#": "21",
+      "title": "Visual Problem Solving",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Strategies for Visual Problems",
+          "sSID": "VA.3.PR.3",
+          "sectionDescription": "Generate ideas and employ a variety of strategies to solve visual problems."
+        }
+      ]
+    },
+    {
+      "week#": "22",
+      "title": "Motivation in Studio Practice",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Persistence in Art",
+          "sSID": "VA.3.PR.4",
+          "sectionDescription": "Demonstrate motivation, independence and persistence during studio practices to complete artworks."
+        }
+      ]
+    },
+    {
+      "week#": "23",
+      "title": "Elements and Principles of Design",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Effective Compositions",
+          "sSID": "VA.3.PR.5",
+          "sectionDescription": "Combine the elements and principles of art and design to create visually effective compositions in original works of art."
+        }
+      ]
+    },
+    {
+      "week#": "24",
+      "title": "Technical Skill in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Integration of Topics",
+          "sSID": "VA.3.PR.6",
+          "sectionDescription": "Demonstrate technical skill through the integration of common processes and topics from other subject areas."
+        }
+      ]
+    },
+    {
+      "week#": "25",
+      "title": "Design and Meaning",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Understanding Art Qualities",
+          "sSID": "VA.3.RE.1",
+          "sectionDescription": "Identify qualities that contribute to the design and meaning of their artworks and the works of others."
+        }
+      ]
+    },
+    {
+      "week#": "26",
+      "title": "Ideas and Beliefs",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Beliefs and Values",
+          "sSID": "VA.3.RE.2",
+          "sectionDescription": "Develop and share their ideas, beliefs and values about art."
+        }
+      ]
+    },
+    {
+      "week#": "27",
+      "title": "Social and Cultural Contexts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Context of Artworks",
+          "sSID": "VA.3.RE.3",
+          "sectionDescription": "Recognize and describe the relationship of artworks to their social and cultural contexts."
+        }
+      ]
+    },
+    {
+      "week#": "28",
+      "title": "Assessing Artworks",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Criteria",
+          "sSID": "VA.3.RE.4",
+          "sectionDescription": "Generate criteria for discussing and assessing works of art."
+        }
+      ]
+    },
+    {
+      "week#": "29",
+      "title": "Using Art Vocabulary",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Discussing Artworks",
+          "sSID": "VA.3.RE.5",
+          "sectionDescription": "Refer to criteria and use art vocabulary when discussing and judging the quality of artworks."
+        }
+      ]
+    },
+    {
+      "week#": "30",
+      "title": "Constructive Feedback",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Feedback in Art",
+          "sSID": "VA.3.RE.6",
+          "sectionDescription": "Give and use constructive feedback to produce artworks that achieve learning goals."
+        }
+      ]
+    },
+    {
+      "week#": "31",
+      "title": "Exploring New Techniques",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Techniques in Art",
+          "sSID": "VA.3.PR.1",
+          "sectionDescription": "Identify, select and vary art materials, tools and processes to achieve desired results in their artwork."
+        }
+      ]
+    },
+    {
+      "week#": "32",
+      "title": "Creative Expression",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Art Materials",
+          "sSID": "VA.3.PR.2",
+          "sectionDescription": "Experiment with art materials by using them in unexpected and creative ways to express ideas and convey meaning."
+        }
+      ]
+    },
+    {
+      "week#": "33",
+      "title": "Visual Problem Solving",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Solving Art Problems",
+          "sSID": "VA.3.PR.3",
+          "sectionDescription": "Generate ideas and employ a variety of strategies to solve visual problems."
+        }
+      ]
+    },
+    {
+      "week#": "34",
+      "title": "Studio Practice Motivation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Completing Artworks",
+          "sSID": "VA.3.PR.4",
+          "sectionDescription": "Demonstrate motivation, independence and persistence during studio practices to complete artworks."
+        }
+      ]
+    },
+    {
+      "week#": "35",
+      "title": "Elements and Principles of Design",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Designing Artworks",
+          "sSID": "VA.3.PR.5",
+          "sectionDescription": "Combine the elements and principles of art and design to create visually effective compositions in original works of art."
+        }
+      ]
+    },
+    {
+      "week#": "36",
+      "title": "Integration of Skills",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Skills in Art",
+          "sSID": "VA.3.PR.6",
+          "sectionDescription": "Demonstrate technical skill through the integration of common processes and topics from other subject areas."
+        }
+      ]
+    }
+  ]
+}

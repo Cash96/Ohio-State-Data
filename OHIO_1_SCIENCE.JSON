@@ -1,0 +1,546 @@
+{
+          "grade": "1",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "1.ESS.1",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will understand the sun as the primary source of energy",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will explain that sunlight warms Earth's land, air, and water."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify that the amount of sunlight exposure affects the warming or cooling of air, water, and land."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.ESS.2",
+                  "objectiveTitle": "Earth and Space Science (ESS)",
+                  "objectiveDescription": "Students will explore the different forms of water on Earth",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will describe that water on Earth exists in many forms."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will explain that the physical properties of water can change due to changes in energy. They will identify that water can change from a liquid to a solid (freezing) and from a solid to a liquid (melting)."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.PS.1",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will investigate how properties of objects and materials can change",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will observe that objects and materials change when exposed to various conditions, such as heating or cooling. They will understand that changes in temperature are a result of changes in energy."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify that not all materials change in the same way when exposed to different conditions."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.PS.2",
+                  "objectiveTitle": "Physical Science (PS)",
+                  "objectiveDescription": "Students will explore motion and how objects can be moved",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will describe the position of an object by locating it relative to another object or its surroundings."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will identify that an object is in motion when its position changes."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will explain that the motion of an object can be affected by pushing or pulling (forces). They will understand that a push or pull can make an object move faster, slower, or change direction."
+                    },
+                    {
+                      "expectationID": "4",
+                      "expectationDescription": "Students will recognize that changes in motion are a result of changes in energy."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.LS.1",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will understand the basic needs of living things",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will identify that living things require energy, water, and a specific temperature range in their environment."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will explain that plants get energy from sunlight, while animals get energy from plants and other animals."
+                    },
+                    {
+                      "expectationID": "3",
+                      "expectationDescription": "Students will recognize that living things acquire resources from both living and nonliving components of their environment."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.LS.2",
+                  "objectiveTitle": "Life Science (LS)",
+                  "objectiveDescription": "Students will explore how living things survive in their environment",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Students will understand that resources are necessary to meet the needs of individual organisms and populations."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Students will explain how living things interact with their physical environments to meet their needs."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Earth and Space Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "The Sun's Energy",
+                      "sSID": "1.ESS.1.1",
+                      "sectionDescription": "Students will explain that sunlight warms Earth's land, air, and water."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Sunlight and Temperature",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sunlight Exposure",
+                      "sSID": "1.ESS.1.2",
+                      "sectionDescription": "Students will identify that the amount of sunlight exposure affects the warming or cooling of air, water, and land."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Forms of Water",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Water on Earth",
+                      "sSID": "1.ESS.2.1",
+                      "sectionDescription": "Students will describe that water on Earth exists in many forms."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Changing States of Water",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Physical Properties of Water",
+                      "sSID": "1.ESS.2.2",
+                      "sectionDescription": "Students will explain that the physical properties of water can change due to changes in energy. They will identify that water can change from a liquid to a solid (freezing) and from a solid to a liquid (melting)."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Introduction to Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Objects",
+                      "sSID": "1.PS.1.1",
+                      "sectionDescription": "Students will observe that objects and materials change when exposed to various conditions, such as heating or cooling. They will understand that changes in temperature are a result of changes in energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Material Properties",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Behavior of Materials",
+                      "sSID": "1.PS.1.2",
+                      "sectionDescription": "Students will identify that not all materials change in the same way when exposed to different conditions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Introduction to Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Describing Position",
+                      "sSID": "1.PS.2.1",
+                      "sectionDescription": "Students will describe the position of an object by locating it relative to another object or its surroundings."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Understanding Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Motion",
+                      "sSID": "1.PS.2.2",
+                      "sectionDescription": "Students will identify that an object is in motion when its position changes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Forces and Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Effects of Forces",
+                      "sSID": "1.PS.2.3",
+                      "sectionDescription": "Students will explain that the motion of an object can be affected by pushing or pulling (forces). They will understand that a push or pull can make an object move faster, slower, or change direction."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Energy and Motion",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy and Changes in Motion",
+                      "sSID": "1.PS.2.4",
+                      "sectionDescription": "Students will recognize that changes in motion are a result of changes in energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Introduction to Life Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Basic Needs of Living Things",
+                      "sSID": "1.LS.1.1",
+                      "sectionDescription": "Students will identify that living things require energy, water, and a specific temperature range in their environment."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Energy Sources for Living Things",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Plants and Animals",
+                      "sSID": "1.LS.1.2",
+                      "sectionDescription": "Students will explain that plants get energy from sunlight, while animals get energy from plants and other animals."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Living and Nonliving Components",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Acquiring Resources",
+                      "sSID": "1.LS.1.3",
+                      "sectionDescription": "Students will recognize that living things acquire resources from both living and nonliving components of their environment."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Survival in Different Environments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Meeting Needs",
+                      "sSID": "1.LS.2.1",
+                      "sectionDescription": "Students will understand that resources are necessary to meet the needs of individual organisms and populations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Interactions with Environments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interactions",
+                      "sSID": "1.LS.2.2",
+                      "sectionDescription": "Students will explain how living things interact with their physical environments to meet their needs."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review of Earth and Space Science",
+                      "sSID": "1.ESS.1, 1.ESS.2",
+                      "sectionDescription": "Review the concepts of sunlight's impact on Earth and the different forms of water."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review of Physical Science",
+                      "sSID": "1.PS.1, 1.PS.2",
+                      "sectionDescription": "Review the concepts of properties of materials and motion."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review of Life Science",
+                      "sSID": "1.LS.1, 1.LS.2",
+                      "sectionDescription": "Review the concepts of basic needs of living things and how they survive in their environments."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Earth and Space Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "1.ESS",
+                      "sectionDescription": "Plan a class project focusing on the impact of sunlight on Earth and the different forms of water."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Earth and Space Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Development",
+                      "sSID": "1.ESS",
+                      "sectionDescription": "Develop and conduct experiments related to the project topic."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Earth and Space Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Presentation",
+                      "sSID": "1.ESS",
+                      "sectionDescription": "Present the findings and results of the project to the class."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Physical Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "1.PS",
+                      "sectionDescription": "Plan a class project focusing on the properties of materials and motion."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Physical Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Development",
+                      "sSID": "1.PS",
+                      "sectionDescription": "Develop and conduct experiments related to the project topic."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Physical Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Presentation",
+                      "sSID": "1.PS",
+                      "sectionDescription": "Present the findings and results of the project to the class."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Life Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "1.LS",
+                      "sectionDescription": "Plan a class project focusing on the basic needs of living things and their interactions with the environment."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Life Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Development",
+                      "sSID": "1.LS",
+                      "sectionDescription": "Develop and conduct experiments related to the project topic."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Life Science Project",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Presentation",
+                      "sSID": "1.LS",
+                      "sectionDescription": "Present the findings and results of the project to the class."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Interdisciplinary Science Review",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Integration of Concepts",
+                      "sSID": "1.ESS, 1.PS, 1.LS",
+                      "sectionDescription": "Review and integrate concepts from Earth and Space Science, Physical Science, and Life Science."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Advanced Topics in Earth and Space Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Sun and Water Concepts",
+                      "sSID": "1.ESS",
+                      "sectionDescription": "Explore advanced topics related to the sun's energy and water on Earth."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Advanced Topics in Physical Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Material Properties",
+                      "sSID": "1.PS",
+                      "sectionDescription": "Explore advanced topics related to the properties of materials and motion."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Advanced Topics in Life Science",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Advanced Living Things Concepts",
+                      "sSID": "1.LS",
+                      "sectionDescription": "Explore advanced topics related to the basic needs and interactions of living things."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Learned Concepts",
+                      "sSID": "1.ESS, 1.PS, 1.LS",
+                      "sectionDescription": "Review all the concepts learned throughout the course and reflect on personal growth and understanding."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Final Project Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "1.ESS, 1.PS, 1.LS",
+                      "sectionDescription": "Begin planning final interdisciplinary projects that incorporate various techniques and concepts learned during the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Development",
+                      "sSID": "1.ESS, 1.PS, 1.LS",
+                      "sectionDescription": "Develop and refine final interdisciplinary projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Presentation",
+                      "sSID": "1.ESS, 1.PS, 1.LS",
+                      "sectionDescription": "Present final interdisciplinary projects to the class, explaining the integration of various scientific concepts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Course Reflection and Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on the Year",
+                      "sSID": "1.ESS, 1.PS, 1.LS",
+                      "sectionDescription": "Reflect on the entire course, celebrate accomplishments, and discuss how students can continue to explore science in the future."
+                    }
+                  ]
+                }
+              ]
+            }

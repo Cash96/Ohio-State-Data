@@ -1,0 +1,542 @@
+{
+  "subjectID": "Visual Art",
+  "subjectTitle": "Visual Art",
+  "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Fine-Arts/Fine-Arts-Standards/Ohio-Visual-Art-Standards-2012.pdf.aspx?lang=en-US",
+  "objectives": [
+    {
+      "objectiveID": "VA.3-2.1",
+      "objectiveTitle": "Visual Arts - Perceiving/Knowing",
+      "objectiveDescription": "Engage in observation, listening, and attending to details in artworks.",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Notice and point out details and respond to expressive features in artworks."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Distinguish the subject matter and artistic style of two or more visual artists."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Compare the form, materials and techniques in selected works of art using descriptive language."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Identify and compare the purposes for creating art objects from various cultures."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Identify and describe cultural symbols, image and contexts of works of art."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Identify and share the uses of visual art outside the classroom and provide examples."
+        },
+        {
+          "expectationID": "7",
+          "expectationDescription": "Generate artmaking ideas from their daily experiences and the environment."
+        }
+      ]
+    },
+    {
+      "objectiveID": "VA.3-2.2",
+      "objectiveTitle": "Visual Arts - Producing/Performing",
+      "objectiveDescription": "Focus on creation and realization of artworks using diverse artistic skills.",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Demonstrate increasing skill and craft in the use of art tools and materials with attention to their diverse qualities."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Envision what cannot be observed directly and depict it visually."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Create artworks based on imagination and observation of familiar objects and scenes."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Demonstrate flexibility in their creative processes and use of art materials."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Identify, select and use art and design elements and principles to express emotions and produce a variety of visual effects (e.g., nuances of surface, contour, pattern and tone)."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Use visual art materials to express an idea that reflects their own social or cultural identity."
+        }
+      ]
+    },
+    {
+      "objectiveID": "VA.3-2.3",
+      "objectiveTitle": "Visual Arts - Responding/Reflecting",
+      "objectiveDescription": "Engage in making connections, reconsidering, questioning, and self-assessing in relation to art.",
+      "expectations": [
+        {
+          "expectationID": "1",
+          "expectationDescription": "Use basic self-assessment strategies to improve their artworks."
+        },
+        {
+          "expectationID": "2",
+          "expectationDescription": "Understand the difference between assessing the quality of an artwork and their personal preference for the work."
+        },
+        {
+          "expectationID": "3",
+          "expectationDescription": "Relate the subject matter and ideas in their own artworks to those in the works of others."
+        },
+        {
+          "expectationID": "4",
+          "expectationDescription": "Share their personal interpretations of the meanings conveyed in various works of art."
+        },
+        {
+          "expectationID": "5",
+          "expectationDescription": "Describe how an artist uses the elements and principles of design to create expressive impact in a work of art."
+        },
+        {
+          "expectationID": "6",
+          "expectationDescription": "Identify and articulate important historical and cultural contributions of selected visual artists."
+        },
+        {
+          "expectationID": "7",
+          "expectationDescription": "Recognize and discuss that people have various opinions about art and value art for different reasons."
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "week#": "1",
+      "title": "Introduction to Visual Arts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Observing Details in Artworks",
+          "sSID": "VA.3-2.1.1",
+          "sectionDescription": "Notice and point out details and respond to expressive features in artworks."
+        }
+      ]
+    },
+    {
+      "week#": "2",
+      "title": "Subject Matter and Artistic Style",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Comparing Visual Artists",
+          "sSID": "VA.3-2.1.2",
+          "sectionDescription": "Distinguish the subject matter and artistic style of two or more visual artists."
+        }
+      ]
+    },
+    {
+      "week#": "3",
+      "title": "Form, Materials, and Techniques",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Descriptive Language in Art",
+          "sSID": "VA.3-2.1.3",
+          "sectionDescription": "Compare the form, materials and techniques in selected works of art using descriptive language."
+        }
+      ]
+    },
+    {
+      "week#": "4",
+      "title": "Purpose of Art in Various Cultures",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Art Objects",
+          "sSID": "VA.3-2.1.4",
+          "sectionDescription": "Identify and compare the purposes for creating art objects from various cultures."
+        }
+      ]
+    },
+    {
+      "week#": "5",
+      "title": "Cultural Symbols and Contexts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Describing Cultural Symbols",
+          "sSID": "VA.3-2.1.5",
+          "sectionDescription": "Identify and describe cultural symbols, image and contexts of works of art."
+        }
+      ]
+    },
+    {
+      "week#": "6",
+      "title": "Uses of Visual Art Outside the Classroom",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Examples of Art Uses",
+          "sSID": "VA.3-2.1.6",
+          "sectionDescription": "Identify and share the uses of visual art outside the classroom and provide examples."
+        }
+      ]
+    },
+    {
+      "week#": "7",
+      "title": "Generating Artmaking Ideas",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Daily Experiences and Environment",
+          "sSID": "VA.3-2.1.7",
+          "sectionDescription": "Generate artmaking ideas from their daily experiences and the environment."
+        }
+      ]
+    },
+    {
+      "week#": "8",
+      "title": "Skill and Craft in Art Tools",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Art Tools and Materials",
+          "sSID": "VA.3-2.2.1",
+          "sectionDescription": "Demonstrate increasing skill and craft in the use of art tools and materials with attention to their diverse qualities."
+        }
+      ]
+    },
+    {
+      "week#": "9",
+      "title": "Visualizing the Unseen",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Depicting Imagination",
+          "sSID": "VA.3-2.2.2",
+          "sectionDescription": "Envision what cannot be observed directly and depict it visually."
+        }
+      ]
+    },
+    {
+      "week#": "10",
+      "title": "Creating Art from Observation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Observation of Objects",
+          "sSID": "VA.3-2.2.3",
+          "sectionDescription": "Create artworks based on imagination and observation of familiar objects and scenes."
+        }
+      ]
+    },
+    {
+      "week#": "11",
+      "title": "Creative Processes and Flexibility",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Flexible Use of Materials",
+          "sSID": "VA.3-2.2.4",
+          "sectionDescription": "Demonstrate flexibility in their creative processes and use of art materials."
+        }
+      ]
+    },
+    {
+      "week#": "12",
+      "title": "Art and Design Elements",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Expressing Emotions",
+          "sSID": "VA.3-2.2.5",
+          "sectionDescription": "Identify, select and use art and design elements and principles to express emotions and produce a variety of visual effects."
+        }
+      ]
+    },
+    {
+      "week#": "13",
+      "title": "Social and Cultural Identity in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Expressing Identity",
+          "sSID": "VA.3-2.2.6",
+          "sectionDescription": "Use visual art materials to express an idea that reflects their own social or cultural identity."
+        }
+      ]
+    },
+    {
+      "week#": "14",
+      "title": "Self-Assessment in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Improving Artworks",
+          "sSID": "VA.3-2.3.1",
+          "sectionDescription": "Use basic self-assessment strategies to improve their artworks."
+        }
+      ]
+    },
+    {
+      "week#": "15",
+      "title": "Quality vs. Personal Preference",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Assessing Art Quality",
+          "sSID": "VA.3-2.3.2",
+          "sectionDescription": "Understand the difference between assessing the quality of an artwork and their personal preference for the work."
+        }
+      ]
+    },
+    {
+      "week#": "16",
+      "title": "Relating Ideas in Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Connecting Artworks",
+          "sSID": "VA.3-2.3.3",
+          "sectionDescription": "Relate the subject matter and ideas in their own artworks to those in the works of others."
+        }
+      ]
+    },
+    {
+      "week#": "17",
+      "title": "Interpreting Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Personal Interpretations",
+          "sSID": "VA.3-2.3.4",
+          "sectionDescription": "Share their personal interpretations of the meanings conveyed in various works of art."
+        }
+      ]
+    },
+    {
+      "week#": "18",
+      "title": "Elements and Principles of Design",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Expressive Impact",
+          "sSID": "VA.3-2.3.5",
+          "sectionDescription": "Describe how an artist uses the elements and principles of design to create expressive impact in a work of art."
+        }
+      ]
+    },
+    {
+      "week#": "19",
+      "title": "Historical and Cultural Contributions",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Contributions of Visual Artists",
+          "sSID": "VA.3-2.3.6",
+          "sectionDescription": "Identify and articulate important historical and cultural contributions of selected visual artists."
+        }
+      ]
+    },
+    {
+      "week#": "20",
+      "title": "Opinions About Art",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Valuing Art",
+          "sSID": "VA.3-2.3.7",
+          "sectionDescription": "Recognize and discuss that people have various opinions about art and value art for different reasons."
+        }
+      ]
+    },
+    {
+      "week#": "21",
+      "title": "Review and Reflection",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Review of Perceiving/Knowing",
+          "sSID": "VA.3-2.1",
+          "sectionDescription": "Review key concepts and skills related to Perceiving/Knowing learned throughout the year."
+        }
+      ]
+    },
+    {
+      "week#": "22",
+      "title": "Review and Reflection",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Review of Producing/Performing",
+          "sSID": "VA.3-2.2",
+          "sectionDescription": "Review key concepts and skills related to Producing/Performing learned throughout the year."
+        }
+      ]
+    },
+    {
+      "week#": "23",
+      "title": "Review and Reflection",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Review of Responding/Reflecting",
+          "sSID": "VA.3-2.3",
+          "sectionDescription": "Review key concepts and skills related to Responding/Reflecting learned throughout the year."
+        }
+      ]
+    },
+    {
+      "week#": "24",
+      "title": "Advanced Topics in Visual Arts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Exploring Art Techniques",
+          "sSID": "VA.3-2.1",
+          "sectionDescription": "Explore advanced topics and techniques in visual arts."
+        }
+      ]
+    },
+    {
+      "week#": "25",
+      "title": "Advanced Topics in Visual Arts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creative Art Projects",
+          "sSID": "VA.3-2.2",
+          "sectionDescription": "Work on creative art projects using advanced techniques."
+        }
+      ]
+    },
+    {
+      "week#": "26",
+      "title": "Advanced Topics in Visual Arts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Art Critique Sessions",
+          "sSID": "VA.3-2.3",
+          "sectionDescription": "Engage in art critique sessions to discuss and evaluate artworks."
+        }
+      ]
+    },
+    {
+      "week#": "27",
+      "title": "Final Project Planning",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Interdisciplinary Projects",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Begin planning final interdisciplinary projects that incorporate various techniques and concepts learned during the year."
+        }
+      ]
+    },
+    {
+      "week#": "28",
+      "title": "Final Project Development",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Developing Projects",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Develop and refine final interdisciplinary projects."
+        }
+      ]
+    },
+    {
+      "week#": "29",
+      "title": "Final Project Development",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Refining Projects",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Continue refining final interdisciplinary projects."
+        }
+      ]
+    },
+    {
+      "week#": "30",
+      "title": "Final Project Development",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Finalizing Projects",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Finalize interdisciplinary projects, preparing for presentation."
+        }
+      ]
+    },
+    {
+      "week#": "31",
+      "title": "Final Project Presentation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Presenting Projects",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Present final interdisciplinary projects to the class, explaining the integration of various concepts."
+        }
+      ]
+    },
+    {
+      "week#": "32",
+      "title": "Review and Reflection",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Reflecting on Visual Arts",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Review and reflect on key visual arts concepts learned throughout the year."
+        }
+      ]
+    },
+    {
+      "week#": "33",
+      "title": "Review and Reflection",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Integrating Art Concepts",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Integrate key concepts from various aspects of visual arts."
+        }
+      ]
+    },
+    {
+      "week#": "34",
+      "title": "Advanced Art Project Development",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Applying Advanced Techniques",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Develop advanced projects applying various techniques and concepts learned during the year."
+        }
+      ]
+    },
+    {
+      "week#": "35",
+      "title": "Advanced Project Presentation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Presenting Advanced Projects",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Present advanced projects to the class, explaining the integration of various advanced concepts."
+        }
+      ]
+    },
+    {
+      "week#": "36",
+      "title": "Celebrating Learning",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Year-End Celebration",
+          "sSID": "VA.3-2",
+          "sectionDescription": "Celebrate the accomplishments and projects completed during the year."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-3.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "OH.3.MATH.1",
+                  "objectiveTitle": "Operations and Algebraic Thinking",
+                  "objectiveDescription": "Represent and solve problems involving multiplication and division.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.a",
+                      "expectationDescription": "Interpret products of whole numbers, e.g., interpret 5 x 7 as the total number of objects in 5 groups of 7 objects each. (Note: These standards are written with the convention that a x b means a groups of b objects each; however, because of the commutative property, students may also interpret 5 x 7 as the total number of objects in 7 groups of 5 objects each)."
+                    },
+                    {
+                      "expectationID": "1.b",
+                      "expectationDescription": "Interpret whole number quotients of whole numbers, e.g., interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each. For example, describe a context in which a number of shares or a number of groups can be expressed as 56 ÷ 8."
+                    },
+                    {
+                      "expectationID": "1.c",
+                      "expectationDescription": "Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem. See Table 2, page 18. Drawings need not show details, but should show the mathematics in the problem. (This applies wherever drawings are mentioned in the Standards)."
+                    },
+                    {
+                      "expectationID": "1.d",
+                      "expectationDescription": "Determine the unknown whole number in a multiplication or division equation relating three whole numbers. For example, determine the unknown number that makes the equation true in each of the equations 8 × = 48; 5 = ÷ 3; 6 × 6 = ."
+                    },
+                    {
+                      "expectationID": "1.e",
+                      "expectationDescription": "Apply properties of operations as strategies to multiply and divide. For example, if 6 × 4 = 24 is known, then 4 × 6 = 24 is also known (Commutative Property of Multiplication); 3 × 5 × 2 can be found by 3 × 5 = 15, then 15 × 2 = 30, or by 5 × 2 = 10, then 3 × 10 = 30 (Associative Property of Multiplication); knowing that 8 × 5 = 40 and 8 × 2 = 16, one can find 8 × 7 as 8 × (5 + 2) = (8 × 5) + (8 × 2) = 40 + 16 = 56 (Distributive Property). Students need not use formal terms for these properties."
+                    },
+                    {
+                      "expectationID": "1.f",
+                      "expectationDescription": "Understand division as an unknown-factor problem. For example, find 32 ÷ 8 by finding the number that makes 32 when multiplied by 8."
+                    },
+                    {
+                      "expectationID": "1.g",
+                      "expectationDescription": "Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division, e.g., knowing that 8 × 5 = 40, one knows 40 ÷ 5 = 8, or properties of operations. Limit to division without remainders. By the end of Grade 3, know from memory all products of two one-digit numbers."
+                    },
+                    {
+                      "expectationID": "1.h",
+                      "expectationDescription": "Solve two-step word problems using the four operations. Represent these problems using equations with a letter or a symbol, which stands for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding. This standard is limited to problems posed with whole numbers and having whole number answers. Students may use parentheses for clarification since algebraic order of operations is not expected."
+                    },
+                    {
+                      "expectationID": "1.i",
+                      "expectationDescription": "Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations. For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.3.MATH.2",
+                  "objectiveTitle": "Number and Operations in Base Ten",
+                  "objectiveDescription": "Use place value understanding and properties of operations to perform multi-digit arithmetic. A range of strategies and algorithms may be used.",
+                  "expectations": [
+                    {
+                      "expectationID": "2.a",
+                      "expectationDescription": "Use place value understanding to round whole numbers to the nearest 10 or 100."
+                    },
+                    {
+                      "expectationID": "2.b",
+                      "expectationDescription": "Fluently add and subtract within 1,000 using strategies and algorithms based on place value, properties of operations, and/or the relationship between addition and subtraction."
+                    },
+                    {
+                      "expectationID": "2.c",
+                      "expectationDescription": "Multiply one-digit whole numbers by multiples of 10 in the range 10-90, e.g., 9 × 80, 5 × 60 using strategies based on place value and properties of operations."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.3.MATH.3",
+                  "objectiveTitle": "Number and Operations—Fractions",
+                  "objectiveDescription": "Develop understanding of fractions as numbers. Grade 3 expectations in this domain are limited to fractions with denominators 2, 3, 4, 6, and 8.",
+                  "expectations": [
+                    {
+                      "expectationID": "3.a",
+                      "expectationDescription": "Understand a fraction 1/b as the quantity formed by 1 part when a whole is partitioned into b equal parts; understand a fraction a/b as the quantity formed by a parts of size 1/b."
+                    },
+                    {
+                      "expectationID": "3.b",
+                      "expectationDescription": "Understand a fraction as a number on the number line; represent fractions on a number line diagram."
+                    },
+                    {
+                      "expectationID": "3.c",
+                      "expectationDescription": "Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.3.MATH.4",
+                  "objectiveTitle": "Measurement and Data",
+                  "objectiveDescription": "Solve problems involving money, measurement, and estimation of intervals of time, liquid volumes, and masses of objects.",
+                  "expectations": [
+                    {
+                      "expectationID": "4.a",
+                      "expectationDescription": "Work with time and money."
+                    },
+                    {
+                      "expectationID": "4.b",
+                      "expectationDescription": "Measure and estimate liquid volumes and masses of objects using standard units of grams, kilograms, and liters."
+                    },
+                    {
+                      "expectationID": "4.c",
+                      "expectationDescription": "Create scaled picture graphs to represent a data set with several categories. Create scaled bar graphs to represent a data set with several categories. Solve two-step “how many more” and “how many less” problems using information presented in the scaled graphs."
+                    },
+                    {
+                      "expectationID": "4.d",
+                      "expectationDescription": "Generate measurement data by measuring lengths using rulers marked with halves and fourths of an inch. Show the data by creating a line plot, where the horizontal scale is marked off in appropriate units—whole numbers, halves, or quarters."
+                    },
+                    {
+                      "expectationID": "4.e",
+                      "expectationDescription": "Recognize area as an attribute of plane figures and understand concepts of area measurement."
+                    },
+                    {
+                      "expectationID": "4.f",
+                      "expectationDescription": "Solve real-world and mathematical problems involving perimeters of polygons, including finding the perimeter given the side lengths, finding an unknown side length, and exhibiting rectangles with the same perimeter and different areas or with the same area and different perimeters."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "OH.3.MATH.5",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Reason with shapes and their attributes.",
+                  "expectations": [
+                    {
+                      "expectationID": "5.a",
+                      "expectationDescription": "Draw and describe triangles, quadrilaterals (rhombuses, rectangles, and squares), and polygons (up to 8 sides) based on the number of sides and the presence or absence of square corners (right angles)."
+                    },
+                    {
+                      "expectationID": "5.b",
+                      "expectationDescription": "Partition shapes into parts with equal areas. Express the area of each part as a unit fraction of the whole."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Multiplication",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Products",
+                      "sSID": "OH.3.MATH.1.a",
+                      "sectionDescription": "Interpret products of whole numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Introduction to Division",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Interpreting Quotients",
+                      "sSID": "OH.3.MATH.1.b",
+                      "sectionDescription": "Interpret whole number quotients of whole numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Solving Multiplication and Division Word Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Drawings and Equations",
+                      "sSID": "OH.3.MATH.1.c",
+                      "sectionDescription": "Use multiplication and division within 100 to solve word problems."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Finding Unknown Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Multiplication and Division Equations",
+                      "sSID": "OH.3.MATH.1.d",
+                      "sectionDescription": "Determine the unknown whole number in a multiplication or division equation."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Properties of Operations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Applying Properties",
+                      "sSID": "OH.3.MATH.1.e",
+                      "sectionDescription": "Apply properties of operations as strategies to multiply and divide."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Understanding Division",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unknown-Factor Problems",
+                      "sSID": "OH.3.MATH.1.f",
+                      "sectionDescription": "Understand division as an unknown-factor problem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Multiplication and Division Fluency",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fluency within 100",
+                      "sSID": "OH.3.MATH.1.g",
+                      "sectionDescription": "Fluently multiply and divide within 100."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Two-Step Word Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Two-Step Problems",
+                      "sSID": "OH.3.MATH.1.h",
+                      "sectionDescription": "Solve two-step word problems using the four operations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Arithmetic Patterns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Patterns",
+                      "sSID": "OH.3.MATH.1.i",
+                      "sectionDescription": "Identify arithmetic patterns and explain them using properties of operations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Rounding Whole Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Place Value",
+                      "sSID": "OH.3.MATH.2.a",
+                      "sectionDescription": "Use place value understanding to round whole numbers to the nearest 10 or 100."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Adding and Subtracting within 1,000",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Strategies and Algorithms",
+                      "sSID": "OH.3.MATH.2.b",
+                      "sectionDescription": "Fluently add and subtract within 1,000."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Multiplying by Multiples of 10",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Place Value and Properties",
+                      "sSID": "OH.3.MATH.2.c",
+                      "sectionDescription": "Multiply one-digit whole numbers by multiples of 10."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Understanding Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unit Fractions",
+                      "sSID": "OH.3.MATH.3.a",
+                      "sectionDescription": "Understand a fraction 1/b as the quantity formed by 1 part when a whole is partitioned into b equal parts."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Representing Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fractions on a Number Line",
+                      "sSID": "OH.3.MATH.3.b",
+                      "sectionDescription": "Understand a fraction as a number on the number line; represent fractions on a number line diagram."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Equivalence of Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Fractions",
+                      "sSID": "OH.3.MATH.3.c",
+                      "sectionDescription": "Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Working with Time and Money",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Time and Money",
+                      "sSID": "OH.3.MATH.4.a",
+                      "sectionDescription": "Work with time and money."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Measuring Liquid Volumes and Masses",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Standard Units",
+                      "sSID": "OH.3.MATH.4.b",
+                      "sectionDescription": "Measure and estimate liquid volumes and masses of objects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Creating Scaled Graphs",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Picture and Bar Graphs",
+                      "sSID": "OH.3.MATH.4.c",
+                      "sectionDescription": "Create scaled picture and bar graphs to represent a data set."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Generating Measurement Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Line Plots",
+                      "sSID": "OH.3.MATH.4.d",
+                      "sectionDescription": "Generate measurement data by measuring lengths using rulers marked with halves and fourths of an inch."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Understanding Area",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Concepts of Area",
+                      "sSID": "OH.3.MATH.4.e",
+                      "sectionDescription": "Recognize area as an attribute of plane figures and understand concepts of area measurement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Solving Perimeter Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Perimeter of Polygons",
+                      "sSID": "OH.3.MATH.4.f",
+                      "sectionDescription": "Solve real-world and mathematical problems involving perimeters of polygons."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Drawing and Describing Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Triangles and Polygons",
+                      "sSID": "OH.3.MATH.5.a",
+                      "sectionDescription": "Draw and describe triangles, quadrilaterals, and polygons."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Partitioning Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Equal Areas",
+                      "sSID": "OH.3.MATH.5.b",
+                      "sectionDescription": "Partition shapes into parts with equal areas."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Reviewing Multiplication and Division",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties and Strategies",
+                      "sSID": "OH.3.MATH.1.e, OH.3.MATH.1.g",
+                      "sectionDescription": "Review properties of operations as strategies to multiply and divide."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Advanced Multiplication and Division",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Two-Step Word Problems",
+                      "sSID": "OH.3.MATH.1.h",
+                      "sectionDescription": "Solve two-step word problems using the four operations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Rounding and Estimation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Place Value Strategies",
+                      "sSID": "OH.3.MATH.2.a, OH.3.MATH.2.b",
+                      "sectionDescription": "Review rounding and estimation using place value strategies."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Advanced Fractions",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Equivalence and Comparison",
+                      "sSID": "OH.3.MATH.3.c",
+                      "sectionDescription": "Review equivalence of fractions and compare fractions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Advanced Measurement and Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Graphs and Data",
+                      "sSID": "OH.3.MATH.4.c, OH.3.MATH.4.d",
+                      "sectionDescription": "Review creating graphs and analyzing data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Advanced Geometry",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Shapes and Attributes",
+                      "sSID": "OH.3.MATH.5.a, OH.3.MATH.5.b",
+                      "sectionDescription": "Review drawing and describing shapes, and partitioning shapes into equal areas."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Multiplication and Division Mastery",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fluency and Strategies",
+                      "sSID": "OH.3.MATH.1.e, OH.3.MATH.1.g",
+                      "sectionDescription": "Master multiplication and division fluency and strategies."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Fractions Mastery",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fractions on Number Lines",
+                      "sSID": "OH.3.MATH.3.b, OH.3.MATH.3.c",
+                      "sectionDescription": "Master representing fractions on number lines and comparing fractions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Measurement and Data Mastery",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Graphs and Measurement",
+                      "sSID": "OH.3.MATH.4.c, OH.3.MATH.4.d",
+                      "sectionDescription": "Master creating graphs and analyzing measurement data."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Geometry Mastery",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Shapes and Area",
+                      "sSID": "OH.3.MATH.5.a, OH.3.MATH.5.b",
+                      "sectionDescription": "Master drawing shapes and understanding area."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Review and Practice",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comprehensive Review",
+                      "sSID": "Review",
+                      "sectionDescription": "Review all topics covered in the curriculum."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Assessment Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Practice Tests",
+                      "sSID": "Assessment",
+                      "sectionDescription": "Prepare for end-of-year assessments with practice tests and review sessions."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Projects and Celebration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Presentations",
+                      "sSID": "Final",
+                      "sectionDescription": "Present final projects and celebrate the year's achievements."
+                    }
+                  ]
+                }
+              ]
+
+            }
+          ]
+}

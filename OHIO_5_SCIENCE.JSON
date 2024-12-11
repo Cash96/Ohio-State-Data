@@ -1,0 +1,533 @@
+{
+          "grade": "5",
+          "subject": [
+            {
+              "subjectID": "Science",
+              "subjectTitle": "Science ",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Science/Ohios-Learning-Standards-and-MC/SciFinalStandardsMC060719.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "5.ESS.1",
+                  "objectiveTitle": "The Solar System",
+                  "objectiveDescription": "The solar system includes the sun and all celestial bodies that orbit the sun. Each planet in the solar system has unique characteristics.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The distance from the sun, size, composition, and movement of each planet are unique. Planets revolve around the sun in elliptical orbits. Some of the planets have moons and/or debris that orbit them. Comets, asteroids, and meteoroids orbit the sun."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.ESS.2",
+                  "objectiveTitle": "The Sun as a Star",
+                  "objectiveDescription": "The sun is one of many stars that exist in the universe.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "The sun appears to be the largest star in the sky because it is the closest star to Earth. Some stars are larger than the sun and some stars are smaller than the sun."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.ESS.3",
+                  "objectiveTitle": "Earth and Sun Cycles",
+                  "objectiveDescription": "Most of the cycles and patterns of motion between the Earth and sun are predictable.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Earth’s revolution around the sun takes approximately 365 days. Earth completes one rotation on its axis in a 24-hour period, producing day and night. This rotation makes the sun, stars and moon appear to change position in the sky."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.PS.1",
+                  "objectiveTitle": "Movement and Force",
+                  "objectiveDescription": "The amount of change in movement of an object is based on the mass of the object and the amount of force exerted.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Movement can be measured by speed. The speed of an object is calculated by determining the distance traveled in a period of time."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Any change in speed or direction of an object requires a force and is affected by the mass of the object and the amount of force applied."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.PS.2",
+                  "objectiveTitle": "Light and Sound",
+                  "objectiveDescription": "Light and sound are forms of energy that behave in predictable ways.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Light travels and maintains its direction until it interacts with an object or moves from one medium to another and then it can be reflected, refracted or absorbed."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Sound is produced by vibrating objects and requires a medium through which to travel. The rate of vibration is related to the pitch of the sound."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.LS.1",
+                  "objectiveTitle": "Roles in Ecosystems",
+                  "objectiveDescription": "Organisms perform a variety of roles in an ecosystem.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "Populations of organisms can be categorized by how they acquire energy."
+                    },
+                    {
+                      "expectationID": "2",
+                      "expectationDescription": "Food webs can be used to identify the relationships among producers, consumers, and decomposers in an ecosystem."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "5.LS.2",
+                  "objectiveTitle": "Energy in Ecosystems",
+                  "objectiveDescription": "All of the processes that take place within organisms require energy.",
+                  "expectations": [
+                    {
+                      "expectationID": "1",
+                      "expectationDescription": "For ecosystems, the major source of energy is sunlight. Energy entering ecosystems as sunlight is transferred and transformed by producers into energy that organisms use through the process of photosynthesis. That energy is used or stored by the producer and can be passed from organism to organism as illustrated in food webs."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to the Solar System",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Overview of the Solar System",
+                      "sSID": "5.ESS.1.1",
+                      "sectionDescription": "Introduce students to the components of the solar system including the sun, planets, moons, comets, asteroids, and meteoroids."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Planets and Their Characteristics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Distance from the Sun and Size",
+                      "sSID": "5.ESS.1.1",
+                      "sectionDescription": "Discuss the distance of each planet from the sun and compare their sizes."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Composition and Movement of Planets",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Planetary Composition",
+                      "sSID": "5.ESS.1.1",
+                      "sectionDescription": "Explore the composition of different planets and their movements in elliptical orbits."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Moons, Comets, and Asteroids",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Orbiting Bodies",
+                      "sSID": "5.ESS.1.1",
+                      "sectionDescription": "Study the moons of various planets and the characteristics of comets, asteroids, and meteoroids."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "The Sun as a Star",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Sun's Characteristics",
+                      "sSID": "5.ESS.2.1",
+                      "sectionDescription": "Explain why the sun appears to be the largest star in the sky and compare its size to other stars."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Earth's Revolution and Rotation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Earth's Motion",
+                      "sSID": "5.ESS.3.1",
+                      "sectionDescription": "Describe Earth's revolution around the sun and its rotation on its axis, leading to day and night."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Cycles and Patterns",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Predictable Cycles",
+                      "sSID": "5.ESS.3.1",
+                      "sectionDescription": "Discuss the predictable cycles and patterns of motion between the Earth and the sun."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Introduction to Movement and Force",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Basic Concepts of Movement",
+                      "sSID": "5.PS.1.1",
+                      "sectionDescription": "Introduce the concept of movement and how it is measured by speed."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Speed and Distance",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Calculating Speed",
+                      "sSID": "5.PS.1.1",
+                      "sectionDescription": "Teach students how to calculate the speed of an object by determining the distance traveled over time."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Forces and Movement",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Effects of Force",
+                      "sSID": "5.PS.1.2",
+                      "sectionDescription": "Explain how any change in speed or direction of an object requires a force and is affected by the mass of the object."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Introduction to Light",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Light",
+                      "sSID": "5.PS.2.1",
+                      "sectionDescription": "Discuss how light travels and maintains its direction until it interacts with an object or changes medium."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Reflection, Refraction, and Absorption",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Light Interactions",
+                      "sSID": "5.PS.2.1",
+                      "sectionDescription": "Explore how light can be reflected, refracted, or absorbed when it interacts with different materials."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Introduction to Sound",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Sound",
+                      "sSID": "5.PS.2.2",
+                      "sectionDescription": "Discuss how sound is produced by vibrating objects and requires a medium to travel through."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Sound and Vibration",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Pitch and Vibration",
+                      "sSID": "5.PS.2.2",
+                      "sectionDescription": "Explain the relationship between the rate of vibration and the pitch of the sound."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Introduction to Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Roles in Ecosystems",
+                      "sSID": "5.LS.1.1",
+                      "sectionDescription": "Introduce the concept of ecosystems and the various roles organisms play within them."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Energy Acquisition in Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Sources",
+                      "sSID": "5.LS.1.1",
+                      "sectionDescription": "Categorize populations of organisms by how they acquire energy."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Food Webs",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Producers, Consumers, and Decomposers",
+                      "sSID": "5.LS.1.2",
+                      "sectionDescription": "Use food webs to identify the relationships among producers, consumers, and decomposers in an ecosystem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Energy Flow in Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Transfer",
+                      "sSID": "5.LS.2.1",
+                      "sectionDescription": "Explain how energy enters ecosystems as sunlight and is transferred and transformed by producers through photosynthesis."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Photosynthesis",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Process of Photosynthesis",
+                      "sSID": "5.LS.2.1",
+                      "sectionDescription": "Discuss the process of photosynthesis and how energy is used or stored by producers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Ecosystem Dynamics",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy Transfer in Food Webs",
+                      "sSID": "5.LS.2.1",
+                      "sectionDescription": "Illustrate how energy is passed from organism to organism in an ecosystem through food webs."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Review: The Solar System",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review of Planets and Orbits",
+                      "sSID": "5.ESS.1.1",
+                      "sectionDescription": "Review the characteristics and movements of planets, moons, comets, asteroids, and meteoroids."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Review: The Sun and Stars",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparison of Stars",
+                      "sSID": "5.ESS.2.1",
+                      "sectionDescription": "Review the concepts related to the sun and its comparison with other stars."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Review: Earth's Cycles",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Day and Night",
+                      "sSID": "5.ESS.3.1",
+                      "sectionDescription": "Review Earth's revolution and rotation, and how they create day and night cycles."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Review: Movement and Force",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Speed and Force",
+                      "sSID": "5.PS.1.1, 5.PS.1.2",
+                      "sectionDescription": "Review the concepts of speed, distance, force, and their effects on movement."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Review: Light and Sound",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Properties of Light and Sound",
+                      "sSID": "5.PS.2.1, 5.PS.2.2",
+                      "sectionDescription": "Review the behavior of light and sound, including reflection, refraction, absorption, and vibration."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Review: Ecosystems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Energy and Roles in Ecosystems",
+                      "sSID": "5.LS.1.1, 5.LS.1.2, 5.LS.2.1",
+                      "sectionDescription": "Review the roles of organisms in ecosystems, energy acquisition, and the process of photosynthesis."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Project Week: Solar System Models",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Models",
+                      "sSID": "5.ESS.1",
+                      "sectionDescription": "Students create models of the solar system to demonstrate their understanding of planetary orbits and characteristics."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Project Week: Light and Sound Experiments",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Conducting Experiments",
+                      "sSID": "5.PS.2",
+                      "sectionDescription": "Students conduct experiments to explore the properties of light and sound."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Project Week: Ecosystem Dioramas",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Building Dioramas",
+                      "sSID": "5.LS.1, 5.LS.2",
+                      "sectionDescription": "Students build dioramas to illustrate different ecosystems and the relationships within them."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Final Project: Science Fair Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Project Planning",
+                      "sSID": "5.PS, 5.ESS, 5.LS",
+                      "sectionDescription": "Students plan and outline their final science fair projects, incorporating various concepts learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Final Project: Research and Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Conducting Research",
+                      "sSID": "5.PS, 5.ESS, 5.LS",
+                      "sectionDescription": "Students conduct research and begin developing their science fair projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Final Project: Experimentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Running Experiments",
+                      "sSID": "5.PS, 5.ESS, 5.LS",
+                      "sectionDescription": "Students run experiments and collect data for their science fair projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Final Project: Data Analysis",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Analyzing Data",
+                      "sSID": "5.PS, 5.ESS, 5.LS",
+                      "sectionDescription": "Students analyze the data collected from their experiments and prepare their findings."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project: Presentation Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Presentations",
+                      "sSID": "5.PS, 5.ESS, 5.LS",
+                      "sectionDescription": "Students create presentation boards and practice presenting their science fair projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Science Fair",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Projects",
+                      "sSID": "5.PS, 5.ESS, 5.LS",
+                      "sectionDescription": "Students present their final projects at the science fair."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Course Review and Reflection",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reflecting on the Year",
+                      "sSID": "5.PS, 5.ESS, 5.LS",
+                      "sectionDescription": "Review key concepts learned throughout the year and reflect on personal growth and understanding."
+                    }
+                  ]
+                }
+              ]
+            }

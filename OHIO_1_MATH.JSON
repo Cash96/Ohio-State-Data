@@ -1,0 +1,555 @@
+{
+              "subjectID": "Math",
+              "subjectTitle": "MATHEMATICS",
+              "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Mathematics/Ohio-s-Learning-Standards-in-Mathematics/MATH-Standards-Grade-1.pdf.aspx?lang=en-US",
+              "objectives": [
+                {
+                  "objectiveID": "1.OA",
+                  "objectiveTitle": "Operations and Algebraic Thinking",
+                  "objectiveDescription": "Represent and solve problems involving addition and subtraction.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.OA.1",
+                      "expectationDescription": "Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart and comparing, with unknowns in all positions, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem."
+                    },
+                    {
+                      "expectationID": "1.OA.2",
+                      "expectationDescription": "Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20, e.g., by using objects, drawings, and equations with a symbol for the unknown number to represent the problem."
+                    },
+                    {
+                      "expectationID": "1.OA.3",
+                      "expectationDescription": "Apply properties of operations as strategies to add and subtract, e.g., using Commutative and Associative Properties of Addition."
+                    },
+                    {
+                      "expectationID": "1.OA.4",
+                      "expectationDescription": "Understand subtraction as an unknown-addend problem."
+                    },
+                    {
+                      "expectationID": "1.OA.5",
+                      "expectationDescription": "Relate counting to addition and subtraction, e.g., by counting on to add 2."
+                    },
+                    {
+                      "expectationID": "1.OA.6",
+                      "expectationDescription": "Add and subtract within 20, demonstrating fluency with various strategies for addition and subtraction within 10."
+                    },
+                    {
+                      "expectationID": "1.OA.7",
+                      "expectationDescription": "Understand the meaning of the equal sign, and determine if equations involving addition and subtraction are true or false."
+                    },
+                    {
+                      "expectationID": "1.OA.8",
+                      "expectationDescription": "Determine the unknown whole number in an addition or subtraction equation relating three whole numbers."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.NBT",
+                  "objectiveTitle": "Number and Operations in Base Ten",
+                  "objectiveDescription": "Extend the counting sequence and understand place value.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.NBT.1",
+                      "expectationDescription": "Count to 120, starting at any number less than 120."
+                    },
+                    {
+                      "expectationID": "1.NBT.2",
+                      "expectationDescription": "Understand that the two digits of a two-digit number represent amounts of tens and ones."
+                    },
+                    {
+                      "expectationID": "1.NBT.3",
+                      "expectationDescription": "Compare two two-digit numbers based on meanings of the tens and ones digits."
+                    },
+                    {
+                      "expectationID": "1.NBT.4",
+                      "expectationDescription": "Add within 100, including adding a two-digit number and a multiple of 10, using strategies based on place value."
+                    },
+                    {
+                      "expectationID": "1.NBT.5",
+                      "expectationDescription": "Mentally find 10 more or 10 less than a two-digit number, without having to count."
+                    },
+                    {
+                      "expectationID": "1.NBT.6",
+                      "expectationDescription": "Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.MD",
+                  "objectiveTitle": "Measurement and Data",
+                  "objectiveDescription": "Measure lengths and work with time and money.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.MD.1",
+                      "expectationDescription": "Order three objects by length; compare the lengths of two objects indirectly by using a third object."
+                    },
+                    {
+                      "expectationID": "1.MD.2",
+                      "expectationDescription": "Express the length of an object as a whole number of length units by laying multiple copies of a shorter object end to end."
+                    },
+                    {
+                      "expectationID": "1.MD.3",
+                      "expectationDescription": "Tell and write time in hours and half-hours using analog and digital clocks; identify pennies and dimes by name and value."
+                    },
+                    {
+                      "expectationID": "1.MD.4",
+                      "expectationDescription": "Organize, represent, and interpret data with up to three categories."
+                    }
+                  ]
+                },
+                {
+                  "objectiveID": "1.G",
+                  "objectiveTitle": "Geometry",
+                  "objectiveDescription": "Reason with shapes and their attributes.",
+                  "expectations": [
+                    {
+                      "expectationID": "1.G.1",
+                      "expectationDescription": "Distinguish between defining attributes of shapes, such as being closed and three-sided."
+                    },
+                    {
+                      "expectationID": "1.G.2",
+                      "expectationDescription": "Compose two-dimensional and three-dimensional shapes to create a composite shape."
+                    },
+                    {
+                      "expectationID": "1.G.3",
+                      "expectationDescription": "Partition circles and rectangles into two and four equal shares, describing the shares using terms like halves and quarters."
+                    }
+                  ]
+                }
+              ],
+              "outline": [
+                {
+                  "week#": "1",
+                  "title": "Introduction to Addition and Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Word Problems",
+                      "sSID": "1.OA.1",
+                      "sectionDescription": "Use addition and subtraction within 20 to solve word problems involving situations of adding to, taking from, putting together, taking apart and comparing."
+                    }
+                  ]
+                },
+                {
+                  "week#": "2",
+                  "title": "Adding Three Whole Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Addition Problems",
+                      "sSID": "1.OA.2",
+                      "sectionDescription": "Solve word problems that call for addition of three whole numbers whose sum is less than or equal to 20."
+                    }
+                  ]
+                },
+                {
+                  "week#": "3",
+                  "title": "Properties of Operations",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Commutative and Associative Properties",
+                      "sSID": "1.OA.3",
+                      "sectionDescription": "Apply properties of operations as strategies to add and subtract, using Commutative and Associative Properties of Addition."
+                    }
+                  ]
+                },
+                {
+                  "week#": "4",
+                  "title": "Understanding Subtraction",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Unknown-Addend Problems",
+                      "sSID": "1.OA.4",
+                      "sectionDescription": "Understand subtraction as an unknown-addend problem."
+                    }
+                  ]
+                },
+                {
+                  "week#": "5",
+                  "title": "Counting and Addition",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Counting to Add",
+                      "sSID": "1.OA.5",
+                      "sectionDescription": "Relate counting to addition and subtraction, e.g., by counting on to add 2."
+                    }
+                  ]
+                },
+                {
+                  "week#": "6",
+                  "title": "Addition and Subtraction Strategies",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Fluency within 10",
+                      "sSID": "1.OA.6",
+                      "sectionDescription": "Add and subtract within 20, demonstrating fluency with various strategies for addition and subtraction within 10."
+                    }
+                  ]
+                },
+                {
+                  "week#": "7",
+                  "title": "Understanding the Equal Sign",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "True and False Equations",
+                      "sSID": "1.OA.7",
+                      "sectionDescription": "Understand the meaning of the equal sign, and determine if equations involving addition and subtraction are true or false."
+                    }
+                  ]
+                },
+                {
+                  "week#": "8",
+                  "title": "Determining the Unknown Number",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Solving Equations",
+                      "sSID": "1.OA.8",
+                      "sectionDescription": "Determine the unknown whole number in an addition or subtraction equation relating three whole numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "9",
+                  "title": "Counting to 120",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Extending the Counting Sequence",
+                      "sSID": "1.NBT.1",
+                      "sectionDescription": "Count to 120, starting at any number less than 120."
+                    }
+                  ]
+                },
+                {
+                  "week#": "10",
+                  "title": "Understanding Place Value",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Tens and Ones",
+                      "sSID": "1.NBT.2",
+                      "sectionDescription": "Understand that the two digits of a two-digit number represent amounts of tens and ones."
+                    }
+                  ]
+                },
+                {
+                  "week#": "11",
+                  "title": "Comparing Two-Digit Numbers",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Tens and Ones Comparison",
+                      "sSID": "1.NBT.3",
+                      "sectionDescription": "Compare two two-digit numbers based on meanings of the tens and ones digits."
+                    }
+                  ]
+                },
+                {
+                  "week#": "12",
+                  "title": "Adding within 100",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Addition Strategies",
+                      "sSID": "1.NBT.4",
+                      "sectionDescription": "Add within 100, including adding a two-digit number and a multiple of 10, using strategies based on place value."
+                    }
+                  ]
+                },
+                {
+                  "week#": "13",
+                  "title": "Finding 10 More or 10 Less",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Mental Math",
+                      "sSID": "1.NBT.5",
+                      "sectionDescription": "Mentally find 10 more or 10 less than a two-digit number, without having to count."
+                    }
+                  ]
+                },
+                {
+                  "week#": "14",
+                  "title": "Subtracting Multiples of 10",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Subtraction Strategies",
+                      "sSID": "1.NBT.6",
+                      "sectionDescription": "Subtract multiples of 10 in the range 10-90 from multiples of 10 in the range 10-90."
+                    }
+                  ]
+                },
+                {
+                  "week#": "15",
+                  "title": "Measuring Lengths",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Comparing Lengths",
+                      "sSID": "1.MD.1",
+                      "sectionDescription": "Order three objects by length; compare the lengths of two objects indirectly by using a third object."
+                    }
+                  ]
+                },
+                {
+                  "week#": "16",
+                  "title": "Expressing Length",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Measuring Length Units",
+                      "sSID": "1.MD.2",
+                      "sectionDescription": "Express the length of an object as a whole number of length units by laying multiple copies of a shorter object end to end."
+                    }
+                  ]
+                },
+                {
+                  "week#": "17",
+                  "title": "Telling Time",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reading Clocks",
+                      "sSID": "1.MD.3",
+                      "sectionDescription": "Tell and write time in hours and half-hours using analog and digital clocks."
+                    }
+                  ]
+                },
+                {
+                  "week#": "18",
+                  "title": "Understanding Money",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Pennies and Dimes",
+                      "sSID": "1.MD.3",
+                      "sectionDescription": "Identify pennies and dimes by name and value."
+                    }
+                  ]
+                },
+                {
+                  "week#": "19",
+                  "title": "Organizing Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Data Representation",
+                      "sSID": "1.MD.4",
+                      "sectionDescription": "Organize, represent, and interpret data with up to three categories."
+                    }
+                  ]
+                },
+                {
+                  "week#": "20",
+                  "title": "Defining Attributes of Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying Shapes",
+                      "sSID": "1.G.1",
+                      "sectionDescription": "Distinguish between defining attributes of shapes, such as being closed and three-sided."
+                    }
+                  ]
+                },
+                {
+                  "week#": "21",
+                  "title": "Creating Composite Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Composing Shapes",
+                      "sSID": "1.G.2",
+                      "sectionDescription": "Compose two-dimensional and three-dimensional shapes to create a composite shape."
+                    }
+                  ]
+                },
+                {
+                  "week#": "22",
+                  "title": "Partitioning Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Halves and Quarters",
+                      "sSID": "1.G.3",
+                      "sectionDescription": "Partition circles and rectangles into two and four equal shares, describing the shares using terms like halves and quarters."
+                    }
+                  ]
+                },
+                {
+                  "week#": "23",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Operations and Algebraic Thinking",
+                      "sSID": "1.OA",
+                      "sectionDescription": "Review key concepts and skills related to Operations and Algebraic Thinking learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "24",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Number and Operations in Base Ten",
+                      "sSID": "1.NBT",
+                      "sectionDescription": "Review key concepts and skills related to Number and Operations in Base Ten learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "25",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Measurement and Data",
+                      "sSID": "1.MD",
+                      "sectionDescription": "Review key concepts and skills related to Measurement and Data learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "26",
+                  "title": "Review and Application",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Review Geometry",
+                      "sSID": "1.G",
+                      "sectionDescription": "Review key concepts and skills related to Geometry learned throughout the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "27",
+                  "title": "Project: Solving Word Problems",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Using Addition and Subtraction",
+                      "sSID": "1.OA.1, 1.OA.2",
+                      "sectionDescription": "Solve word problems involving addition and subtraction using objects, drawings, and equations."
+                    }
+                  ]
+                },
+                {
+                  "week#": "28",
+                  "title": "Project: Exploring Place Value",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Understanding Tens and Ones",
+                      "sSID": "1.NBT.2, 1.NBT.3",
+                      "sectionDescription": "Create projects to demonstrate understanding of place value and comparing two-digit numbers."
+                    }
+                  ]
+                },
+                {
+                  "week#": "29",
+                  "title": "Project: Measurement and Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Measuring and Comparing Lengths",
+                      "sSID": "1.MD.1, 1.MD.2",
+                      "sectionDescription": "Conduct projects involving measuring and comparing lengths, and expressing lengths in units."
+                    }
+                  ]
+                },
+                {
+                  "week#": "30",
+                  "title": "Project: Telling Time and Money",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Reading Clocks and Identifying Coins",
+                      "sSID": "1.MD.3",
+                      "sectionDescription": "Projects focused on telling time using analog and digital clocks, and identifying and using coins."
+                    }
+                  ]
+                },
+                {
+                  "week#": "31",
+                  "title": "Project: Organizing Data",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Representing Data",
+                      "sSID": "1.MD.4",
+                      "sectionDescription": "Create projects to organize, represent, and interpret data with up to three categories."
+                    }
+                  ]
+                },
+                {
+                  "week#": "32",
+                  "title": "Project: Understanding Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Identifying and Composing Shapes",
+                      "sSID": "1.G.1, 1.G.2",
+                      "sectionDescription": "Projects involving identifying defining attributes of shapes and composing new shapes from existing ones."
+                    }
+                  ]
+                },
+                {
+                  "week#": "33",
+                  "title": "Project: Partitioning Shapes",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Creating Equal Shares",
+                      "sSID": "1.G.3",
+                      "sectionDescription": "Projects focused on partitioning circles and rectangles into equal shares and describing the shares."
+                    }
+                  ]
+                },
+                {
+                  "week#": "34",
+                  "title": "Final Project Preparation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Planning Final Projects",
+                      "sSID": "1.OA, 1.NBT, 1.MD, 1.G",
+                      "sectionDescription": "Begin planning final interdisciplinary projects that incorporate various techniques and concepts learned during the year."
+                    }
+                  ]
+                },
+                {
+                  "week#": "35",
+                  "title": "Final Project Development",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Developing Final Projects",
+                      "sSID": "1.OA, 1.NBT, 1.MD, 1.G",
+                      "sectionDescription": "Develop and refine final interdisciplinary projects."
+                    }
+                  ]
+                },
+                {
+                  "week#": "36",
+                  "title": "Final Project Presentation",
+                  "sections": [
+                    {
+                      "sectionNumber": "1",
+                      "sectionTitle": "Presenting Final Projects",
+                      "sSID": "1.OA, 1.NBT, 1.MD, 1.G",
+                      "sectionDescription": "Present final interdisciplinary projects to the class, explaining the integration of various concepts and reflecting on the year's learning."
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+}

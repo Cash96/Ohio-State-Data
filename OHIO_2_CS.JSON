@@ -1,0 +1,603 @@
+{
+  "subjectID": "Computer Science",
+  "subjectTitle": "Computer Science",
+  "URL": "https://education.ohio.gov/getattachment/Topics/Learning-in-Ohio/Computer-Science/Ohio-s-Learning-Standards-in-Computer-Science/2022-Grade-2-CS-Standards.pdf.aspx?lang=en-US",
+  "objectives": [
+    {
+      "objectiveID": "CS",
+      "objectiveTitle": "Computing Systems",
+      "objectiveDescription": "Learn about various computing devices, their hardware and software components, and troubleshooting techniques.",
+      "expectations": [
+        {
+          "expectationID": "CS.D.2.a",
+          "expectationDescription": "Select and operate commonly used devices to perform a variety of tasks."
+        },
+        {
+          "expectationID": "CS.HS.2.a",
+          "expectationDescription": "Select and use hardware and software necessary for accomplishing a task."
+        },
+        {
+          "expectationID": "CS.T.2.a",
+          "expectationDescription": "Use problem-solving strategies to troubleshoot a problem."
+        }
+      ]
+    },
+    {
+      "objectiveID": "NI",
+      "objectiveTitle": "Networks and the Internet",
+      "objectiveDescription": "Explore networking, cybersecurity, and the Internet of Things (IoT) to understand digital communication and data exchange.",
+      "expectations": [
+        {
+          "expectationID": "NI.N.2.a",
+          "expectationDescription": "Describe how information can be communicated electronically to gain a deeper understanding of how information is transmitted (e.g., email, social media)."
+        },
+        {
+          "expectationID": "NI.N.2.b",
+          "expectationDescription": "Use computing devices that are connected to share and receive information from the global community."
+        },
+        {
+          "expectationID": "NI.C.2.a",
+          "expectationDescription": "Explain and demonstrate secure practices (e.g., creating strong passwords) to protect private information."
+        },
+        {
+          "expectationID": "NI.C.2.b",
+          "expectationDescription": "Identify and discuss examples of how devices can be used with good and bad intentions."
+        },
+        {
+          "expectationID": "NI.IOT.2.a",
+          "expectationDescription": "With guidance and support, explain how devices connect and exchange data over different environments to explore how information is shared."
+        }
+      ]
+    },
+    {
+      "objectiveID": "DA",
+      "objectiveTitle": "Data and Analysis",
+      "objectiveDescription": "Focus on data collection, storage, visualization, communication, and analysis to understand and manipulate data.",
+      "expectations": [
+        {
+          "expectationID": "DA.DCS.2.a",
+          "expectationDescription": "Collect and organize data to store, retrieve and modify."
+        },
+        {
+          "expectationID": "DA.DCS.2.b",
+          "expectationDescription": "Manipulate data to perform various tasks."
+        },
+        {
+          "expectationID": "DA.VC.2.a",
+          "expectationDescription": "Organize, analyze and present data in various formats."
+        },
+        {
+          "expectationID": "DA.IM.2.a",
+          "expectationDescription": "Interpret and analyze data, graphs, models or charts."
+        }
+      ]
+    },
+    {
+      "objectiveID": "ATP",
+      "objectiveTitle": "Algorithmic Thinking and Programming",
+      "objectiveDescription": "Learn about algorithms, program development, and other computational concepts to solve problems and express ideas.",
+      "expectations": [
+        {
+          "expectationID": "ATP.A.2.a",
+          "expectationDescription": "Model a real-world process by constructing and following step-by-step instructions (i.e., algorithms) to complete tasks."
+        },
+        {
+          "expectationID": "ATP.VDR.2.a",
+          "expectationDescription": "Construct a model that shows the way programs store and manipulate data by using numbers or other symbols to represent information."
+        },
+        {
+          "expectationID": "ATP.CS.2.a",
+          "expectationDescription": "Develop a program that uses sequencing and repetition (i.e., loops) to solve a problem or express ideas."
+        },
+        {
+          "expectationID": "ATP.M.2.a",
+          "expectationDescription": "Break down (i.e., decompose) a series of steps and separate the necessary from the unnecessary steps to create a precise sequence of instructions to solve a problem or express an idea."
+        },
+        {
+          "expectationID": "ATP.PD.2.a",
+          "expectationDescription": "Plan and create an artifact to illustrate thoughts, ideas and problems in a sequential (step-by-step) manner (e.g., story map, storyboard, sequential graphic organizer)."
+        },
+        {
+          "expectationID": "ATP.PD.2.b",
+          "expectationDescription": "Identify and fix (i.e., debug) a multi-step process that includes sequencing."
+        }
+      ]
+    },
+    {
+      "objectiveID": "AI",
+      "objectiveTitle": "Artificial Intelligence",
+      "objectiveDescription": "Explore basic concepts of AI, including perception, machine learning, and societal impacts, to understand how AI influences various fields.",
+      "expectations": [
+        {
+          "expectationID": "AI.P.2.a",
+          "expectationDescription": "Tell where sensors are on computers, robots and intelligent appliances to relate their location with their function such as motion, pressure/touch, temperature, proximity, light, sound, moisture or gases."
+        },
+        {
+          "expectationID": "AI.P.2.b",
+          "expectationDescription": "Apply the use of intelligent agents to assist in basic research (look up answers to specific questions)."
+        },
+        {
+          "expectationID": "AI.RR.2.a",
+          "expectationDescription": "With guidance and support, create a simple decision tree (conditionals) to create a pathway for decisions."
+        },
+        {
+          "expectationID": "AI.ML.2.a",
+          "expectationDescription": "Use a classifier that recognizes drawings and discuss how the program knows what they are drawing."
+        },
+        {
+          "expectationID": "AI.NI.2.a",
+          "expectationDescription": "List possible attributions computers can use to distinguish humans from each other by comparing these attributions."
+        },
+        {
+          "expectationID": "AI.SI.2.a",
+          "expectationDescription": "To determine how AI can help in daily life, group applications used into two categories: 'AI' and 'Not AI.'"
+        },
+        {
+          "expectationID": "AI.SI.2.b",
+          "expectationDescription": "Discuss AI and how it can be used for good or bad to discuss the ethical use of AI."
+        }
+      ]
+    },
+    {
+      "objectiveID": "IC",
+      "objectiveTitle": "Impacts of Computing",
+      "objectiveDescription": "Study the effects of computing on culture, social interactions, and ethical issues to foster informed and responsible use of technology.",
+      "expectations": [
+        {
+          "expectationID": "IC.Cu.2.a",
+          "expectationDescription": "Compare and contrast how the use of technology has changed to understand its impact on everyday life."
+        },
+        {
+          "expectationID": "IC.Cu.2.b",
+          "expectationDescription": "Describe the ways people use technologies in their daily work and personal lives to understand technology's impact on one's community."
+        },
+        {
+          "expectationID": "IC.SI.2.a",
+          "expectationDescription": "Compare and contrast safe and responsible behaviors to those that are not when using information and technology."
+        },
+        {
+          "expectationID": "IC.SLE.2.a",
+          "expectationDescription": "Discuss appropriate and ethical uses of technology to guide informed decisions."
+        },
+        {
+          "expectationID": "IC.SLE.2.b",
+          "expectationDescription": "Compare and contrast appropriate and inappropriate behavior online, including cyberbullying, and the steps to keep yourself and others safe and out of harm's way."
+        }
+      ]
+    }
+  ],
+  "outline": [
+    {
+      "week#": "1",
+      "title": "Introduction to Computing Devices",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Selecting and Operating Devices",
+          "sSID": "CS.D.2.a",
+          "sectionDescription": "Select and operate commonly used devices to perform a variety of tasks."
+        }
+      ]
+    },
+    {
+      "week#": "2",
+      "title": "Hardware and Software",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Hardware and Software",
+          "sSID": "CS.HS.2.a",
+          "sectionDescription": "Select and use hardware and software necessary for accomplishing a task."
+        }
+      ]
+    },
+    {
+      "week#": "3",
+      "title": "Troubleshooting Techniques",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Problem-Solving Strategies",
+          "sSID": "CS.T.2.a",
+          "sectionDescription": "Use problem-solving strategies to troubleshoot a problem."
+        }
+      ]
+    },
+    {
+      "week#": "4",
+      "title": "Digital Communication",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Electronic Communication",
+          "sSID": "NI.N.2.a",
+          "sectionDescription": "Describe how information can be communicated electronically to gain a deeper understanding of how information is transmitted."
+        }
+      ]
+    },
+    {
+      "week#": "5",
+      "title": "Global Information Sharing",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Connected Devices",
+          "sSID": "NI.N.2.b",
+          "sectionDescription": "Use computing devices that are connected to share and receive information from the global community."
+        }
+      ]
+    },
+    {
+      "week#": "6",
+      "title": "Cybersecurity Practices",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Strong Passwords",
+          "sSID": "NI.C.2.a",
+          "sectionDescription": "Explain and demonstrate secure practices (e.g., creating strong passwords) to protect private information."
+        }
+      ]
+    },
+    {
+      "week#": "7",
+      "title": "Good and Bad Uses of Devices",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Ethical Use of Technology",
+          "sSID": "NI.C.2.b",
+          "sectionDescription": "Identify and discuss examples of how devices can be used with good and bad intentions."
+        }
+      ]
+    },
+    {
+      "week#": "8",
+      "title": "Internet of Things",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Connecting Devices",
+          "sSID": "NI.IOT.2.a",
+          "sectionDescription": "Explain how devices connect and exchange data over different environments to explore how information is shared."
+        }
+      ]
+    },
+    {
+      "week#": "9",
+      "title": "Collecting and Organizing Data",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Data Collection",
+          "sSID": "DA.DCS.2.a",
+          "sectionDescription": "Collect and organize data to store, retrieve and modify."
+        }
+      ]
+    },
+    {
+      "week#": "10",
+      "title": "Manipulating Data",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Data Manipulation Techniques",
+          "sSID": "DA.DCS.2.b",
+          "sectionDescription": "Manipulate data to perform various tasks."
+        }
+      ]
+    },
+    {
+      "week#": "11",
+      "title": "Visualizing Data",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Presenting Data",
+          "sSID": "DA.VC.2.a",
+          "sectionDescription": "Organize, analyze and present data in various formats."
+        }
+      ]
+    },
+    {
+      "week#": "12",
+      "title": "Interpreting Data",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Data Analysis",
+          "sSID": "DA.IM.2.a",
+          "sectionDescription": "Interpret and analyze data, graphs, models or charts."
+        }
+      ]
+    },
+    {
+      "week#": "13",
+      "title": "Algorithmic Thinking",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Constructing Algorithms",
+          "sSID": "ATP.A.2.a",
+          "sectionDescription": "Model a real-world process by constructing and following step-by-step instructions (i.e., algorithms) to complete tasks."
+        }
+      ]
+    },
+    {
+      "week#": "14",
+      "title": "Data Representation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Storing and Manipulating Data",
+          "sSID": "ATP.VDR.2.a",
+          "sectionDescription": "Construct a model that shows the way programs store and manipulate data by using numbers or other symbols to represent information."
+        }
+      ]
+    },
+    {
+      "week#": "15",
+      "title": "Programming Concepts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Sequencing and Loops",
+          "sSID": "ATP.CS.2.a",
+          "sectionDescription": "Develop a program that uses sequencing and repetition (i.e., loops) to solve a problem or express ideas."
+        }
+      ]
+    },
+    {
+      "week#": "16",
+      "title": "Decomposing Problems",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Step-by-Step Instructions",
+          "sSID": "ATP.M.2.a",
+          "sectionDescription": "Break down (i.e., decompose) a series of steps and separate the necessary from the unnecessary steps to create a precise sequence of instructions to solve a problem or express an idea."
+        }
+      ]
+    },
+    {
+      "week#": "17",
+      "title": "Planning and Creating Artifacts",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Sequential Planning",
+          "sSID": "ATP.PD.2.a",
+          "sectionDescription": "Plan and create an artifact to illustrate thoughts, ideas and problems in a sequential (step-by-step) manner."
+        }
+      ]
+    },
+    {
+      "week#": "18",
+      "title": "Debugging Processes",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Fixing Errors",
+          "sSID": "ATP.PD.2.b",
+          "sectionDescription": "Identify and fix (i.e., debug) a multi-step process that includes sequencing."
+        }
+      ]
+    },
+    {
+      "week#": "19",
+      "title": "Understanding Sensors",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Exploring Sensors",
+          "sSID": "AI.P.2.a",
+          "sectionDescription": "Tell where sensors are on computers, robots and intelligent appliances to relate their location with their function such as motion, pressure/touch, temperature, proximity, light, sound, moisture or gases."
+        }
+      ]
+    },
+    {
+      "week#": "20",
+      "title": "Using Intelligent Agents",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Basic Research with AI",
+          "sSID": "AI.P.2.b",
+          "sectionDescription": "Apply the use of intelligent agents to assist in basic research (look up answers to specific questions)."
+        }
+      ]
+    },
+    {
+      "week#": "21",
+      "title": "Decision Trees",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Creating Pathways",
+          "sSID": "AI.RR.2.a",
+          "sectionDescription": "Create a simple decision tree (conditionals) to create a pathway for decisions."
+        }
+      ]
+    },
+    {
+      "week#": "22",
+      "title": "Classifiers in AI",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Recognizing Drawings",
+          "sSID": "AI.ML.2.a",
+          "sectionDescription": "Use a classifier that recognizes drawings and discuss how the program knows what they are drawing."
+        }
+      ]
+    },
+    {
+      "week#": "23",
+      "title": "Attributes for Identification",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Distinguishing Humans",
+          "sSID": "AI.NI.2.a",
+          "sectionDescription": "List possible attributions computers can use to distinguish humans from each other by comparing these attributions."
+        }
+      ]
+    },
+    {
+      "week#": "24",
+      "title": "AI in Daily Life",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Categorizing Applications",
+          "sSID": "AI.SI.2.a",
+          "sectionDescription": "Group applications used into two categories: 'AI' and 'Not AI' to determine how AI can help in daily life."
+        }
+      ]
+    },
+    {
+      "week#": "25",
+      "title": "Ethical Use of AI",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Good and Bad Uses",
+          "sSID": "AI.SI.2.b",
+          "sectionDescription": "Discuss AI and how it can be used for good or bad to discuss the ethical use of AI."
+        }
+      ]
+    },
+    {
+      "week#": "26",
+      "title": "Impact of Technology",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Changes in Everyday Life",
+          "sSID": "IC.Cu.2.a",
+          "sectionDescription": "Compare and contrast how the use of technology has changed to understand its impact on everyday life."
+        }
+      ]
+    },
+    {
+      "week#": "27",
+      "title": "Technology in Work and Life",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Daily Use of Technology",
+          "sSID": "IC.Cu.2.b",
+          "sectionDescription": "Describe the ways people use technologies in their daily work and personal lives to understand technology's impact on one's community."
+        }
+      ]
+    },
+    {
+      "week#": "28",
+      "title": "Safe and Responsible Behaviors",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Using Technology Responsibly",
+          "sSID": "IC.SI.2.a",
+          "sectionDescription": "Compare and contrast safe and responsible behaviors to those that are not when using information and technology."
+        }
+      ]
+    },
+    {
+      "week#": "29",
+      "title": "Ethical Use of Technology",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Informed Decisions",
+          "sSID": "IC.SLE.2.a",
+          "sectionDescription": "Discuss appropriate and ethical uses of technology to guide informed decisions."
+        }
+      ]
+    },
+    {
+      "week#": "30",
+      "title": "Online Behavior",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Appropriate and Inappropriate Behavior",
+          "sSID": "IC.SLE.2.b",
+          "sectionDescription": "Compare and contrast appropriate and inappropriate behavior online, including cyberbullying, and the steps to keep yourself and others safe and out of harm's way."
+        }
+      ]
+    },
+    {
+      "week#": "31",
+      "title": "Final Project Planning",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Interdisciplinary Projects",
+          "sSID": "CS, NI, DA, ATP, AI, IC",
+          "sectionDescription": "Begin planning final interdisciplinary projects that incorporate various techniques and concepts learned during the year."
+        }
+      ]
+    },
+    {
+      "week#": "32",
+      "title": "Final Project Development",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Developing Projects",
+          "sSID": "CS, NI, DA, ATP, AI, IC",
+          "sectionDescription": "Develop and refine final interdisciplinary projects."
+        }
+      ]
+    },
+    {
+      "week#": "33",
+      "title": "Final Project Development",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Refining Projects",
+          "sSID": "CS, NI, DA, ATP, AI, IC",
+          "sectionDescription": "Continue refining final interdisciplinary projects."
+        }
+      ]
+    },
+    {
+      "week#": "34",
+      "title": "Final Project Development",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Finalizing Projects",
+          "sSID": "CS, NI, DA, ATP, AI, IC",
+          "sectionDescription": "Finalize interdisciplinary projects, preparing for presentation."
+        }
+      ]
+    },
+    {
+      "week#": "35",
+      "title": "Final Project Presentation",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Presenting Projects",
+          "sSID": "CS, NI, DA, ATP, AI, IC",
+          "sectionDescription": "Present final interdisciplinary projects to the class, explaining the integration of various concepts."
+        }
+      ]
+    },
+    {
+      "week#": "36",
+      "title": "Celebrating Learning",
+      "sections": [
+        {
+          "sectionNumber": "1",
+          "sectionTitle": "Year-End Celebration",
+          "sSID": "CS, NI, DA, ATP, AI, IC",
+          "sectionDescription": "Celebrate the accomplishments and projects completed during the year."
+        }
+      ]
+    }
+  ]
+}
